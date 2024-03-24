@@ -1,0 +1,45 @@
+Here's a breakdown of the simplified code step by step:
+
+Function Definition: process_data(input_file, output_file)
+
+This function takes two arguments: input_file, the name of the file containing participant data, and output_file, the name of the file where processed data will be written.
+
+Initializing grade_data Dictionary:
+
+Inside the function, we create an empty dictionary called grade_data. This dictionary will store information about each grade, including the number of participants and the total distance covered.
+Reading Input File:
+
+The function opens the input file (input_file) in read mode ('r') using a context manager (with open(input_file, 'r') as f:).
+It reads the first line of the file to determine the number of participants (num_participants).
+
+Processing Participant Data:
+
+It then iterates over each participant using a loop (for _ in range(num_participants)).
+Inside the loop, it reads a line from the file, splits it into separate values, and assigns them to variables grade, step_length, and step_counts.
+It checks if all elements in step_counts are non-zero (using all(step_counts)). If they are, it proceeds with further calculations.
+
+Calculating Total Distance:
+
+It calculates the total distance covered by the participant by multiplying step_length with the sum of step_counts, then dividing by 100000.0 to convert from centimeters to kilometers.
+
+Updating grade_data Dictionary:
+
+It updates the grade_data dictionary for the respective grade.
+If the grade already exists in grade_data, it increments the number of entries ('entries') and adds the calculated total distance ('distance') to the existing values.
+If the grade is encountered for the first time, it initializes its entry in the dictionary with values for entries and distance, and then updates them.
+
+Writing to Output File:
+
+After processing all participants, it opens the output file (output_file) in write mode ('w') using a context manager.
+It iterates over the grade_data dictionary and writes the grade, number of entries, and total distance (formatted to two decimal places) to the output file.
+Each grade's data is written in a separate line.
+
+Function Call:
+
+Finally, the function process_data is called with the input file "u1.txt" and output file "u1result.txt".
+This code essentially reads data from an input file, calculates the total distance covered by participants of different grades, and writes the summarized data to an output file.
+
+
+
+
+

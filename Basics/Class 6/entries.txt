@@ -1,0 +1,2 @@
+id,name,age,city,potato_count
+1,Speli,58,Tallinn,3
