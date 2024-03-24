@@ -1,16 +1,17 @@
 import json
 
 
-# Function to calculate the average of a list and return integer result
+# Function to calculate the average of a list and return rounded result
 def calculate_average(lst):
-    if len(lst) == 0:
-        return 0
-    return int(sum(lst) / len(lst))
+    # Optional condition
+    # if len(lst) == 0:
+    #     return 0
+    return round(sum(lst) / len(lst))
 
 
 # Load data from JSON file
-with open('data.json') as f:
-    data = json.load(f)
+with open('data.json') as file:
+    data = json.load(file)
 
 # Calculate average of right side numbers
 right_side_avg = calculate_average(data['right_side'])
@@ -22,6 +23,6 @@ left_side_avg = calculate_average(data['left_side'])
 both_sides_avg = (right_side_avg + left_side_avg) // 2
 
 # Print results
-print("rightside:", right_side_avg)
-print("leftside:", left_side_avg)
-print("bothsides:", both_sides_avg)
+print("Right side average is:", right_side_avg)
+print("Left side average is:", left_side_avg)
+print("Average of averages is:", both_sides_avg)
