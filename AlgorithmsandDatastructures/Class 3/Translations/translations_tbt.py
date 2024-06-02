@@ -2,23 +2,31 @@ import os
 import json
 
 
-def extract_tbt_values(data, result):
+def extract_tbt_values(data):
     if isinstance(data, dict):
+        result = {}
         for key, value in data.items():
             if isinstance(value, dict):
-                result[key] = {}
-                extract_tbt_values(value, result[key])
+                sub_result = extract_tbt_values(value)
+                if sub_result:
+                    result[key] = sub_result
+            elif isinstance(value, list):
+                sub_result = extract_tbt_values(value)
+                if sub_result:
+                    result[key] = sub_result
             elif isinstance(value, str) and value.startswith("TBT:"):
                 result[key] = value
                 print(f"Found TBT value: {value}")
+        return result
     elif isinstance(data, list):
-        for index, item in enumerate(data):
-            if isinstance(item, dict):
-                result[index] = {}
-                extract_tbt_values(item, result[index])
-            elif isinstance(item, str) and item.startswith("TBT:"):
-                result[index] = item
-                print(f"Found TBT value: {item}")
+        result = []
+        for item in data:
+            sub_result = extract_tbt_values(item)
+            if sub_result:
+                result.append(sub_result)
+        return result
+    else:
+        return {}
 
 
 def collect_tbt_values(folder_path):
@@ -28,8 +36,7 @@ def collect_tbt_values(folder_path):
         if os.path.isfile(file_path) and file_name.endswith(".json"):
             with open(file_path, "r") as file:
                 data = json.load(file)
-                result = {}
-                extract_tbt_values(data, result)
+                result = extract_tbt_values(data)
                 if result:
                     tbt_values[file_name] = result
     return tbt_values
@@ -37,13 +44,12 @@ def collect_tbt_values(folder_path):
 
 def write_result_file(tbt_values, result_file):
     with open(result_file, "w") as file:
-        file.write(json.dumps(tbt_values, indent=4))
+        json.dump(tbt_values, file, indent=4)
     print("Result file written successfully.")
 
 
 if __name__ == "__main__":
-    translations_folder = ("/Users/tarmokouhkna/PycharmProjects/PythonEE23/AlgorithmsandDatastructures/Class "
-                           "3/Translations")
+    translations_folder = "/Users/tarmokouhkna/PycharmProjects/PythonEE23/AlgorithmsandDatastructures/Class 3/Translations"
     result_file = "tbt_result.json"
     tbt_values = collect_tbt_values(translations_folder)
     write_result_file(tbt_values, result_file)
