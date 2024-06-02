@@ -1,0 +1,5960 @@
+[
+    {
+        "id": 1,
+        "name": "Customer_0",
+        "products": [
+            {
+                "id": 100,
+                "name": "wheels_product_49",
+                "price": 183.21,
+                "category": "wheels"
+            },
+            {
+                "id": 392,
+                "name": "groupsets_product_41",
+                "price": 155.72,
+                "category": "groupsets"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 2,
+        "name": "Customer_1",
+        "products": [
+            {
+                "id": 218,
+                "name": "stems_product_17",
+                "price": 72.64,
+                "category": "stems"
+            },
+            {
+                "id": 337,
+                "name": "saddles_product_36",
+                "price": 15.16,
+                "category": "saddles"
+            },
+            {
+                "id": 155,
+                "name": "handlebars_product_4",
+                "price": 74.59,
+                "category": "handlebars"
+            },
+            {
+                "id": 5,
+                "name": "tyres_product_4",
+                "price": 44.36,
+                "category": "tyres"
+            },
+            {
+                "id": 46,
+                "name": "tyres_product_45",
+                "price": 35.95,
+                "category": "tyres"
+            },
+            {
+                "id": 47,
+                "name": "tyres_product_46",
+                "price": 51.61,
+                "category": "tyres"
+            },
+            {
+                "id": 257,
+                "name": "saddle posts_product_6",
+                "price": 155.31,
+                "category": "saddle posts"
+            },
+            {
+                "id": 31,
+                "name": "tyres_product_30",
+                "price": 165.72,
+                "category": "tyres"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 3,
+        "name": "Customer_2",
+        "products": [
+            {
+                "id": 200,
+                "name": "handlebars_product_49",
+                "price": 157.84,
+                "category": "handlebars"
+            },
+            {
+                "id": 436,
+                "name": "pedals_product_35",
+                "price": 53.15,
+                "category": "pedals"
+            },
+            {
+                "id": 396,
+                "name": "groupsets_product_45",
+                "price": 121.8,
+                "category": "groupsets"
+            },
+            {
+                "id": 313,
+                "name": "saddles_product_12",
+                "price": 196.99,
+                "category": "saddles"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 4,
+        "name": "Customer_3",
+        "products": [
+            {
+                "id": 183,
+                "name": "handlebars_product_32",
+                "price": 99.67,
+                "category": "handlebars"
+            },
+            {
+                "id": 445,
+                "name": "pedals_product_44",
+                "price": 27.18,
+                "category": "pedals"
+            },
+            {
+                "id": 170,
+                "name": "handlebars_product_19",
+                "price": 154.89,
+                "category": "handlebars"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 5,
+        "name": "Customer_4",
+        "products": [
+            {
+                "id": 205,
+                "name": "stems_product_4",
+                "price": 128.17,
+                "category": "stems"
+            },
+            {
+                "id": 410,
+                "name": "pedals_product_9",
+                "price": 102.64,
+                "category": "pedals"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 6,
+        "name": "Customer_5",
+        "products": [
+            {
+                "id": 274,
+                "name": "saddle posts_product_23",
+                "price": 130.0,
+                "category": "saddle posts"
+            },
+            {
+                "id": 201,
+                "name": "stems_product_0",
+                "price": 19.37,
+                "category": "stems"
+            },
+            {
+                "id": 137,
+                "name": "frames_product_36",
+                "price": 85.97,
+                "category": "frames"
+            },
+            {
+                "id": 332,
+                "name": "saddles_product_31",
+                "price": 15.67,
+                "category": "saddles"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 7,
+        "name": "Customer_6",
+        "products": [
+            {
+                "id": 188,
+                "name": "handlebars_product_37",
+                "price": 194.08,
+                "category": "handlebars"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 8,
+        "name": "Customer_7",
+        "products": [
+            {
+                "id": 261,
+                "name": "saddle posts_product_10",
+                "price": 182.54,
+                "category": "saddle posts"
+            },
+            {
+                "id": 116,
+                "name": "frames_product_15",
+                "price": 111.81,
+                "category": "frames"
+            },
+            {
+                "id": 50,
+                "name": "tyres_product_49",
+                "price": 159.37,
+                "category": "tyres"
+            },
+            {
+                "id": 29,
+                "name": "tyres_product_28",
+                "price": 165.25,
+                "category": "tyres"
+            },
+            {
+                "id": 84,
+                "name": "wheels_product_33",
+                "price": 83.93,
+                "category": "wheels"
+            },
+            {
+                "id": 231,
+                "name": "stems_product_30",
+                "price": 198.14,
+                "category": "stems"
+            },
+            {
+                "id": 324,
+                "name": "saddles_product_23",
+                "price": 127.84,
+                "category": "saddles"
+            },
+            {
+                "id": 410,
+                "name": "pedals_product_9",
+                "price": 102.64,
+                "category": "pedals"
+            },
+            {
+                "id": 353,
+                "name": "groupsets_product_2",
+                "price": 105.22,
+                "category": "groupsets"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 9,
+        "name": "Customer_8",
+        "products": [
+            {
+                "id": 316,
+                "name": "saddles_product_15",
+                "price": 93.66,
+                "category": "saddles"
+            },
+            {
+                "id": 416,
+                "name": "pedals_product_15",
+                "price": 146.08,
+                "category": "pedals"
+            },
+            {
+                "id": 57,
+                "name": "wheels_product_6",
+                "price": 151.57,
+                "category": "wheels"
+            },
+            {
+                "id": 207,
+                "name": "stems_product_6",
+                "price": 184.77,
+                "category": "stems"
+            },
+            {
+                "id": 66,
+                "name": "wheels_product_15",
+                "price": 34.63,
+                "category": "wheels"
+            },
+            {
+                "id": 337,
+                "name": "saddles_product_36",
+                "price": 15.16,
+                "category": "saddles"
+            },
+            {
+                "id": 299,
+                "name": "saddle posts_product_48",
+                "price": 76.06,
+                "category": "saddle posts"
+            },
+            {
+                "id": 83,
+                "name": "wheels_product_32",
+                "price": 26.56,
+                "category": "wheels"
+            },
+            {
+                "id": 269,
+                "name": "saddle posts_product_18",
+                "price": 140.76,
+                "category": "saddle posts"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 10,
+        "name": "Customer_9",
+        "products": [
+            {
+                "id": 58,
+                "name": "wheels_product_7",
+                "price": 128.86,
+                "category": "wheels"
+            },
+            {
+                "id": 221,
+                "name": "stems_product_20",
+                "price": 24.48,
+                "category": "stems"
+            },
+            {
+                "id": 430,
+                "name": "pedals_product_29",
+                "price": 169.46,
+                "category": "pedals"
+            },
+            {
+                "id": 250,
+                "name": "stems_product_49",
+                "price": 151.25,
+                "category": "stems"
+            },
+            {
+                "id": 402,
+                "name": "pedals_product_1",
+                "price": 64.86,
+                "category": "pedals"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 11,
+        "name": "Customer_10",
+        "products": [
+            {
+                "id": 85,
+                "name": "wheels_product_34",
+                "price": 101.06,
+                "category": "wheels"
+            },
+            {
+                "id": 404,
+                "name": "pedals_product_3",
+                "price": 64.52,
+                "category": "pedals"
+            },
+            {
+                "id": 106,
+                "name": "frames_product_5",
+                "price": 117.37,
+                "category": "frames"
+            },
+            {
+                "id": 339,
+                "name": "saddles_product_38",
+                "price": 122.02,
+                "category": "saddles"
+            },
+            {
+                "id": 214,
+                "name": "stems_product_13",
+                "price": 37.62,
+                "category": "stems"
+            },
+            {
+                "id": 346,
+                "name": "saddles_product_45",
+                "price": 101.12,
+                "category": "saddles"
+            },
+            {
+                "id": 105,
+                "name": "frames_product_4",
+                "price": 84.18,
+                "category": "frames"
+            },
+            {
+                "id": 435,
+                "name": "pedals_product_34",
+                "price": 81.71,
+                "category": "pedals"
+            },
+            {
+                "id": 305,
+                "name": "saddles_product_4",
+                "price": 65.45,
+                "category": "saddles"
+            },
+            {
+                "id": 425,
+                "name": "pedals_product_24",
+                "price": 38.08,
+                "category": "pedals"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 12,
+        "name": "Customer_11",
+        "products": [
+            {
+                "id": 56,
+                "name": "wheels_product_5",
+                "price": 188.64,
+                "category": "wheels"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 13,
+        "name": "Customer_12",
+        "products": [
+            {
+                "id": 387,
+                "name": "groupsets_product_36",
+                "price": 172.23,
+                "category": "groupsets"
+            },
+            {
+                "id": 286,
+                "name": "saddle posts_product_35",
+                "price": 177.14,
+                "category": "saddle posts"
+            },
+            {
+                "id": 284,
+                "name": "saddle posts_product_33",
+                "price": 149.62,
+                "category": "saddle posts"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 14,
+        "name": "Customer_13",
+        "products": [
+            {
+                "id": 130,
+                "name": "frames_product_29",
+                "price": 44.9,
+                "category": "frames"
+            },
+            {
+                "id": 434,
+                "name": "pedals_product_33",
+                "price": 53.68,
+                "category": "pedals"
+            },
+            {
+                "id": 214,
+                "name": "stems_product_13",
+                "price": 37.62,
+                "category": "stems"
+            },
+            {
+                "id": 194,
+                "name": "handlebars_product_43",
+                "price": 81.53,
+                "category": "handlebars"
+            },
+            {
+                "id": 443,
+                "name": "pedals_product_42",
+                "price": 67.72,
+                "category": "pedals"
+            },
+            {
+                "id": 153,
+                "name": "handlebars_product_2",
+                "price": 14.71,
+                "category": "handlebars"
+            },
+            {
+                "id": 193,
+                "name": "handlebars_product_42",
+                "price": 94.19,
+                "category": "handlebars"
+            },
+            {
+                "id": 334,
+                "name": "saddles_product_33",
+                "price": 188.64,
+                "category": "saddles"
+            },
+            {
+                "id": 362,
+                "name": "groupsets_product_11",
+                "price": 13.75,
+                "category": "groupsets"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 15,
+        "name": "Customer_14",
+        "products": [
+            {
+                "id": 319,
+                "name": "saddles_product_18",
+                "price": 12.22,
+                "category": "saddles"
+            },
+            {
+                "id": 254,
+                "name": "saddle posts_product_3",
+                "price": 12.46,
+                "category": "saddle posts"
+            },
+            {
+                "id": 255,
+                "name": "saddle posts_product_4",
+                "price": 102.54,
+                "category": "saddle posts"
+            },
+            {
+                "id": 346,
+                "name": "saddles_product_45",
+                "price": 101.12,
+                "category": "saddles"
+            },
+            {
+                "id": 328,
+                "name": "saddles_product_27",
+                "price": 52.67,
+                "category": "saddles"
+            },
+            {
+                "id": 227,
+                "name": "stems_product_26",
+                "price": 66.27,
+                "category": "stems"
+            },
+            {
+                "id": 447,
+                "name": "pedals_product_46",
+                "price": 22.82,
+                "category": "pedals"
+            },
+            {
+                "id": 120,
+                "name": "frames_product_19",
+                "price": 98.6,
+                "category": "frames"
+            },
+            {
+                "id": 134,
+                "name": "frames_product_33",
+                "price": 144.28,
+                "category": "frames"
+            },
+            {
+                "id": 143,
+                "name": "frames_product_42",
+                "price": 145.45,
+                "category": "frames"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 16,
+        "name": "Customer_15",
+        "products": [
+            {
+                "id": 270,
+                "name": "saddle posts_product_19",
+                "price": 165.94,
+                "category": "saddle posts"
+            },
+            {
+                "id": 332,
+                "name": "saddles_product_31",
+                "price": 15.67,
+                "category": "saddles"
+            },
+            {
+                "id": 247,
+                "name": "stems_product_46",
+                "price": 25.6,
+                "category": "stems"
+            },
+            {
+                "id": 264,
+                "name": "saddle posts_product_13",
+                "price": 113.67,
+                "category": "saddle posts"
+            },
+            {
+                "id": 189,
+                "name": "handlebars_product_38",
+                "price": 180.29,
+                "category": "handlebars"
+            },
+            {
+                "id": 241,
+                "name": "stems_product_40",
+                "price": 99.64,
+                "category": "stems"
+            },
+            {
+                "id": 22,
+                "name": "tyres_product_21",
+                "price": 76.47,
+                "category": "tyres"
+            },
+            {
+                "id": 181,
+                "name": "handlebars_product_30",
+                "price": 169.45,
+                "category": "handlebars"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 17,
+        "name": "Customer_16",
+        "products": [
+            {
+                "id": 81,
+                "name": "wheels_product_30",
+                "price": 55.73,
+                "category": "wheels"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 18,
+        "name": "Customer_17",
+        "products": [
+            {
+                "id": 13,
+                "name": "tyres_product_12",
+                "price": 148.46,
+                "category": "tyres"
+            },
+            {
+                "id": 250,
+                "name": "stems_product_49",
+                "price": 151.25,
+                "category": "stems"
+            },
+            {
+                "id": 205,
+                "name": "stems_product_4",
+                "price": 128.17,
+                "category": "stems"
+            },
+            {
+                "id": 197,
+                "name": "handlebars_product_46",
+                "price": 183.41,
+                "category": "handlebars"
+            },
+            {
+                "id": 322,
+                "name": "saddles_product_21",
+                "price": 129.5,
+                "category": "saddles"
+            },
+            {
+                "id": 175,
+                "name": "handlebars_product_24",
+                "price": 36.02,
+                "category": "handlebars"
+            },
+            {
+                "id": 211,
+                "name": "stems_product_10",
+                "price": 86.05,
+                "category": "stems"
+            },
+            {
+                "id": 375,
+                "name": "groupsets_product_24",
+                "price": 102.14,
+                "category": "groupsets"
+            },
+            {
+                "id": 35,
+                "name": "tyres_product_34",
+                "price": 74.49,
+                "category": "tyres"
+            },
+            {
+                "id": 290,
+                "name": "saddle posts_product_39",
+                "price": 116.1,
+                "category": "saddle posts"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 19,
+        "name": "Customer_18",
+        "products": [
+            {
+                "id": 202,
+                "name": "stems_product_1",
+                "price": 63.77,
+                "category": "stems"
+            },
+            {
+                "id": 106,
+                "name": "frames_product_5",
+                "price": 117.37,
+                "category": "frames"
+            },
+            {
+                "id": 316,
+                "name": "saddles_product_15",
+                "price": 93.66,
+                "category": "saddles"
+            },
+            {
+                "id": 185,
+                "name": "handlebars_product_34",
+                "price": 163.63,
+                "category": "handlebars"
+            },
+            {
+                "id": 437,
+                "name": "pedals_product_36",
+                "price": 11.38,
+                "category": "pedals"
+            },
+            {
+                "id": 94,
+                "name": "wheels_product_43",
+                "price": 59.16,
+                "category": "wheels"
+            },
+            {
+                "id": 63,
+                "name": "wheels_product_12",
+                "price": 100.48,
+                "category": "wheels"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 20,
+        "name": "Customer_19",
+        "products": [
+            {
+                "id": 308,
+                "name": "saddles_product_7",
+                "price": 75.02,
+                "category": "saddles"
+            },
+            {
+                "id": 281,
+                "name": "saddle posts_product_30",
+                "price": 192.72,
+                "category": "saddle posts"
+            },
+            {
+                "id": 403,
+                "name": "pedals_product_2",
+                "price": 113.08,
+                "category": "pedals"
+            },
+            {
+                "id": 344,
+                "name": "saddles_product_43",
+                "price": 25.41,
+                "category": "saddles"
+            },
+            {
+                "id": 113,
+                "name": "frames_product_12",
+                "price": 162.1,
+                "category": "frames"
+            },
+            {
+                "id": 93,
+                "name": "wheels_product_42",
+                "price": 160.67,
+                "category": "wheels"
+            },
+            {
+                "id": 278,
+                "name": "saddle posts_product_27",
+                "price": 124.17,
+                "category": "saddle posts"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 21,
+        "name": "Customer_20",
+        "products": [
+            {
+                "id": 79,
+                "name": "wheels_product_28",
+                "price": 42.83,
+                "category": "wheels"
+            },
+            {
+                "id": 302,
+                "name": "saddles_product_1",
+                "price": 183.55,
+                "category": "saddles"
+            },
+            {
+                "id": 145,
+                "name": "frames_product_44",
+                "price": 47.05,
+                "category": "frames"
+            },
+            {
+                "id": 149,
+                "name": "frames_product_48",
+                "price": 29.88,
+                "category": "frames"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 22,
+        "name": "Customer_21",
+        "products": [
+            {
+                "id": 178,
+                "name": "handlebars_product_27",
+                "price": 126.75,
+                "category": "handlebars"
+            },
+            {
+                "id": 1,
+                "name": "tyres_product_0",
+                "price": 81.71,
+                "category": "tyres"
+            },
+            {
+                "id": 131,
+                "name": "frames_product_30",
+                "price": 53.8,
+                "category": "frames"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 23,
+        "name": "Customer_22",
+        "products": [
+            {
+                "id": 331,
+                "name": "saddles_product_30",
+                "price": 113.17,
+                "category": "saddles"
+            },
+            {
+                "id": 291,
+                "name": "saddle posts_product_40",
+                "price": 51.84,
+                "category": "saddle posts"
+            },
+            {
+                "id": 382,
+                "name": "groupsets_product_31",
+                "price": 132.61,
+                "category": "groupsets"
+            },
+            {
+                "id": 162,
+                "name": "handlebars_product_11",
+                "price": 173.56,
+                "category": "handlebars"
+            },
+            {
+                "id": 264,
+                "name": "saddle posts_product_13",
+                "price": 113.67,
+                "category": "saddle posts"
+            },
+            {
+                "id": 245,
+                "name": "stems_product_44",
+                "price": 79.99,
+                "category": "stems"
+            },
+            {
+                "id": 357,
+                "name": "groupsets_product_6",
+                "price": 107.31,
+                "category": "groupsets"
+            },
+            {
+                "id": 6,
+                "name": "tyres_product_5",
+                "price": 139.4,
+                "category": "tyres"
+            },
+            {
+                "id": 256,
+                "name": "saddle posts_product_5",
+                "price": 137.62,
+                "category": "saddle posts"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 24,
+        "name": "Customer_23",
+        "products": [
+            {
+                "id": 267,
+                "name": "saddle posts_product_16",
+                "price": 53.59,
+                "category": "saddle posts"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 25,
+        "name": "Customer_24",
+        "products": [
+            {
+                "id": 21,
+                "name": "tyres_product_20",
+                "price": 199.06,
+                "category": "tyres"
+            },
+            {
+                "id": 371,
+                "name": "groupsets_product_20",
+                "price": 75.33,
+                "category": "groupsets"
+            },
+            {
+                "id": 394,
+                "name": "groupsets_product_43",
+                "price": 63.6,
+                "category": "groupsets"
+            },
+            {
+                "id": 59,
+                "name": "wheels_product_8",
+                "price": 121.83,
+                "category": "wheels"
+            },
+            {
+                "id": 149,
+                "name": "frames_product_48",
+                "price": 29.88,
+                "category": "frames"
+            },
+            {
+                "id": 388,
+                "name": "groupsets_product_37",
+                "price": 180.28,
+                "category": "groupsets"
+            },
+            {
+                "id": 376,
+                "name": "groupsets_product_25",
+                "price": 160.88,
+                "category": "groupsets"
+            },
+            {
+                "id": 57,
+                "name": "wheels_product_6",
+                "price": 151.57,
+                "category": "wheels"
+            },
+            {
+                "id": 26,
+                "name": "tyres_product_25",
+                "price": 51.91,
+                "category": "tyres"
+            },
+            {
+                "id": 345,
+                "name": "saddles_product_44",
+                "price": 86.75,
+                "category": "saddles"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 26,
+        "name": "Customer_25",
+        "products": [
+            {
+                "id": 311,
+                "name": "saddles_product_10",
+                "price": 96.73,
+                "category": "saddles"
+            },
+            {
+                "id": 52,
+                "name": "wheels_product_1",
+                "price": 126.73,
+                "category": "wheels"
+            },
+            {
+                "id": 213,
+                "name": "stems_product_12",
+                "price": 185.51,
+                "category": "stems"
+            },
+            {
+                "id": 411,
+                "name": "pedals_product_10",
+                "price": 56.55,
+                "category": "pedals"
+            },
+            {
+                "id": 414,
+                "name": "pedals_product_13",
+                "price": 104.05,
+                "category": "pedals"
+            },
+            {
+                "id": 404,
+                "name": "pedals_product_3",
+                "price": 64.52,
+                "category": "pedals"
+            },
+            {
+                "id": 99,
+                "name": "wheels_product_48",
+                "price": 151.78,
+                "category": "wheels"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 27,
+        "name": "Customer_26",
+        "products": [
+            {
+                "id": 181,
+                "name": "handlebars_product_30",
+                "price": 169.45,
+                "category": "handlebars"
+            },
+            {
+                "id": 309,
+                "name": "saddles_product_8",
+                "price": 139.45,
+                "category": "saddles"
+            },
+            {
+                "id": 80,
+                "name": "wheels_product_29",
+                "price": 14.57,
+                "category": "wheels"
+            },
+            {
+                "id": 15,
+                "name": "tyres_product_14",
+                "price": 96.53,
+                "category": "tyres"
+            },
+            {
+                "id": 106,
+                "name": "frames_product_5",
+                "price": 117.37,
+                "category": "frames"
+            },
+            {
+                "id": 203,
+                "name": "stems_product_2",
+                "price": 159.91,
+                "category": "stems"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 28,
+        "name": "Customer_27",
+        "products": [
+            {
+                "id": 70,
+                "name": "wheels_product_19",
+                "price": 33.81,
+                "category": "wheels"
+            },
+            {
+                "id": 265,
+                "name": "saddle posts_product_14",
+                "price": 70.95,
+                "category": "saddle posts"
+            },
+            {
+                "id": 291,
+                "name": "saddle posts_product_40",
+                "price": 51.84,
+                "category": "saddle posts"
+            },
+            {
+                "id": 283,
+                "name": "saddle posts_product_32",
+                "price": 62.19,
+                "category": "saddle posts"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 29,
+        "name": "Customer_28",
+        "products": [
+            {
+                "id": 234,
+                "name": "stems_product_33",
+                "price": 49.41,
+                "category": "stems"
+            },
+            {
+                "id": 369,
+                "name": "groupsets_product_18",
+                "price": 126.57,
+                "category": "groupsets"
+            },
+            {
+                "id": 161,
+                "name": "handlebars_product_10",
+                "price": 38.86,
+                "category": "handlebars"
+            },
+            {
+                "id": 340,
+                "name": "saddles_product_39",
+                "price": 163.64,
+                "category": "saddles"
+            },
+            {
+                "id": 160,
+                "name": "handlebars_product_9",
+                "price": 115.5,
+                "category": "handlebars"
+            },
+            {
+                "id": 331,
+                "name": "saddles_product_30",
+                "price": 113.17,
+                "category": "saddles"
+            },
+            {
+                "id": 335,
+                "name": "saddles_product_34",
+                "price": 100.15,
+                "category": "saddles"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 30,
+        "name": "Customer_29",
+        "products": [
+            {
+                "id": 257,
+                "name": "saddle posts_product_6",
+                "price": 155.31,
+                "category": "saddle posts"
+            },
+            {
+                "id": 262,
+                "name": "saddle posts_product_11",
+                "price": 153.57,
+                "category": "saddle posts"
+            },
+            {
+                "id": 383,
+                "name": "groupsets_product_32",
+                "price": 193.92,
+                "category": "groupsets"
+            },
+            {
+                "id": 295,
+                "name": "saddle posts_product_44",
+                "price": 154.54,
+                "category": "saddle posts"
+            },
+            {
+                "id": 219,
+                "name": "stems_product_18",
+                "price": 163.04,
+                "category": "stems"
+            },
+            {
+                "id": 358,
+                "name": "groupsets_product_7",
+                "price": 197.2,
+                "category": "groupsets"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 31,
+        "name": "Customer_30",
+        "products": [
+            {
+                "id": 410,
+                "name": "pedals_product_9",
+                "price": 102.64,
+                "category": "pedals"
+            },
+            {
+                "id": 253,
+                "name": "saddle posts_product_2",
+                "price": 170.24,
+                "category": "saddle posts"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 32,
+        "name": "Customer_31",
+        "products": [
+            {
+                "id": 167,
+                "name": "handlebars_product_16",
+                "price": 16.23,
+                "category": "handlebars"
+            },
+            {
+                "id": 232,
+                "name": "stems_product_31",
+                "price": 119.07,
+                "category": "stems"
+            },
+            {
+                "id": 78,
+                "name": "wheels_product_27",
+                "price": 199.84,
+                "category": "wheels"
+            },
+            {
+                "id": 294,
+                "name": "saddle posts_product_43",
+                "price": 89.28,
+                "category": "saddle posts"
+            },
+            {
+                "id": 51,
+                "name": "wheels_product_0",
+                "price": 113.36,
+                "category": "wheels"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 33,
+        "name": "Customer_32",
+        "products": [
+            {
+                "id": 119,
+                "name": "frames_product_18",
+                "price": 115.7,
+                "category": "frames"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 34,
+        "name": "Customer_33",
+        "products": [
+            {
+                "id": 65,
+                "name": "wheels_product_14",
+                "price": 140.89,
+                "category": "wheels"
+            },
+            {
+                "id": 301,
+                "name": "saddles_product_0",
+                "price": 60.86,
+                "category": "saddles"
+            },
+            {
+                "id": 46,
+                "name": "tyres_product_45",
+                "price": 35.95,
+                "category": "tyres"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 35,
+        "name": "Customer_34",
+        "products": [
+            {
+                "id": 293,
+                "name": "saddle posts_product_42",
+                "price": 194.37,
+                "category": "saddle posts"
+            },
+            {
+                "id": 264,
+                "name": "saddle posts_product_13",
+                "price": 113.67,
+                "category": "saddle posts"
+            },
+            {
+                "id": 36,
+                "name": "tyres_product_35",
+                "price": 82.11,
+                "category": "tyres"
+            },
+            {
+                "id": 288,
+                "name": "saddle posts_product_37",
+                "price": 13.64,
+                "category": "saddle posts"
+            },
+            {
+                "id": 417,
+                "name": "pedals_product_16",
+                "price": 77.38,
+                "category": "pedals"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 36,
+        "name": "Customer_35",
+        "products": [
+            {
+                "id": 173,
+                "name": "handlebars_product_22",
+                "price": 159.72,
+                "category": "handlebars"
+            },
+            {
+                "id": 141,
+                "name": "frames_product_40",
+                "price": 100.78,
+                "category": "frames"
+            },
+            {
+                "id": 147,
+                "name": "frames_product_46",
+                "price": 135.7,
+                "category": "frames"
+            },
+            {
+                "id": 351,
+                "name": "groupsets_product_0",
+                "price": 70.97,
+                "category": "groupsets"
+            },
+            {
+                "id": 129,
+                "name": "frames_product_28",
+                "price": 32.08,
+                "category": "frames"
+            },
+            {
+                "id": 225,
+                "name": "stems_product_24",
+                "price": 98.0,
+                "category": "stems"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 37,
+        "name": "Customer_36",
+        "products": [
+            {
+                "id": 174,
+                "name": "handlebars_product_23",
+                "price": 132.43,
+                "category": "handlebars"
+            },
+            {
+                "id": 22,
+                "name": "tyres_product_21",
+                "price": 76.47,
+                "category": "tyres"
+            },
+            {
+                "id": 8,
+                "name": "tyres_product_7",
+                "price": 179.17,
+                "category": "tyres"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 38,
+        "name": "Customer_37",
+        "products": [
+            {
+                "id": 233,
+                "name": "stems_product_32",
+                "price": 123.52,
+                "category": "stems"
+            },
+            {
+                "id": 376,
+                "name": "groupsets_product_25",
+                "price": 160.88,
+                "category": "groupsets"
+            },
+            {
+                "id": 439,
+                "name": "pedals_product_38",
+                "price": 126.72,
+                "category": "pedals"
+            },
+            {
+                "id": 362,
+                "name": "groupsets_product_11",
+                "price": 13.75,
+                "category": "groupsets"
+            },
+            {
+                "id": 202,
+                "name": "stems_product_1",
+                "price": 63.77,
+                "category": "stems"
+            },
+            {
+                "id": 82,
+                "name": "wheels_product_31",
+                "price": 34.96,
+                "category": "wheels"
+            },
+            {
+                "id": 251,
+                "name": "saddle posts_product_0",
+                "price": 66.22,
+                "category": "saddle posts"
+            },
+            {
+                "id": 326,
+                "name": "saddles_product_25",
+                "price": 58.83,
+                "category": "saddles"
+            },
+            {
+                "id": 307,
+                "name": "saddles_product_6",
+                "price": 25.22,
+                "category": "saddles"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 39,
+        "name": "Customer_38",
+        "products": [
+            {
+                "id": 158,
+                "name": "handlebars_product_7",
+                "price": 152.69,
+                "category": "handlebars"
+            },
+            {
+                "id": 317,
+                "name": "saddles_product_16",
+                "price": 20.28,
+                "category": "saddles"
+            },
+            {
+                "id": 188,
+                "name": "handlebars_product_37",
+                "price": 194.08,
+                "category": "handlebars"
+            },
+            {
+                "id": 283,
+                "name": "saddle posts_product_32",
+                "price": 62.19,
+                "category": "saddle posts"
+            },
+            {
+                "id": 248,
+                "name": "stems_product_47",
+                "price": 144.68,
+                "category": "stems"
+            },
+            {
+                "id": 197,
+                "name": "handlebars_product_46",
+                "price": 183.41,
+                "category": "handlebars"
+            },
+            {
+                "id": 11,
+                "name": "tyres_product_10",
+                "price": 126.77,
+                "category": "tyres"
+            },
+            {
+                "id": 281,
+                "name": "saddle posts_product_30",
+                "price": 192.72,
+                "category": "saddle posts"
+            },
+            {
+                "id": 47,
+                "name": "tyres_product_46",
+                "price": 51.61,
+                "category": "tyres"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 40,
+        "name": "Customer_39",
+        "products": [
+            {
+                "id": 247,
+                "name": "stems_product_46",
+                "price": 25.6,
+                "category": "stems"
+            },
+            {
+                "id": 282,
+                "name": "saddle posts_product_31",
+                "price": 198.13,
+                "category": "saddle posts"
+            },
+            {
+                "id": 48,
+                "name": "tyres_product_47",
+                "price": 162.12,
+                "category": "tyres"
+            },
+            {
+                "id": 313,
+                "name": "saddles_product_12",
+                "price": 196.99,
+                "category": "saddles"
+            },
+            {
+                "id": 35,
+                "name": "tyres_product_34",
+                "price": 74.49,
+                "category": "tyres"
+            },
+            {
+                "id": 246,
+                "name": "stems_product_45",
+                "price": 27.18,
+                "category": "stems"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 41,
+        "name": "Customer_40",
+        "products": [
+            {
+                "id": 432,
+                "name": "pedals_product_31",
+                "price": 115.87,
+                "category": "pedals"
+            },
+            {
+                "id": 136,
+                "name": "frames_product_35",
+                "price": 75.42,
+                "category": "frames"
+            },
+            {
+                "id": 281,
+                "name": "saddle posts_product_30",
+                "price": 192.72,
+                "category": "saddle posts"
+            },
+            {
+                "id": 92,
+                "name": "wheels_product_41",
+                "price": 193.47,
+                "category": "wheels"
+            },
+            {
+                "id": 363,
+                "name": "groupsets_product_12",
+                "price": 182.58,
+                "category": "groupsets"
+            },
+            {
+                "id": 216,
+                "name": "stems_product_15",
+                "price": 137.79,
+                "category": "stems"
+            },
+            {
+                "id": 328,
+                "name": "saddles_product_27",
+                "price": 52.67,
+                "category": "saddles"
+            },
+            {
+                "id": 131,
+                "name": "frames_product_30",
+                "price": 53.8,
+                "category": "frames"
+            },
+            {
+                "id": 316,
+                "name": "saddles_product_15",
+                "price": 93.66,
+                "category": "saddles"
+            },
+            {
+                "id": 385,
+                "name": "groupsets_product_34",
+                "price": 76.17,
+                "category": "groupsets"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 42,
+        "name": "Customer_41",
+        "products": [
+            {
+                "id": 161,
+                "name": "handlebars_product_10",
+                "price": 38.86,
+                "category": "handlebars"
+            },
+            {
+                "id": 77,
+                "name": "wheels_product_26",
+                "price": 43.76,
+                "category": "wheels"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 43,
+        "name": "Customer_42",
+        "products": [
+            {
+                "id": 53,
+                "name": "wheels_product_2",
+                "price": 114.63,
+                "category": "wheels"
+            },
+            {
+                "id": 249,
+                "name": "stems_product_48",
+                "price": 36.86,
+                "category": "stems"
+            },
+            {
+                "id": 450,
+                "name": "pedals_product_49",
+                "price": 139.71,
+                "category": "pedals"
+            },
+            {
+                "id": 305,
+                "name": "saddles_product_4",
+                "price": 65.45,
+                "category": "saddles"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 44,
+        "name": "Customer_43",
+        "products": [
+            {
+                "id": 297,
+                "name": "saddle posts_product_46",
+                "price": 103.03,
+                "category": "saddle posts"
+            },
+            {
+                "id": 300,
+                "name": "saddle posts_product_49",
+                "price": 70.57,
+                "category": "saddle posts"
+            },
+            {
+                "id": 121,
+                "name": "frames_product_20",
+                "price": 198.04,
+                "category": "frames"
+            },
+            {
+                "id": 53,
+                "name": "wheels_product_2",
+                "price": 114.63,
+                "category": "wheels"
+            },
+            {
+                "id": 289,
+                "name": "saddle posts_product_38",
+                "price": 187.12,
+                "category": "saddle posts"
+            },
+            {
+                "id": 137,
+                "name": "frames_product_36",
+                "price": 85.97,
+                "category": "frames"
+            },
+            {
+                "id": 291,
+                "name": "saddle posts_product_40",
+                "price": 51.84,
+                "category": "saddle posts"
+            },
+            {
+                "id": 114,
+                "name": "frames_product_13",
+                "price": 130.4,
+                "category": "frames"
+            },
+            {
+                "id": 292,
+                "name": "saddle posts_product_41",
+                "price": 144.66,
+                "category": "saddle posts"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 45,
+        "name": "Customer_44",
+        "products": [
+            {
+                "id": 369,
+                "name": "groupsets_product_18",
+                "price": 126.57,
+                "category": "groupsets"
+            },
+            {
+                "id": 2,
+                "name": "tyres_product_1",
+                "price": 178.04,
+                "category": "tyres"
+            },
+            {
+                "id": 319,
+                "name": "saddles_product_18",
+                "price": 12.22,
+                "category": "saddles"
+            },
+            {
+                "id": 61,
+                "name": "wheels_product_10",
+                "price": 140.54,
+                "category": "wheels"
+            },
+            {
+                "id": 208,
+                "name": "stems_product_7",
+                "price": 146.27,
+                "category": "stems"
+            },
+            {
+                "id": 50,
+                "name": "tyres_product_49",
+                "price": 159.37,
+                "category": "tyres"
+            },
+            {
+                "id": 44,
+                "name": "tyres_product_43",
+                "price": 17.27,
+                "category": "tyres"
+            },
+            {
+                "id": 395,
+                "name": "groupsets_product_44",
+                "price": 187.34,
+                "category": "groupsets"
+            },
+            {
+                "id": 212,
+                "name": "stems_product_11",
+                "price": 77.91,
+                "category": "stems"
+            },
+            {
+                "id": 77,
+                "name": "wheels_product_26",
+                "price": 43.76,
+                "category": "wheels"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 46,
+        "name": "Customer_45",
+        "products": [
+            {
+                "id": 145,
+                "name": "frames_product_44",
+                "price": 47.05,
+                "category": "frames"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 47,
+        "name": "Customer_46",
+        "products": [
+            {
+                "id": 61,
+                "name": "wheels_product_10",
+                "price": 140.54,
+                "category": "wheels"
+            },
+            {
+                "id": 270,
+                "name": "saddle posts_product_19",
+                "price": 165.94,
+                "category": "saddle posts"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 48,
+        "name": "Customer_47",
+        "products": [
+            {
+                "id": 44,
+                "name": "tyres_product_43",
+                "price": 17.27,
+                "category": "tyres"
+            },
+            {
+                "id": 290,
+                "name": "saddle posts_product_39",
+                "price": 116.1,
+                "category": "saddle posts"
+            },
+            {
+                "id": 336,
+                "name": "saddles_product_35",
+                "price": 26.02,
+                "category": "saddles"
+            },
+            {
+                "id": 31,
+                "name": "tyres_product_30",
+                "price": 165.72,
+                "category": "tyres"
+            },
+            {
+                "id": 310,
+                "name": "saddles_product_9",
+                "price": 156.89,
+                "category": "saddles"
+            },
+            {
+                "id": 397,
+                "name": "groupsets_product_46",
+                "price": 138.78,
+                "category": "groupsets"
+            },
+            {
+                "id": 395,
+                "name": "groupsets_product_44",
+                "price": 187.34,
+                "category": "groupsets"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 49,
+        "name": "Customer_48",
+        "products": [
+            {
+                "id": 177,
+                "name": "handlebars_product_26",
+                "price": 48.92,
+                "category": "handlebars"
+            },
+            {
+                "id": 441,
+                "name": "pedals_product_40",
+                "price": 16.94,
+                "category": "pedals"
+            },
+            {
+                "id": 130,
+                "name": "frames_product_29",
+                "price": 44.9,
+                "category": "frames"
+            },
+            {
+                "id": 129,
+                "name": "frames_product_28",
+                "price": 32.08,
+                "category": "frames"
+            },
+            {
+                "id": 145,
+                "name": "frames_product_44",
+                "price": 47.05,
+                "category": "frames"
+            },
+            {
+                "id": 35,
+                "name": "tyres_product_34",
+                "price": 74.49,
+                "category": "tyres"
+            },
+            {
+                "id": 173,
+                "name": "handlebars_product_22",
+                "price": 159.72,
+                "category": "handlebars"
+            },
+            {
+                "id": 81,
+                "name": "wheels_product_30",
+                "price": 55.73,
+                "category": "wheels"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 50,
+        "name": "Customer_49",
+        "products": [
+            {
+                "id": 40,
+                "name": "tyres_product_39",
+                "price": 180.79,
+                "category": "tyres"
+            },
+            {
+                "id": 337,
+                "name": "saddles_product_36",
+                "price": 15.16,
+                "category": "saddles"
+            },
+            {
+                "id": 175,
+                "name": "handlebars_product_24",
+                "price": 36.02,
+                "category": "handlebars"
+            },
+            {
+                "id": 169,
+                "name": "handlebars_product_18",
+                "price": 146.61,
+                "category": "handlebars"
+            },
+            {
+                "id": 449,
+                "name": "pedals_product_48",
+                "price": 95.37,
+                "category": "pedals"
+            },
+            {
+                "id": 10,
+                "name": "tyres_product_9",
+                "price": 136.29,
+                "category": "tyres"
+            },
+            {
+                "id": 141,
+                "name": "frames_product_40",
+                "price": 100.78,
+                "category": "frames"
+            },
+            {
+                "id": 185,
+                "name": "handlebars_product_34",
+                "price": 163.63,
+                "category": "handlebars"
+            },
+            {
+                "id": 29,
+                "name": "tyres_product_28",
+                "price": 165.25,
+                "category": "tyres"
+            },
+            {
+                "id": 206,
+                "name": "stems_product_5",
+                "price": 178.56,
+                "category": "stems"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 51,
+        "name": "Customer_50",
+        "products": [
+            {
+                "id": 147,
+                "name": "frames_product_46",
+                "price": 135.7,
+                "category": "frames"
+            },
+            {
+                "id": 179,
+                "name": "handlebars_product_28",
+                "price": 65.94,
+                "category": "handlebars"
+            },
+            {
+                "id": 155,
+                "name": "handlebars_product_4",
+                "price": 74.59,
+                "category": "handlebars"
+            },
+            {
+                "id": 422,
+                "name": "pedals_product_21",
+                "price": 170.33,
+                "category": "pedals"
+            },
+            {
+                "id": 111,
+                "name": "frames_product_10",
+                "price": 63.82,
+                "category": "frames"
+            },
+            {
+                "id": 23,
+                "name": "tyres_product_22",
+                "price": 140.56,
+                "category": "tyres"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 52,
+        "name": "Customer_51",
+        "products": [
+            {
+                "id": 125,
+                "name": "frames_product_24",
+                "price": 91.65,
+                "category": "frames"
+            },
+            {
+                "id": 312,
+                "name": "saddles_product_11",
+                "price": 78.47,
+                "category": "saddles"
+            },
+            {
+                "id": 93,
+                "name": "wheels_product_42",
+                "price": 160.67,
+                "category": "wheels"
+            },
+            {
+                "id": 275,
+                "name": "saddle posts_product_24",
+                "price": 52.35,
+                "category": "saddle posts"
+            },
+            {
+                "id": 4,
+                "name": "tyres_product_3",
+                "price": 106.88,
+                "category": "tyres"
+            },
+            {
+                "id": 305,
+                "name": "saddles_product_4",
+                "price": 65.45,
+                "category": "saddles"
+            },
+            {
+                "id": 357,
+                "name": "groupsets_product_6",
+                "price": 107.31,
+                "category": "groupsets"
+            },
+            {
+                "id": 189,
+                "name": "handlebars_product_38",
+                "price": 180.29,
+                "category": "handlebars"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 53,
+        "name": "Customer_52",
+        "products": [
+            {
+                "id": 14,
+                "name": "tyres_product_13",
+                "price": 15.68,
+                "category": "tyres"
+            },
+            {
+                "id": 436,
+                "name": "pedals_product_35",
+                "price": 53.15,
+                "category": "pedals"
+            },
+            {
+                "id": 200,
+                "name": "handlebars_product_49",
+                "price": 157.84,
+                "category": "handlebars"
+            },
+            {
+                "id": 85,
+                "name": "wheels_product_34",
+                "price": 101.06,
+                "category": "wheels"
+            },
+            {
+                "id": 273,
+                "name": "saddle posts_product_22",
+                "price": 172.55,
+                "category": "saddle posts"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 54,
+        "name": "Customer_53",
+        "products": [
+            {
+                "id": 400,
+                "name": "groupsets_product_49",
+                "price": 98.68,
+                "category": "groupsets"
+            },
+            {
+                "id": 399,
+                "name": "groupsets_product_48",
+                "price": 176.88,
+                "category": "groupsets"
+            },
+            {
+                "id": 236,
+                "name": "stems_product_35",
+                "price": 73.55,
+                "category": "stems"
+            },
+            {
+                "id": 416,
+                "name": "pedals_product_15",
+                "price": 146.08,
+                "category": "pedals"
+            },
+            {
+                "id": 6,
+                "name": "tyres_product_5",
+                "price": 139.4,
+                "category": "tyres"
+            },
+            {
+                "id": 388,
+                "name": "groupsets_product_37",
+                "price": 180.28,
+                "category": "groupsets"
+            },
+            {
+                "id": 60,
+                "name": "wheels_product_9",
+                "price": 89.26,
+                "category": "wheels"
+            },
+            {
+                "id": 98,
+                "name": "wheels_product_47",
+                "price": 141.72,
+                "category": "wheels"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 55,
+        "name": "Customer_54",
+        "products": [
+            {
+                "id": 34,
+                "name": "tyres_product_33",
+                "price": 176.03,
+                "category": "tyres"
+            },
+            {
+                "id": 399,
+                "name": "groupsets_product_48",
+                "price": 176.88,
+                "category": "groupsets"
+            },
+            {
+                "id": 273,
+                "name": "saddle posts_product_22",
+                "price": 172.55,
+                "category": "saddle posts"
+            },
+            {
+                "id": 151,
+                "name": "handlebars_product_0",
+                "price": 54.51,
+                "category": "handlebars"
+            },
+            {
+                "id": 75,
+                "name": "wheels_product_24",
+                "price": 13.56,
+                "category": "wheels"
+            },
+            {
+                "id": 50,
+                "name": "tyres_product_49",
+                "price": 159.37,
+                "category": "tyres"
+            },
+            {
+                "id": 83,
+                "name": "wheels_product_32",
+                "price": 26.56,
+                "category": "wheels"
+            },
+            {
+                "id": 374,
+                "name": "groupsets_product_23",
+                "price": 154.14,
+                "category": "groupsets"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 56,
+        "name": "Customer_55",
+        "products": [
+            {
+                "id": 158,
+                "name": "handlebars_product_7",
+                "price": 152.69,
+                "category": "handlebars"
+            },
+            {
+                "id": 339,
+                "name": "saddles_product_38",
+                "price": 122.02,
+                "category": "saddles"
+            },
+            {
+                "id": 426,
+                "name": "pedals_product_25",
+                "price": 135.08,
+                "category": "pedals"
+            },
+            {
+                "id": 196,
+                "name": "handlebars_product_45",
+                "price": 88.06,
+                "category": "handlebars"
+            },
+            {
+                "id": 332,
+                "name": "saddles_product_31",
+                "price": 15.67,
+                "category": "saddles"
+            },
+            {
+                "id": 422,
+                "name": "pedals_product_21",
+                "price": 170.33,
+                "category": "pedals"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 57,
+        "name": "Customer_56",
+        "products": [
+            {
+                "id": 126,
+                "name": "frames_product_25",
+                "price": 18.72,
+                "category": "frames"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 58,
+        "name": "Customer_57",
+        "products": [
+            {
+                "id": 223,
+                "name": "stems_product_22",
+                "price": 155.29,
+                "category": "stems"
+            },
+            {
+                "id": 34,
+                "name": "tyres_product_33",
+                "price": 176.03,
+                "category": "tyres"
+            },
+            {
+                "id": 125,
+                "name": "frames_product_24",
+                "price": 91.65,
+                "category": "frames"
+            },
+            {
+                "id": 385,
+                "name": "groupsets_product_34",
+                "price": 76.17,
+                "category": "groupsets"
+            },
+            {
+                "id": 234,
+                "name": "stems_product_33",
+                "price": 49.41,
+                "category": "stems"
+            },
+            {
+                "id": 414,
+                "name": "pedals_product_13",
+                "price": 104.05,
+                "category": "pedals"
+            },
+            {
+                "id": 330,
+                "name": "saddles_product_29",
+                "price": 64.77,
+                "category": "saddles"
+            },
+            {
+                "id": 20,
+                "name": "tyres_product_19",
+                "price": 84.96,
+                "category": "tyres"
+            },
+            {
+                "id": 443,
+                "name": "pedals_product_42",
+                "price": 67.72,
+                "category": "pedals"
+            },
+            {
+                "id": 251,
+                "name": "saddle posts_product_0",
+                "price": 66.22,
+                "category": "saddle posts"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 59,
+        "name": "Customer_58",
+        "products": [
+            {
+                "id": 74,
+                "name": "wheels_product_23",
+                "price": 120.2,
+                "category": "wheels"
+            },
+            {
+                "id": 450,
+                "name": "pedals_product_49",
+                "price": 139.71,
+                "category": "pedals"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 60,
+        "name": "Customer_59",
+        "products": [
+            {
+                "id": 65,
+                "name": "wheels_product_14",
+                "price": 140.89,
+                "category": "wheels"
+            },
+            {
+                "id": 197,
+                "name": "handlebars_product_46",
+                "price": 183.41,
+                "category": "handlebars"
+            },
+            {
+                "id": 369,
+                "name": "groupsets_product_18",
+                "price": 126.57,
+                "category": "groupsets"
+            },
+            {
+                "id": 337,
+                "name": "saddles_product_36",
+                "price": 15.16,
+                "category": "saddles"
+            },
+            {
+                "id": 311,
+                "name": "saddles_product_10",
+                "price": 96.73,
+                "category": "saddles"
+            },
+            {
+                "id": 89,
+                "name": "wheels_product_38",
+                "price": 125.85,
+                "category": "wheels"
+            },
+            {
+                "id": 117,
+                "name": "frames_product_16",
+                "price": 51.73,
+                "category": "frames"
+            },
+            {
+                "id": 254,
+                "name": "saddle posts_product_3",
+                "price": 12.46,
+                "category": "saddle posts"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 61,
+        "name": "Customer_60",
+        "products": [
+            {
+                "id": 98,
+                "name": "wheels_product_47",
+                "price": 141.72,
+                "category": "wheels"
+            },
+            {
+                "id": 221,
+                "name": "stems_product_20",
+                "price": 24.48,
+                "category": "stems"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 62,
+        "name": "Customer_61",
+        "products": [
+            {
+                "id": 434,
+                "name": "pedals_product_33",
+                "price": 53.68,
+                "category": "pedals"
+            },
+            {
+                "id": 28,
+                "name": "tyres_product_27",
+                "price": 106.69,
+                "category": "tyres"
+            },
+            {
+                "id": 363,
+                "name": "groupsets_product_12",
+                "price": 182.58,
+                "category": "groupsets"
+            },
+            {
+                "id": 313,
+                "name": "saddles_product_12",
+                "price": 196.99,
+                "category": "saddles"
+            },
+            {
+                "id": 82,
+                "name": "wheels_product_31",
+                "price": 34.96,
+                "category": "wheels"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 63,
+        "name": "Customer_62",
+        "products": [
+            {
+                "id": 97,
+                "name": "wheels_product_46",
+                "price": 10.9,
+                "category": "wheels"
+            },
+            {
+                "id": 416,
+                "name": "pedals_product_15",
+                "price": 146.08,
+                "category": "pedals"
+            },
+            {
+                "id": 13,
+                "name": "tyres_product_12",
+                "price": 148.46,
+                "category": "tyres"
+            },
+            {
+                "id": 37,
+                "name": "tyres_product_36",
+                "price": 128.6,
+                "category": "tyres"
+            },
+            {
+                "id": 89,
+                "name": "wheels_product_38",
+                "price": 125.85,
+                "category": "wheels"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 64,
+        "name": "Customer_63",
+        "products": [
+            {
+                "id": 200,
+                "name": "handlebars_product_49",
+                "price": 157.84,
+                "category": "handlebars"
+            },
+            {
+                "id": 315,
+                "name": "saddles_product_14",
+                "price": 121.17,
+                "category": "saddles"
+            },
+            {
+                "id": 359,
+                "name": "groupsets_product_8",
+                "price": 162.56,
+                "category": "groupsets"
+            },
+            {
+                "id": 68,
+                "name": "wheels_product_17",
+                "price": 187.96,
+                "category": "wheels"
+            },
+            {
+                "id": 217,
+                "name": "stems_product_16",
+                "price": 165.42,
+                "category": "stems"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 65,
+        "name": "Customer_64",
+        "products": [
+            {
+                "id": 287,
+                "name": "saddle posts_product_36",
+                "price": 196.77,
+                "category": "saddle posts"
+            },
+            {
+                "id": 447,
+                "name": "pedals_product_46",
+                "price": 22.82,
+                "category": "pedals"
+            },
+            {
+                "id": 98,
+                "name": "wheels_product_47",
+                "price": 141.72,
+                "category": "wheels"
+            },
+            {
+                "id": 318,
+                "name": "saddles_product_17",
+                "price": 81.27,
+                "category": "saddles"
+            },
+            {
+                "id": 125,
+                "name": "frames_product_24",
+                "price": 91.65,
+                "category": "frames"
+            },
+            {
+                "id": 295,
+                "name": "saddle posts_product_44",
+                "price": 154.54,
+                "category": "saddle posts"
+            },
+            {
+                "id": 5,
+                "name": "tyres_product_4",
+                "price": 44.36,
+                "category": "tyres"
+            },
+            {
+                "id": 87,
+                "name": "wheels_product_36",
+                "price": 142.04,
+                "category": "wheels"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 66,
+        "name": "Customer_65",
+        "products": [
+            {
+                "id": 307,
+                "name": "saddles_product_6",
+                "price": 25.22,
+                "category": "saddles"
+            },
+            {
+                "id": 180,
+                "name": "handlebars_product_29",
+                "price": 112.27,
+                "category": "handlebars"
+            },
+            {
+                "id": 257,
+                "name": "saddle posts_product_6",
+                "price": 155.31,
+                "category": "saddle posts"
+            },
+            {
+                "id": 34,
+                "name": "tyres_product_33",
+                "price": 176.03,
+                "category": "tyres"
+            },
+            {
+                "id": 188,
+                "name": "handlebars_product_37",
+                "price": 194.08,
+                "category": "handlebars"
+            },
+            {
+                "id": 81,
+                "name": "wheels_product_30",
+                "price": 55.73,
+                "category": "wheels"
+            },
+            {
+                "id": 318,
+                "name": "saddles_product_17",
+                "price": 81.27,
+                "category": "saddles"
+            },
+            {
+                "id": 86,
+                "name": "wheels_product_35",
+                "price": 108.17,
+                "category": "wheels"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 67,
+        "name": "Customer_66",
+        "products": [
+            {
+                "id": 393,
+                "name": "groupsets_product_42",
+                "price": 135.87,
+                "category": "groupsets"
+            },
+            {
+                "id": 445,
+                "name": "pedals_product_44",
+                "price": 27.18,
+                "category": "pedals"
+            },
+            {
+                "id": 415,
+                "name": "pedals_product_14",
+                "price": 197.84,
+                "category": "pedals"
+            },
+            {
+                "id": 64,
+                "name": "wheels_product_13",
+                "price": 180.04,
+                "category": "wheels"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 68,
+        "name": "Customer_67",
+        "products": [
+            {
+                "id": 193,
+                "name": "handlebars_product_42",
+                "price": 94.19,
+                "category": "handlebars"
+            },
+            {
+                "id": 15,
+                "name": "tyres_product_14",
+                "price": 96.53,
+                "category": "tyres"
+            },
+            {
+                "id": 60,
+                "name": "wheels_product_9",
+                "price": 89.26,
+                "category": "wheels"
+            },
+            {
+                "id": 196,
+                "name": "handlebars_product_45",
+                "price": 88.06,
+                "category": "handlebars"
+            },
+            {
+                "id": 233,
+                "name": "stems_product_32",
+                "price": 123.52,
+                "category": "stems"
+            },
+            {
+                "id": 224,
+                "name": "stems_product_23",
+                "price": 64.81,
+                "category": "stems"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 69,
+        "name": "Customer_68",
+        "products": [
+            {
+                "id": 57,
+                "name": "wheels_product_6",
+                "price": 151.57,
+                "category": "wheels"
+            },
+            {
+                "id": 396,
+                "name": "groupsets_product_45",
+                "price": 121.8,
+                "category": "groupsets"
+            },
+            {
+                "id": 274,
+                "name": "saddle posts_product_23",
+                "price": 130.0,
+                "category": "saddle posts"
+            },
+            {
+                "id": 383,
+                "name": "groupsets_product_32",
+                "price": 193.92,
+                "category": "groupsets"
+            },
+            {
+                "id": 67,
+                "name": "wheels_product_16",
+                "price": 115.12,
+                "category": "wheels"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 70,
+        "name": "Customer_69",
+        "products": [
+            {
+                "id": 67,
+                "name": "wheels_product_16",
+                "price": 115.12,
+                "category": "wheels"
+            },
+            {
+                "id": 239,
+                "name": "stems_product_38",
+                "price": 68.98,
+                "category": "stems"
+            },
+            {
+                "id": 126,
+                "name": "frames_product_25",
+                "price": 18.72,
+                "category": "frames"
+            },
+            {
+                "id": 345,
+                "name": "saddles_product_44",
+                "price": 86.75,
+                "category": "saddles"
+            },
+            {
+                "id": 389,
+                "name": "groupsets_product_38",
+                "price": 49.22,
+                "category": "groupsets"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 71,
+        "name": "Customer_70",
+        "products": [
+            {
+                "id": 28,
+                "name": "tyres_product_27",
+                "price": 106.69,
+                "category": "tyres"
+            },
+            {
+                "id": 311,
+                "name": "saddles_product_10",
+                "price": 96.73,
+                "category": "saddles"
+            },
+            {
+                "id": 14,
+                "name": "tyres_product_13",
+                "price": 15.68,
+                "category": "tyres"
+            },
+            {
+                "id": 216,
+                "name": "stems_product_15",
+                "price": 137.79,
+                "category": "stems"
+            },
+            {
+                "id": 397,
+                "name": "groupsets_product_46",
+                "price": 138.78,
+                "category": "groupsets"
+            },
+            {
+                "id": 113,
+                "name": "frames_product_12",
+                "price": 162.1,
+                "category": "frames"
+            },
+            {
+                "id": 70,
+                "name": "wheels_product_19",
+                "price": 33.81,
+                "category": "wheels"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 72,
+        "name": "Customer_71",
+        "products": [
+            {
+                "id": 99,
+                "name": "wheels_product_48",
+                "price": 151.78,
+                "category": "wheels"
+            },
+            {
+                "id": 375,
+                "name": "groupsets_product_24",
+                "price": 102.14,
+                "category": "groupsets"
+            },
+            {
+                "id": 332,
+                "name": "saddles_product_31",
+                "price": 15.67,
+                "category": "saddles"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 73,
+        "name": "Customer_72",
+        "products": [
+            {
+                "id": 326,
+                "name": "saddles_product_25",
+                "price": 58.83,
+                "category": "saddles"
+            },
+            {
+                "id": 319,
+                "name": "saddles_product_18",
+                "price": 12.22,
+                "category": "saddles"
+            },
+            {
+                "id": 421,
+                "name": "pedals_product_20",
+                "price": 167.0,
+                "category": "pedals"
+            },
+            {
+                "id": 259,
+                "name": "saddle posts_product_8",
+                "price": 157.34,
+                "category": "saddle posts"
+            },
+            {
+                "id": 176,
+                "name": "handlebars_product_25",
+                "price": 77.39,
+                "category": "handlebars"
+            },
+            {
+                "id": 106,
+                "name": "frames_product_5",
+                "price": 117.37,
+                "category": "frames"
+            },
+            {
+                "id": 1,
+                "name": "tyres_product_0",
+                "price": 81.71,
+                "category": "tyres"
+            },
+            {
+                "id": 58,
+                "name": "wheels_product_7",
+                "price": 128.86,
+                "category": "wheels"
+            },
+            {
+                "id": 333,
+                "name": "saddles_product_32",
+                "price": 20.53,
+                "category": "saddles"
+            },
+            {
+                "id": 36,
+                "name": "tyres_product_35",
+                "price": 82.11,
+                "category": "tyres"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 74,
+        "name": "Customer_73",
+        "products": [
+            {
+                "id": 344,
+                "name": "saddles_product_43",
+                "price": 25.41,
+                "category": "saddles"
+            },
+            {
+                "id": 165,
+                "name": "handlebars_product_14",
+                "price": 106.15,
+                "category": "handlebars"
+            },
+            {
+                "id": 208,
+                "name": "stems_product_7",
+                "price": 146.27,
+                "category": "stems"
+            },
+            {
+                "id": 118,
+                "name": "frames_product_17",
+                "price": 103.4,
+                "category": "frames"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 75,
+        "name": "Customer_74",
+        "products": [
+            {
+                "id": 243,
+                "name": "stems_product_42",
+                "price": 73.16,
+                "category": "stems"
+            },
+            {
+                "id": 425,
+                "name": "pedals_product_24",
+                "price": 38.08,
+                "category": "pedals"
+            },
+            {
+                "id": 307,
+                "name": "saddles_product_6",
+                "price": 25.22,
+                "category": "saddles"
+            },
+            {
+                "id": 60,
+                "name": "wheels_product_9",
+                "price": 89.26,
+                "category": "wheels"
+            },
+            {
+                "id": 396,
+                "name": "groupsets_product_45",
+                "price": 121.8,
+                "category": "groupsets"
+            },
+            {
+                "id": 204,
+                "name": "stems_product_3",
+                "price": 30.14,
+                "category": "stems"
+            },
+            {
+                "id": 263,
+                "name": "saddle posts_product_12",
+                "price": 154.67,
+                "category": "saddle posts"
+            },
+            {
+                "id": 91,
+                "name": "wheels_product_40",
+                "price": 88.24,
+                "category": "wheels"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 76,
+        "name": "Customer_75",
+        "products": [
+            {
+                "id": 378,
+                "name": "groupsets_product_27",
+                "price": 103.71,
+                "category": "groupsets"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 77,
+        "name": "Customer_76",
+        "products": [
+            {
+                "id": 216,
+                "name": "stems_product_15",
+                "price": 137.79,
+                "category": "stems"
+            },
+            {
+                "id": 104,
+                "name": "frames_product_3",
+                "price": 134.99,
+                "category": "frames"
+            },
+            {
+                "id": 369,
+                "name": "groupsets_product_18",
+                "price": 126.57,
+                "category": "groupsets"
+            },
+            {
+                "id": 400,
+                "name": "groupsets_product_49",
+                "price": 98.68,
+                "category": "groupsets"
+            },
+            {
+                "id": 299,
+                "name": "saddle posts_product_48",
+                "price": 76.06,
+                "category": "saddle posts"
+            },
+            {
+                "id": 114,
+                "name": "frames_product_13",
+                "price": 130.4,
+                "category": "frames"
+            },
+            {
+                "id": 125,
+                "name": "frames_product_24",
+                "price": 91.65,
+                "category": "frames"
+            },
+            {
+                "id": 163,
+                "name": "handlebars_product_12",
+                "price": 37.85,
+                "category": "handlebars"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 78,
+        "name": "Customer_77",
+        "products": [
+            {
+                "id": 50,
+                "name": "tyres_product_49",
+                "price": 159.37,
+                "category": "tyres"
+            },
+            {
+                "id": 190,
+                "name": "handlebars_product_39",
+                "price": 168.47,
+                "category": "handlebars"
+            },
+            {
+                "id": 411,
+                "name": "pedals_product_10",
+                "price": 56.55,
+                "category": "pedals"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 79,
+        "name": "Customer_78",
+        "products": [
+            {
+                "id": 87,
+                "name": "wheels_product_36",
+                "price": 142.04,
+                "category": "wheels"
+            },
+            {
+                "id": 86,
+                "name": "wheels_product_35",
+                "price": 108.17,
+                "category": "wheels"
+            },
+            {
+                "id": 274,
+                "name": "saddle posts_product_23",
+                "price": 130.0,
+                "category": "saddle posts"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 80,
+        "name": "Customer_79",
+        "products": [
+            {
+                "id": 76,
+                "name": "wheels_product_25",
+                "price": 74.61,
+                "category": "wheels"
+            },
+            {
+                "id": 137,
+                "name": "frames_product_36",
+                "price": 85.97,
+                "category": "frames"
+            },
+            {
+                "id": 298,
+                "name": "saddle posts_product_47",
+                "price": 178.06,
+                "category": "saddle posts"
+            },
+            {
+                "id": 104,
+                "name": "frames_product_3",
+                "price": 134.99,
+                "category": "frames"
+            },
+            {
+                "id": 322,
+                "name": "saddles_product_21",
+                "price": 129.5,
+                "category": "saddles"
+            },
+            {
+                "id": 47,
+                "name": "tyres_product_46",
+                "price": 51.61,
+                "category": "tyres"
+            },
+            {
+                "id": 167,
+                "name": "handlebars_product_16",
+                "price": 16.23,
+                "category": "handlebars"
+            },
+            {
+                "id": 316,
+                "name": "saddles_product_15",
+                "price": 93.66,
+                "category": "saddles"
+            },
+            {
+                "id": 232,
+                "name": "stems_product_31",
+                "price": 119.07,
+                "category": "stems"
+            },
+            {
+                "id": 424,
+                "name": "pedals_product_23",
+                "price": 166.72,
+                "category": "pedals"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 81,
+        "name": "Customer_80",
+        "products": [
+            {
+                "id": 238,
+                "name": "stems_product_37",
+                "price": 65.55,
+                "category": "stems"
+            },
+            {
+                "id": 435,
+                "name": "pedals_product_34",
+                "price": 81.71,
+                "category": "pedals"
+            },
+            {
+                "id": 224,
+                "name": "stems_product_23",
+                "price": 64.81,
+                "category": "stems"
+            },
+            {
+                "id": 326,
+                "name": "saddles_product_25",
+                "price": 58.83,
+                "category": "saddles"
+            },
+            {
+                "id": 401,
+                "name": "pedals_product_0",
+                "price": 182.87,
+                "category": "pedals"
+            },
+            {
+                "id": 187,
+                "name": "handlebars_product_36",
+                "price": 144.35,
+                "category": "handlebars"
+            },
+            {
+                "id": 397,
+                "name": "groupsets_product_46",
+                "price": 138.78,
+                "category": "groupsets"
+            },
+            {
+                "id": 398,
+                "name": "groupsets_product_47",
+                "price": 77.01,
+                "category": "groupsets"
+            },
+            {
+                "id": 137,
+                "name": "frames_product_36",
+                "price": 85.97,
+                "category": "frames"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 82,
+        "name": "Customer_81",
+        "products": [
+            {
+                "id": 163,
+                "name": "handlebars_product_12",
+                "price": 37.85,
+                "category": "handlebars"
+            },
+            {
+                "id": 305,
+                "name": "saddles_product_4",
+                "price": 65.45,
+                "category": "saddles"
+            },
+            {
+                "id": 432,
+                "name": "pedals_product_31",
+                "price": 115.87,
+                "category": "pedals"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 83,
+        "name": "Customer_82",
+        "products": [
+            {
+                "id": 294,
+                "name": "saddle posts_product_43",
+                "price": 89.28,
+                "category": "saddle posts"
+            },
+            {
+                "id": 81,
+                "name": "wheels_product_30",
+                "price": 55.73,
+                "category": "wheels"
+            },
+            {
+                "id": 193,
+                "name": "handlebars_product_42",
+                "price": 94.19,
+                "category": "handlebars"
+            },
+            {
+                "id": 35,
+                "name": "tyres_product_34",
+                "price": 74.49,
+                "category": "tyres"
+            },
+            {
+                "id": 112,
+                "name": "frames_product_11",
+                "price": 182.72,
+                "category": "frames"
+            },
+            {
+                "id": 224,
+                "name": "stems_product_23",
+                "price": 64.81,
+                "category": "stems"
+            },
+            {
+                "id": 232,
+                "name": "stems_product_31",
+                "price": 119.07,
+                "category": "stems"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 84,
+        "name": "Customer_83",
+        "products": [
+            {
+                "id": 133,
+                "name": "frames_product_32",
+                "price": 48.56,
+                "category": "frames"
+            },
+            {
+                "id": 112,
+                "name": "frames_product_11",
+                "price": 182.72,
+                "category": "frames"
+            },
+            {
+                "id": 188,
+                "name": "handlebars_product_37",
+                "price": 194.08,
+                "category": "handlebars"
+            },
+            {
+                "id": 53,
+                "name": "wheels_product_2",
+                "price": 114.63,
+                "category": "wheels"
+            },
+            {
+                "id": 431,
+                "name": "pedals_product_30",
+                "price": 171.76,
+                "category": "pedals"
+            },
+            {
+                "id": 331,
+                "name": "saddles_product_30",
+                "price": 113.17,
+                "category": "saddles"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 85,
+        "name": "Customer_84",
+        "products": [
+            {
+                "id": 349,
+                "name": "saddles_product_48",
+                "price": 20.25,
+                "category": "saddles"
+            },
+            {
+                "id": 171,
+                "name": "handlebars_product_20",
+                "price": 93.4,
+                "category": "handlebars"
+            },
+            {
+                "id": 236,
+                "name": "stems_product_35",
+                "price": 73.55,
+                "category": "stems"
+            },
+            {
+                "id": 443,
+                "name": "pedals_product_42",
+                "price": 67.72,
+                "category": "pedals"
+            },
+            {
+                "id": 421,
+                "name": "pedals_product_20",
+                "price": 167.0,
+                "category": "pedals"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 86,
+        "name": "Customer_85",
+        "products": [
+            {
+                "id": 241,
+                "name": "stems_product_40",
+                "price": 99.64,
+                "category": "stems"
+            },
+            {
+                "id": 397,
+                "name": "groupsets_product_46",
+                "price": 138.78,
+                "category": "groupsets"
+            },
+            {
+                "id": 212,
+                "name": "stems_product_11",
+                "price": 77.91,
+                "category": "stems"
+            },
+            {
+                "id": 398,
+                "name": "groupsets_product_47",
+                "price": 77.01,
+                "category": "groupsets"
+            },
+            {
+                "id": 371,
+                "name": "groupsets_product_20",
+                "price": 75.33,
+                "category": "groupsets"
+            },
+            {
+                "id": 348,
+                "name": "saddles_product_47",
+                "price": 59.07,
+                "category": "saddles"
+            },
+            {
+                "id": 123,
+                "name": "frames_product_22",
+                "price": 125.88,
+                "category": "frames"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 87,
+        "name": "Customer_86",
+        "products": [
+            {
+                "id": 350,
+                "name": "saddles_product_49",
+                "price": 115.95,
+                "category": "saddles"
+            },
+            {
+                "id": 148,
+                "name": "frames_product_47",
+                "price": 74.27,
+                "category": "frames"
+            },
+            {
+                "id": 260,
+                "name": "saddle posts_product_9",
+                "price": 27.84,
+                "category": "saddle posts"
+            },
+            {
+                "id": 107,
+                "name": "frames_product_6",
+                "price": 149.49,
+                "category": "frames"
+            },
+            {
+                "id": 191,
+                "name": "handlebars_product_40",
+                "price": 128.3,
+                "category": "handlebars"
+            },
+            {
+                "id": 348,
+                "name": "saddles_product_47",
+                "price": 59.07,
+                "category": "saddles"
+            },
+            {
+                "id": 323,
+                "name": "saddles_product_22",
+                "price": 124.59,
+                "category": "saddles"
+            },
+            {
+                "id": 329,
+                "name": "saddles_product_28",
+                "price": 114.59,
+                "category": "saddles"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 88,
+        "name": "Customer_87",
+        "products": [
+            {
+                "id": 169,
+                "name": "handlebars_product_18",
+                "price": 146.61,
+                "category": "handlebars"
+            },
+            {
+                "id": 179,
+                "name": "handlebars_product_28",
+                "price": 65.94,
+                "category": "handlebars"
+            },
+            {
+                "id": 365,
+                "name": "groupsets_product_14",
+                "price": 20.21,
+                "category": "groupsets"
+            },
+            {
+                "id": 199,
+                "name": "handlebars_product_48",
+                "price": 33.44,
+                "category": "handlebars"
+            },
+            {
+                "id": 162,
+                "name": "handlebars_product_11",
+                "price": 173.56,
+                "category": "handlebars"
+            },
+            {
+                "id": 105,
+                "name": "frames_product_4",
+                "price": 84.18,
+                "category": "frames"
+            },
+            {
+                "id": 190,
+                "name": "handlebars_product_39",
+                "price": 168.47,
+                "category": "handlebars"
+            },
+            {
+                "id": 117,
+                "name": "frames_product_16",
+                "price": 51.73,
+                "category": "frames"
+            },
+            {
+                "id": 93,
+                "name": "wheels_product_42",
+                "price": 160.67,
+                "category": "wheels"
+            },
+            {
+                "id": 360,
+                "name": "groupsets_product_9",
+                "price": 138.93,
+                "category": "groupsets"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 89,
+        "name": "Customer_88",
+        "products": [
+            {
+                "id": 392,
+                "name": "groupsets_product_41",
+                "price": 155.72,
+                "category": "groupsets"
+            },
+            {
+                "id": 322,
+                "name": "saddles_product_21",
+                "price": 129.5,
+                "category": "saddles"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 90,
+        "name": "Customer_89",
+        "products": [
+            {
+                "id": 353,
+                "name": "groupsets_product_2",
+                "price": 105.22,
+                "category": "groupsets"
+            },
+            {
+                "id": 207,
+                "name": "stems_product_6",
+                "price": 184.77,
+                "category": "stems"
+            },
+            {
+                "id": 236,
+                "name": "stems_product_35",
+                "price": 73.55,
+                "category": "stems"
+            },
+            {
+                "id": 368,
+                "name": "groupsets_product_17",
+                "price": 45.3,
+                "category": "groupsets"
+            },
+            {
+                "id": 257,
+                "name": "saddle posts_product_6",
+                "price": 155.31,
+                "category": "saddle posts"
+            },
+            {
+                "id": 76,
+                "name": "wheels_product_25",
+                "price": 74.61,
+                "category": "wheels"
+            },
+            {
+                "id": 266,
+                "name": "saddle posts_product_15",
+                "price": 51.23,
+                "category": "saddle posts"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 91,
+        "name": "Customer_90",
+        "products": [
+            {
+                "id": 98,
+                "name": "wheels_product_47",
+                "price": 141.72,
+                "category": "wheels"
+            },
+            {
+                "id": 285,
+                "name": "saddle posts_product_34",
+                "price": 119.83,
+                "category": "saddle posts"
+            },
+            {
+                "id": 405,
+                "name": "pedals_product_4",
+                "price": 124.28,
+                "category": "pedals"
+            },
+            {
+                "id": 2,
+                "name": "tyres_product_1",
+                "price": 178.04,
+                "category": "tyres"
+            },
+            {
+                "id": 371,
+                "name": "groupsets_product_20",
+                "price": 75.33,
+                "category": "groupsets"
+            },
+            {
+                "id": 423,
+                "name": "pedals_product_22",
+                "price": 180.02,
+                "category": "pedals"
+            },
+            {
+                "id": 193,
+                "name": "handlebars_product_42",
+                "price": 94.19,
+                "category": "handlebars"
+            },
+            {
+                "id": 420,
+                "name": "pedals_product_19",
+                "price": 136.23,
+                "category": "pedals"
+            },
+            {
+                "id": 151,
+                "name": "handlebars_product_0",
+                "price": 54.51,
+                "category": "handlebars"
+            },
+            {
+                "id": 340,
+                "name": "saddles_product_39",
+                "price": 163.64,
+                "category": "saddles"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 92,
+        "name": "Customer_91",
+        "products": [
+            {
+                "id": 433,
+                "name": "pedals_product_32",
+                "price": 41.06,
+                "category": "pedals"
+            },
+            {
+                "id": 441,
+                "name": "pedals_product_40",
+                "price": 16.94,
+                "category": "pedals"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 93,
+        "name": "Customer_92",
+        "products": [
+            {
+                "id": 62,
+                "name": "wheels_product_11",
+                "price": 46.63,
+                "category": "wheels"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 94,
+        "name": "Customer_93",
+        "products": [
+            {
+                "id": 92,
+                "name": "wheels_product_41",
+                "price": 193.47,
+                "category": "wheels"
+            },
+            {
+                "id": 103,
+                "name": "frames_product_2",
+                "price": 20.6,
+                "category": "frames"
+            },
+            {
+                "id": 403,
+                "name": "pedals_product_2",
+                "price": 113.08,
+                "category": "pedals"
+            },
+            {
+                "id": 271,
+                "name": "saddle posts_product_20",
+                "price": 34.19,
+                "category": "saddle posts"
+            },
+            {
+                "id": 280,
+                "name": "saddle posts_product_29",
+                "price": 177.46,
+                "category": "saddle posts"
+            },
+            {
+                "id": 356,
+                "name": "groupsets_product_5",
+                "price": 167.58,
+                "category": "groupsets"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 95,
+        "name": "Customer_94",
+        "products": [
+            {
+                "id": 430,
+                "name": "pedals_product_29",
+                "price": 169.46,
+                "category": "pedals"
+            },
+            {
+                "id": 244,
+                "name": "stems_product_43",
+                "price": 181.4,
+                "category": "stems"
+            },
+            {
+                "id": 277,
+                "name": "saddle posts_product_26",
+                "price": 135.71,
+                "category": "saddle posts"
+            },
+            {
+                "id": 25,
+                "name": "tyres_product_24",
+                "price": 65.82,
+                "category": "tyres"
+            },
+            {
+                "id": 307,
+                "name": "saddles_product_6",
+                "price": 25.22,
+                "category": "saddles"
+            },
+            {
+                "id": 49,
+                "name": "tyres_product_48",
+                "price": 74.66,
+                "category": "tyres"
+            },
+            {
+                "id": 352,
+                "name": "groupsets_product_1",
+                "price": 95.45,
+                "category": "groupsets"
+            },
+            {
+                "id": 5,
+                "name": "tyres_product_4",
+                "price": 44.36,
+                "category": "tyres"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 96,
+        "name": "Customer_95",
+        "products": [
+            {
+                "id": 446,
+                "name": "pedals_product_45",
+                "price": 98.02,
+                "category": "pedals"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 97,
+        "name": "Customer_96",
+        "products": [
+            {
+                "id": 42,
+                "name": "tyres_product_41",
+                "price": 143.42,
+                "category": "tyres"
+            },
+            {
+                "id": 48,
+                "name": "tyres_product_47",
+                "price": 162.12,
+                "category": "tyres"
+            },
+            {
+                "id": 164,
+                "name": "handlebars_product_13",
+                "price": 138.89,
+                "category": "handlebars"
+            },
+            {
+                "id": 224,
+                "name": "stems_product_23",
+                "price": 64.81,
+                "category": "stems"
+            },
+            {
+                "id": 412,
+                "name": "pedals_product_11",
+                "price": 182.03,
+                "category": "pedals"
+            },
+            {
+                "id": 199,
+                "name": "handlebars_product_48",
+                "price": 33.44,
+                "category": "handlebars"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 98,
+        "name": "Customer_97",
+        "products": [
+            {
+                "id": 55,
+                "name": "wheels_product_4",
+                "price": 161.02,
+                "category": "wheels"
+            },
+            {
+                "id": 375,
+                "name": "groupsets_product_24",
+                "price": 102.14,
+                "category": "groupsets"
+            },
+            {
+                "id": 28,
+                "name": "tyres_product_27",
+                "price": 106.69,
+                "category": "tyres"
+            },
+            {
+                "id": 117,
+                "name": "frames_product_16",
+                "price": 51.73,
+                "category": "frames"
+            },
+            {
+                "id": 295,
+                "name": "saddle posts_product_44",
+                "price": 154.54,
+                "category": "saddle posts"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 99,
+        "name": "Customer_98",
+        "products": [
+            {
+                "id": 122,
+                "name": "frames_product_21",
+                "price": 36.77,
+                "category": "frames"
+            },
+            {
+                "id": 292,
+                "name": "saddle posts_product_41",
+                "price": 144.66,
+                "category": "saddle posts"
+            },
+            {
+                "id": 392,
+                "name": "groupsets_product_41",
+                "price": 155.72,
+                "category": "groupsets"
+            },
+            {
+                "id": 375,
+                "name": "groupsets_product_24",
+                "price": 102.14,
+                "category": "groupsets"
+            },
+            {
+                "id": 160,
+                "name": "handlebars_product_9",
+                "price": 115.5,
+                "category": "handlebars"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 100,
+        "name": "Customer_99",
+        "products": [
+            {
+                "id": 76,
+                "name": "wheels_product_25",
+                "price": 74.61,
+                "category": "wheels"
+            },
+            {
+                "id": 183,
+                "name": "handlebars_product_32",
+                "price": 99.67,
+                "category": "handlebars"
+            },
+            {
+                "id": 142,
+                "name": "frames_product_41",
+                "price": 16.49,
+                "category": "frames"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 101,
+        "name": "Customer_100",
+        "products": [
+            {
+                "id": 35,
+                "name": "tyres_product_34",
+                "price": 74.49,
+                "category": "tyres"
+            },
+            {
+                "id": 219,
+                "name": "stems_product_18",
+                "price": 163.04,
+                "category": "stems"
+            },
+            {
+                "id": 297,
+                "name": "saddle posts_product_46",
+                "price": 103.03,
+                "category": "saddle posts"
+            },
+            {
+                "id": 230,
+                "name": "stems_product_29",
+                "price": 122.54,
+                "category": "stems"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 102,
+        "name": "Customer_101",
+        "products": [
+            {
+                "id": 116,
+                "name": "frames_product_15",
+                "price": 111.81,
+                "category": "frames"
+            },
+            {
+                "id": 215,
+                "name": "stems_product_14",
+                "price": 21.24,
+                "category": "stems"
+            },
+            {
+                "id": 77,
+                "name": "wheels_product_26",
+                "price": 43.76,
+                "category": "wheels"
+            },
+            {
+                "id": 234,
+                "name": "stems_product_33",
+                "price": 49.41,
+                "category": "stems"
+            },
+            {
+                "id": 145,
+                "name": "frames_product_44",
+                "price": 47.05,
+                "category": "frames"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 103,
+        "name": "Customer_102",
+        "products": [
+            {
+                "id": 289,
+                "name": "saddle posts_product_38",
+                "price": 187.12,
+                "category": "saddle posts"
+            },
+            {
+                "id": 262,
+                "name": "saddle posts_product_11",
+                "price": 153.57,
+                "category": "saddle posts"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 104,
+        "name": "Customer_103",
+        "products": [
+            {
+                "id": 17,
+                "name": "tyres_product_16",
+                "price": 43.89,
+                "category": "tyres"
+            },
+            {
+                "id": 367,
+                "name": "groupsets_product_16",
+                "price": 62.14,
+                "category": "groupsets"
+            },
+            {
+                "id": 21,
+                "name": "tyres_product_20",
+                "price": 199.06,
+                "category": "tyres"
+            },
+            {
+                "id": 232,
+                "name": "stems_product_31",
+                "price": 119.07,
+                "category": "stems"
+            },
+            {
+                "id": 234,
+                "name": "stems_product_33",
+                "price": 49.41,
+                "category": "stems"
+            },
+            {
+                "id": 88,
+                "name": "wheels_product_37",
+                "price": 144.92,
+                "category": "wheels"
+            },
+            {
+                "id": 126,
+                "name": "frames_product_25",
+                "price": 18.72,
+                "category": "frames"
+            },
+            {
+                "id": 362,
+                "name": "groupsets_product_11",
+                "price": 13.75,
+                "category": "groupsets"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 105,
+        "name": "Customer_104",
+        "products": [
+            {
+                "id": 33,
+                "name": "tyres_product_32",
+                "price": 50.73,
+                "category": "tyres"
+            },
+            {
+                "id": 258,
+                "name": "saddle posts_product_7",
+                "price": 14.71,
+                "category": "saddle posts"
+            },
+            {
+                "id": 101,
+                "name": "frames_product_0",
+                "price": 147.33,
+                "category": "frames"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 106,
+        "name": "Customer_105",
+        "products": [
+            {
+                "id": 195,
+                "name": "handlebars_product_44",
+                "price": 20.27,
+                "category": "handlebars"
+            },
+            {
+                "id": 9,
+                "name": "tyres_product_8",
+                "price": 19.97,
+                "category": "tyres"
+            },
+            {
+                "id": 61,
+                "name": "wheels_product_10",
+                "price": 140.54,
+                "category": "wheels"
+            },
+            {
+                "id": 430,
+                "name": "pedals_product_29",
+                "price": 169.46,
+                "category": "pedals"
+            },
+            {
+                "id": 112,
+                "name": "frames_product_11",
+                "price": 182.72,
+                "category": "frames"
+            },
+            {
+                "id": 416,
+                "name": "pedals_product_15",
+                "price": 146.08,
+                "category": "pedals"
+            },
+            {
+                "id": 274,
+                "name": "saddle posts_product_23",
+                "price": 130.0,
+                "category": "saddle posts"
+            },
+            {
+                "id": 44,
+                "name": "tyres_product_43",
+                "price": 17.27,
+                "category": "tyres"
+            },
+            {
+                "id": 336,
+                "name": "saddles_product_35",
+                "price": 26.02,
+                "category": "saddles"
+            },
+            {
+                "id": 186,
+                "name": "handlebars_product_35",
+                "price": 150.39,
+                "category": "handlebars"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 107,
+        "name": "Customer_106",
+        "products": [
+            {
+                "id": 235,
+                "name": "stems_product_34",
+                "price": 159.36,
+                "category": "stems"
+            },
+            {
+                "id": 114,
+                "name": "frames_product_13",
+                "price": 130.4,
+                "category": "frames"
+            },
+            {
+                "id": 115,
+                "name": "frames_product_14",
+                "price": 26.01,
+                "category": "frames"
+            },
+            {
+                "id": 279,
+                "name": "saddle posts_product_28",
+                "price": 146.18,
+                "category": "saddle posts"
+            },
+            {
+                "id": 288,
+                "name": "saddle posts_product_37",
+                "price": 13.64,
+                "category": "saddle posts"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 108,
+        "name": "Customer_107",
+        "products": [
+            {
+                "id": 17,
+                "name": "tyres_product_16",
+                "price": 43.89,
+                "category": "tyres"
+            },
+            {
+                "id": 36,
+                "name": "tyres_product_35",
+                "price": 82.11,
+                "category": "tyres"
+            },
+            {
+                "id": 445,
+                "name": "pedals_product_44",
+                "price": 27.18,
+                "category": "pedals"
+            },
+            {
+                "id": 72,
+                "name": "wheels_product_21",
+                "price": 78.89,
+                "category": "wheels"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 109,
+        "name": "Customer_108",
+        "products": [
+            {
+                "id": 286,
+                "name": "saddle posts_product_35",
+                "price": 177.14,
+                "category": "saddle posts"
+            },
+            {
+                "id": 259,
+                "name": "saddle posts_product_8",
+                "price": 157.34,
+                "category": "saddle posts"
+            },
+            {
+                "id": 218,
+                "name": "stems_product_17",
+                "price": 72.64,
+                "category": "stems"
+            },
+            {
+                "id": 356,
+                "name": "groupsets_product_5",
+                "price": 167.58,
+                "category": "groupsets"
+            },
+            {
+                "id": 75,
+                "name": "wheels_product_24",
+                "price": 13.56,
+                "category": "wheels"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 110,
+        "name": "Customer_109",
+        "products": [
+            {
+                "id": 298,
+                "name": "saddle posts_product_47",
+                "price": 178.06,
+                "category": "saddle posts"
+            },
+            {
+                "id": 286,
+                "name": "saddle posts_product_35",
+                "price": 177.14,
+                "category": "saddle posts"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 111,
+        "name": "Customer_110",
+        "products": [
+            {
+                "id": 183,
+                "name": "handlebars_product_32",
+                "price": 99.67,
+                "category": "handlebars"
+            },
+            {
+                "id": 132,
+                "name": "frames_product_31",
+                "price": 71.53,
+                "category": "frames"
+            },
+            {
+                "id": 331,
+                "name": "saddles_product_30",
+                "price": 113.17,
+                "category": "saddles"
+            },
+            {
+                "id": 113,
+                "name": "frames_product_12",
+                "price": 162.1,
+                "category": "frames"
+            },
+            {
+                "id": 72,
+                "name": "wheels_product_21",
+                "price": 78.89,
+                "category": "wheels"
+            },
+            {
+                "id": 322,
+                "name": "saddles_product_21",
+                "price": 129.5,
+                "category": "saddles"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 112,
+        "name": "Customer_111",
+        "products": [
+            {
+                "id": 8,
+                "name": "tyres_product_7",
+                "price": 179.17,
+                "category": "tyres"
+            },
+            {
+                "id": 337,
+                "name": "saddles_product_36",
+                "price": 15.16,
+                "category": "saddles"
+            },
+            {
+                "id": 137,
+                "name": "frames_product_36",
+                "price": 85.97,
+                "category": "frames"
+            },
+            {
+                "id": 330,
+                "name": "saddles_product_29",
+                "price": 64.77,
+                "category": "saddles"
+            },
+            {
+                "id": 82,
+                "name": "wheels_product_31",
+                "price": 34.96,
+                "category": "wheels"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 113,
+        "name": "Customer_112",
+        "products": [
+            {
+                "id": 111,
+                "name": "frames_product_10",
+                "price": 63.82,
+                "category": "frames"
+            },
+            {
+                "id": 214,
+                "name": "stems_product_13",
+                "price": 37.62,
+                "category": "stems"
+            },
+            {
+                "id": 84,
+                "name": "wheels_product_33",
+                "price": 83.93,
+                "category": "wheels"
+            },
+            {
+                "id": 444,
+                "name": "pedals_product_43",
+                "price": 64.83,
+                "category": "pedals"
+            },
+            {
+                "id": 267,
+                "name": "saddle posts_product_16",
+                "price": 53.59,
+                "category": "saddle posts"
+            },
+            {
+                "id": 293,
+                "name": "saddle posts_product_42",
+                "price": 194.37,
+                "category": "saddle posts"
+            },
+            {
+                "id": 360,
+                "name": "groupsets_product_9",
+                "price": 138.93,
+                "category": "groupsets"
+            },
+            {
+                "id": 329,
+                "name": "saddles_product_28",
+                "price": 114.59,
+                "category": "saddles"
+            },
+            {
+                "id": 191,
+                "name": "handlebars_product_40",
+                "price": 128.3,
+                "category": "handlebars"
+            },
+            {
+                "id": 420,
+                "name": "pedals_product_19",
+                "price": 136.23,
+                "category": "pedals"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 114,
+        "name": "Customer_113",
+        "products": [
+            {
+                "id": 69,
+                "name": "wheels_product_18",
+                "price": 163.67,
+                "category": "wheels"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 115,
+        "name": "Customer_114",
+        "products": [
+            {
+                "id": 5,
+                "name": "tyres_product_4",
+                "price": 44.36,
+                "category": "tyres"
+            },
+            {
+                "id": 291,
+                "name": "saddle posts_product_40",
+                "price": 51.84,
+                "category": "saddle posts"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 116,
+        "name": "Customer_115",
+        "products": [
+            {
+                "id": 50,
+                "name": "tyres_product_49",
+                "price": 159.37,
+                "category": "tyres"
+            },
+            {
+                "id": 397,
+                "name": "groupsets_product_46",
+                "price": 138.78,
+                "category": "groupsets"
+            },
+            {
+                "id": 313,
+                "name": "saddles_product_12",
+                "price": 196.99,
+                "category": "saddles"
+            },
+            {
+                "id": 216,
+                "name": "stems_product_15",
+                "price": 137.79,
+                "category": "stems"
+            },
+            {
+                "id": 239,
+                "name": "stems_product_38",
+                "price": 68.98,
+                "category": "stems"
+            },
+            {
+                "id": 358,
+                "name": "groupsets_product_7",
+                "price": 197.2,
+                "category": "groupsets"
+            },
+            {
+                "id": 450,
+                "name": "pedals_product_49",
+                "price": 139.71,
+                "category": "pedals"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 117,
+        "name": "Customer_116",
+        "products": [
+            {
+                "id": 82,
+                "name": "wheels_product_31",
+                "price": 34.96,
+                "category": "wheels"
+            },
+            {
+                "id": 375,
+                "name": "groupsets_product_24",
+                "price": 102.14,
+                "category": "groupsets"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 118,
+        "name": "Customer_117",
+        "products": [
+            {
+                "id": 220,
+                "name": "stems_product_19",
+                "price": 132.53,
+                "category": "stems"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 119,
+        "name": "Customer_118",
+        "products": [
+            {
+                "id": 155,
+                "name": "handlebars_product_4",
+                "price": 74.59,
+                "category": "handlebars"
+            },
+            {
+                "id": 396,
+                "name": "groupsets_product_45",
+                "price": 121.8,
+                "category": "groupsets"
+            },
+            {
+                "id": 76,
+                "name": "wheels_product_25",
+                "price": 74.61,
+                "category": "wheels"
+            },
+            {
+                "id": 333,
+                "name": "saddles_product_32",
+                "price": 20.53,
+                "category": "saddles"
+            },
+            {
+                "id": 46,
+                "name": "tyres_product_45",
+                "price": 35.95,
+                "category": "tyres"
+            },
+            {
+                "id": 157,
+                "name": "handlebars_product_6",
+                "price": 93.37,
+                "category": "handlebars"
+            },
+            {
+                "id": 17,
+                "name": "tyres_product_16",
+                "price": 43.89,
+                "category": "tyres"
+            },
+            {
+                "id": 161,
+                "name": "handlebars_product_10",
+                "price": 38.86,
+                "category": "handlebars"
+            },
+            {
+                "id": 250,
+                "name": "stems_product_49",
+                "price": 151.25,
+                "category": "stems"
+            },
+            {
+                "id": 282,
+                "name": "saddle posts_product_31",
+                "price": 198.13,
+                "category": "saddle posts"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 120,
+        "name": "Customer_119",
+        "products": [
+            {
+                "id": 36,
+                "name": "tyres_product_35",
+                "price": 82.11,
+                "category": "tyres"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 121,
+        "name": "Customer_120",
+        "products": [
+            {
+                "id": 349,
+                "name": "saddles_product_48",
+                "price": 20.25,
+                "category": "saddles"
+            },
+            {
+                "id": 408,
+                "name": "pedals_product_7",
+                "price": 161.62,
+                "category": "pedals"
+            },
+            {
+                "id": 357,
+                "name": "groupsets_product_6",
+                "price": 107.31,
+                "category": "groupsets"
+            },
+            {
+                "id": 220,
+                "name": "stems_product_19",
+                "price": 132.53,
+                "category": "stems"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 122,
+        "name": "Customer_121",
+        "products": [
+            {
+                "id": 47,
+                "name": "tyres_product_46",
+                "price": 51.61,
+                "category": "tyres"
+            },
+            {
+                "id": 306,
+                "name": "saddles_product_5",
+                "price": 152.4,
+                "category": "saddles"
+            },
+            {
+                "id": 196,
+                "name": "handlebars_product_45",
+                "price": 88.06,
+                "category": "handlebars"
+            },
+            {
+                "id": 73,
+                "name": "wheels_product_22",
+                "price": 125.89,
+                "category": "wheels"
+            },
+            {
+                "id": 418,
+                "name": "pedals_product_17",
+                "price": 22.43,
+                "category": "pedals"
+            },
+            {
+                "id": 153,
+                "name": "handlebars_product_2",
+                "price": 14.71,
+                "category": "handlebars"
+            },
+            {
+                "id": 136,
+                "name": "frames_product_35",
+                "price": 75.42,
+                "category": "frames"
+            },
+            {
+                "id": 450,
+                "name": "pedals_product_49",
+                "price": 139.71,
+                "category": "pedals"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 123,
+        "name": "Customer_122",
+        "products": [
+            {
+                "id": 396,
+                "name": "groupsets_product_45",
+                "price": 121.8,
+                "category": "groupsets"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 124,
+        "name": "Customer_123",
+        "products": [
+            {
+                "id": 261,
+                "name": "saddle posts_product_10",
+                "price": 182.54,
+                "category": "saddle posts"
+            },
+            {
+                "id": 404,
+                "name": "pedals_product_3",
+                "price": 64.52,
+                "category": "pedals"
+            },
+            {
+                "id": 270,
+                "name": "saddle posts_product_19",
+                "price": 165.94,
+                "category": "saddle posts"
+            },
+            {
+                "id": 87,
+                "name": "wheels_product_36",
+                "price": 142.04,
+                "category": "wheels"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 125,
+        "name": "Customer_124",
+        "products": [
+            {
+                "id": 367,
+                "name": "groupsets_product_16",
+                "price": 62.14,
+                "category": "groupsets"
+            },
+            {
+                "id": 103,
+                "name": "frames_product_2",
+                "price": 20.6,
+                "category": "frames"
+            },
+            {
+                "id": 9,
+                "name": "tyres_product_8",
+                "price": 19.97,
+                "category": "tyres"
+            },
+            {
+                "id": 303,
+                "name": "saddles_product_2",
+                "price": 71.15,
+                "category": "saddles"
+            },
+            {
+                "id": 254,
+                "name": "saddle posts_product_3",
+                "price": 12.46,
+                "category": "saddle posts"
+            },
+            {
+                "id": 385,
+                "name": "groupsets_product_34",
+                "price": 76.17,
+                "category": "groupsets"
+            },
+            {
+                "id": 387,
+                "name": "groupsets_product_36",
+                "price": 172.23,
+                "category": "groupsets"
+            },
+            {
+                "id": 156,
+                "name": "handlebars_product_5",
+                "price": 118.66,
+                "category": "handlebars"
+            },
+            {
+                "id": 224,
+                "name": "stems_product_23",
+                "price": 64.81,
+                "category": "stems"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 126,
+        "name": "Customer_125",
+        "products": [
+            {
+                "id": 323,
+                "name": "saddles_product_22",
+                "price": 124.59,
+                "category": "saddles"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 127,
+        "name": "Customer_126",
+        "products": [
+            {
+                "id": 71,
+                "name": "wheels_product_20",
+                "price": 129.87,
+                "category": "wheels"
+            },
+            {
+                "id": 305,
+                "name": "saddles_product_4",
+                "price": 65.45,
+                "category": "saddles"
+            },
+            {
+                "id": 360,
+                "name": "groupsets_product_9",
+                "price": 138.93,
+                "category": "groupsets"
+            },
+            {
+                "id": 277,
+                "name": "saddle posts_product_26",
+                "price": 135.71,
+                "category": "saddle posts"
+            },
+            {
+                "id": 383,
+                "name": "groupsets_product_32",
+                "price": 193.92,
+                "category": "groupsets"
+            },
+            {
+                "id": 422,
+                "name": "pedals_product_21",
+                "price": 170.33,
+                "category": "pedals"
+            },
+            {
+                "id": 419,
+                "name": "pedals_product_18",
+                "price": 113.91,
+                "category": "pedals"
+            },
+            {
+                "id": 206,
+                "name": "stems_product_5",
+                "price": 178.56,
+                "category": "stems"
+            },
+            {
+                "id": 343,
+                "name": "saddles_product_42",
+                "price": 25.48,
+                "category": "saddles"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 128,
+        "name": "Customer_127",
+        "products": [
+            {
+                "id": 145,
+                "name": "frames_product_44",
+                "price": 47.05,
+                "category": "frames"
+            },
+            {
+                "id": 153,
+                "name": "handlebars_product_2",
+                "price": 14.71,
+                "category": "handlebars"
+            },
+            {
+                "id": 187,
+                "name": "handlebars_product_36",
+                "price": 144.35,
+                "category": "handlebars"
+            },
+            {
+                "id": 309,
+                "name": "saddles_product_8",
+                "price": 139.45,
+                "category": "saddles"
+            },
+            {
+                "id": 254,
+                "name": "saddle posts_product_3",
+                "price": 12.46,
+                "category": "saddle posts"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 129,
+        "name": "Customer_128",
+        "products": [
+            {
+                "id": 95,
+                "name": "wheels_product_44",
+                "price": 184.75,
+                "category": "wheels"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 130,
+        "name": "Customer_129",
+        "products": [
+            {
+                "id": 156,
+                "name": "handlebars_product_5",
+                "price": 118.66,
+                "category": "handlebars"
+            },
+            {
+                "id": 41,
+                "name": "tyres_product_40",
+                "price": 158.87,
+                "category": "tyres"
+            },
+            {
+                "id": 62,
+                "name": "wheels_product_11",
+                "price": 46.63,
+                "category": "wheels"
+            },
+            {
+                "id": 338,
+                "name": "saddles_product_37",
+                "price": 19.63,
+                "category": "saddles"
+            },
+            {
+                "id": 28,
+                "name": "tyres_product_27",
+                "price": 106.69,
+                "category": "tyres"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 131,
+        "name": "Customer_130",
+        "products": [
+            {
+                "id": 32,
+                "name": "tyres_product_31",
+                "price": 171.47,
+                "category": "tyres"
+            },
+            {
+                "id": 156,
+                "name": "handlebars_product_5",
+                "price": 118.66,
+                "category": "handlebars"
+            },
+            {
+                "id": 336,
+                "name": "saddles_product_35",
+                "price": 26.02,
+                "category": "saddles"
+            },
+            {
+                "id": 324,
+                "name": "saddles_product_23",
+                "price": 127.84,
+                "category": "saddles"
+            },
+            {
+                "id": 202,
+                "name": "stems_product_1",
+                "price": 63.77,
+                "category": "stems"
+            },
+            {
+                "id": 334,
+                "name": "saddles_product_33",
+                "price": 188.64,
+                "category": "saddles"
+            },
+            {
+                "id": 151,
+                "name": "handlebars_product_0",
+                "price": 54.51,
+                "category": "handlebars"
+            },
+            {
+                "id": 394,
+                "name": "groupsets_product_43",
+                "price": 63.6,
+                "category": "groupsets"
+            },
+            {
+                "id": 433,
+                "name": "pedals_product_32",
+                "price": 41.06,
+                "category": "pedals"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 132,
+        "name": "Customer_131",
+        "products": [
+            {
+                "id": 367,
+                "name": "groupsets_product_16",
+                "price": 62.14,
+                "category": "groupsets"
+            },
+            {
+                "id": 283,
+                "name": "saddle posts_product_32",
+                "price": 62.19,
+                "category": "saddle posts"
+            },
+            {
+                "id": 447,
+                "name": "pedals_product_46",
+                "price": 22.82,
+                "category": "pedals"
+            },
+            {
+                "id": 213,
+                "name": "stems_product_12",
+                "price": 185.51,
+                "category": "stems"
+            },
+            {
+                "id": 291,
+                "name": "saddle posts_product_40",
+                "price": 51.84,
+                "category": "saddle posts"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 133,
+        "name": "Customer_132",
+        "products": [
+            {
+                "id": 248,
+                "name": "stems_product_47",
+                "price": 144.68,
+                "category": "stems"
+            },
+            {
+                "id": 157,
+                "name": "handlebars_product_6",
+                "price": 93.37,
+                "category": "handlebars"
+            },
+            {
+                "id": 15,
+                "name": "tyres_product_14",
+                "price": 96.53,
+                "category": "tyres"
+            },
+            {
+                "id": 308,
+                "name": "saddles_product_7",
+                "price": 75.02,
+                "category": "saddles"
+            },
+            {
+                "id": 427,
+                "name": "pedals_product_26",
+                "price": 194.01,
+                "category": "pedals"
+            },
+            {
+                "id": 4,
+                "name": "tyres_product_3",
+                "price": 106.88,
+                "category": "tyres"
+            },
+            {
+                "id": 236,
+                "name": "stems_product_35",
+                "price": 73.55,
+                "category": "stems"
+            },
+            {
+                "id": 391,
+                "name": "groupsets_product_40",
+                "price": 44.03,
+                "category": "groupsets"
+            },
+            {
+                "id": 220,
+                "name": "stems_product_19",
+                "price": 132.53,
+                "category": "stems"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 134,
+        "name": "Customer_133",
+        "products": [
+            {
+                "id": 77,
+                "name": "wheels_product_26",
+                "price": 43.76,
+                "category": "wheels"
+            },
+            {
+                "id": 167,
+                "name": "handlebars_product_16",
+                "price": 16.23,
+                "category": "handlebars"
+            },
+            {
+                "id": 7,
+                "name": "tyres_product_6",
+                "price": 145.31,
+                "category": "tyres"
+            },
+            {
+                "id": 76,
+                "name": "wheels_product_25",
+                "price": 74.61,
+                "category": "wheels"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 135,
+        "name": "Customer_134",
+        "products": [
+            {
+                "id": 205,
+                "name": "stems_product_4",
+                "price": 128.17,
+                "category": "stems"
+            },
+            {
+                "id": 89,
+                "name": "wheels_product_38",
+                "price": 125.85,
+                "category": "wheels"
+            },
+            {
+                "id": 26,
+                "name": "tyres_product_25",
+                "price": 51.91,
+                "category": "tyres"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 136,
+        "name": "Customer_135",
+        "products": [
+            {
+                "id": 24,
+                "name": "tyres_product_23",
+                "price": 43.46,
+                "category": "tyres"
+            },
+            {
+                "id": 403,
+                "name": "pedals_product_2",
+                "price": 113.08,
+                "category": "pedals"
+            },
+            {
+                "id": 297,
+                "name": "saddle posts_product_46",
+                "price": 103.03,
+                "category": "saddle posts"
+            },
+            {
+                "id": 101,
+                "name": "frames_product_0",
+                "price": 147.33,
+                "category": "frames"
+            },
+            {
+                "id": 22,
+                "name": "tyres_product_21",
+                "price": 76.47,
+                "category": "tyres"
+            },
+            {
+                "id": 43,
+                "name": "tyres_product_42",
+                "price": 54.46,
+                "category": "tyres"
+            },
+            {
+                "id": 196,
+                "name": "handlebars_product_45",
+                "price": 88.06,
+                "category": "handlebars"
+            },
+            {
+                "id": 181,
+                "name": "handlebars_product_30",
+                "price": 169.45,
+                "category": "handlebars"
+            },
+            {
+                "id": 371,
+                "name": "groupsets_product_20",
+                "price": 75.33,
+                "category": "groupsets"
+            },
+            {
+                "id": 52,
+                "name": "wheels_product_1",
+                "price": 126.73,
+                "category": "wheels"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 137,
+        "name": "Customer_136",
+        "products": [
+            {
+                "id": 356,
+                "name": "groupsets_product_5",
+                "price": 167.58,
+                "category": "groupsets"
+            },
+            {
+                "id": 303,
+                "name": "saddles_product_2",
+                "price": 71.15,
+                "category": "saddles"
+            },
+            {
+                "id": 46,
+                "name": "tyres_product_45",
+                "price": 35.95,
+                "category": "tyres"
+            },
+            {
+                "id": 263,
+                "name": "saddle posts_product_12",
+                "price": 154.67,
+                "category": "saddle posts"
+            },
+            {
+                "id": 405,
+                "name": "pedals_product_4",
+                "price": 124.28,
+                "category": "pedals"
+            },
+            {
+                "id": 132,
+                "name": "frames_product_31",
+                "price": 71.53,
+                "category": "frames"
+            },
+            {
+                "id": 326,
+                "name": "saddles_product_25",
+                "price": 58.83,
+                "category": "saddles"
+            },
+            {
+                "id": 142,
+                "name": "frames_product_41",
+                "price": 16.49,
+                "category": "frames"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 138,
+        "name": "Customer_137",
+        "products": [
+            {
+                "id": 224,
+                "name": "stems_product_23",
+                "price": 64.81,
+                "category": "stems"
+            },
+            {
+                "id": 150,
+                "name": "frames_product_49",
+                "price": 26.31,
+                "category": "frames"
+            },
+            {
+                "id": 127,
+                "name": "frames_product_26",
+                "price": 16.96,
+                "category": "frames"
+            },
+            {
+                "id": 436,
+                "name": "pedals_product_35",
+                "price": 53.15,
+                "category": "pedals"
+            },
+            {
+                "id": 105,
+                "name": "frames_product_4",
+                "price": 84.18,
+                "category": "frames"
+            },
+            {
+                "id": 383,
+                "name": "groupsets_product_32",
+                "price": 193.92,
+                "category": "groupsets"
+            },
+            {
+                "id": 414,
+                "name": "pedals_product_13",
+                "price": 104.05,
+                "category": "pedals"
+            },
+            {
+                "id": 106,
+                "name": "frames_product_5",
+                "price": 117.37,
+                "category": "frames"
+            },
+            {
+                "id": 404,
+                "name": "pedals_product_3",
+                "price": 64.52,
+                "category": "pedals"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 139,
+        "name": "Customer_138",
+        "products": [
+            {
+                "id": 381,
+                "name": "groupsets_product_30",
+                "price": 98.14,
+                "category": "groupsets"
+            },
+            {
+                "id": 6,
+                "name": "tyres_product_5",
+                "price": 139.4,
+                "category": "tyres"
+            },
+            {
+                "id": 441,
+                "name": "pedals_product_40",
+                "price": 16.94,
+                "category": "pedals"
+            },
+            {
+                "id": 254,
+                "name": "saddle posts_product_3",
+                "price": 12.46,
+                "category": "saddle posts"
+            },
+            {
+                "id": 72,
+                "name": "wheels_product_21",
+                "price": 78.89,
+                "category": "wheels"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 140,
+        "name": "Customer_139",
+        "products": [
+            {
+                "id": 414,
+                "name": "pedals_product_13",
+                "price": 104.05,
+                "category": "pedals"
+            },
+            {
+                "id": 239,
+                "name": "stems_product_38",
+                "price": 68.98,
+                "category": "stems"
+            },
+            {
+                "id": 418,
+                "name": "pedals_product_17",
+                "price": 22.43,
+                "category": "pedals"
+            },
+            {
+                "id": 314,
+                "name": "saddles_product_13",
+                "price": 170.62,
+                "category": "saddles"
+            },
+            {
+                "id": 345,
+                "name": "saddles_product_44",
+                "price": 86.75,
+                "category": "saddles"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 141,
+        "name": "Customer_140",
+        "products": [
+            {
+                "id": 413,
+                "name": "pedals_product_12",
+                "price": 134.46,
+                "category": "pedals"
+            },
+            {
+                "id": 225,
+                "name": "stems_product_24",
+                "price": 98.0,
+                "category": "stems"
+            },
+            {
+                "id": 196,
+                "name": "handlebars_product_45",
+                "price": 88.06,
+                "category": "handlebars"
+            },
+            {
+                "id": 90,
+                "name": "wheels_product_39",
+                "price": 184.92,
+                "category": "wheels"
+            },
+            {
+                "id": 130,
+                "name": "frames_product_29",
+                "price": 44.9,
+                "category": "frames"
+            },
+            {
+                "id": 4,
+                "name": "tyres_product_3",
+                "price": 106.88,
+                "category": "tyres"
+            },
+            {
+                "id": 423,
+                "name": "pedals_product_22",
+                "price": 180.02,
+                "category": "pedals"
+            },
+            {
+                "id": 307,
+                "name": "saddles_product_6",
+                "price": 25.22,
+                "category": "saddles"
+            },
+            {
+                "id": 253,
+                "name": "saddle posts_product_2",
+                "price": 170.24,
+                "category": "saddle posts"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 142,
+        "name": "Customer_141",
+        "products": [
+            {
+                "id": 68,
+                "name": "wheels_product_17",
+                "price": 187.96,
+                "category": "wheels"
+            },
+            {
+                "id": 232,
+                "name": "stems_product_31",
+                "price": 119.07,
+                "category": "stems"
+            },
+            {
+                "id": 394,
+                "name": "groupsets_product_43",
+                "price": 63.6,
+                "category": "groupsets"
+            },
+            {
+                "id": 316,
+                "name": "saddles_product_15",
+                "price": 93.66,
+                "category": "saddles"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 143,
+        "name": "Customer_142",
+        "products": [
+            {
+                "id": 109,
+                "name": "frames_product_8",
+                "price": 101.7,
+                "category": "frames"
+            },
+            {
+                "id": 280,
+                "name": "saddle posts_product_29",
+                "price": 177.46,
+                "category": "saddle posts"
+            },
+            {
+                "id": 301,
+                "name": "saddles_product_0",
+                "price": 60.86,
+                "category": "saddles"
+            },
+            {
+                "id": 426,
+                "name": "pedals_product_25",
+                "price": 135.08,
+                "category": "pedals"
+            },
+            {
+                "id": 6,
+                "name": "tyres_product_5",
+                "price": 139.4,
+                "category": "tyres"
+            },
+            {
+                "id": 258,
+                "name": "saddle posts_product_7",
+                "price": 14.71,
+                "category": "saddle posts"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 144,
+        "name": "Customer_143",
+        "products": [
+            {
+                "id": 352,
+                "name": "groupsets_product_1",
+                "price": 95.45,
+                "category": "groupsets"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 145,
+        "name": "Customer_144",
+        "products": [
+            {
+                "id": 367,
+                "name": "groupsets_product_16",
+                "price": 62.14,
+                "category": "groupsets"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 146,
+        "name": "Customer_145",
+        "products": [
+            {
+                "id": 245,
+                "name": "stems_product_44",
+                "price": 79.99,
+                "category": "stems"
+            },
+            {
+                "id": 179,
+                "name": "handlebars_product_28",
+                "price": 65.94,
+                "category": "handlebars"
+            },
+            {
+                "id": 447,
+                "name": "pedals_product_46",
+                "price": 22.82,
+                "category": "pedals"
+            },
+            {
+                "id": 268,
+                "name": "saddle posts_product_17",
+                "price": 76.06,
+                "category": "saddle posts"
+            },
+            {
+                "id": 360,
+                "name": "groupsets_product_9",
+                "price": 138.93,
+                "category": "groupsets"
+            },
+            {
+                "id": 315,
+                "name": "saddles_product_14",
+                "price": 121.17,
+                "category": "saddles"
+            },
+            {
+                "id": 185,
+                "name": "handlebars_product_34",
+                "price": 163.63,
+                "category": "handlebars"
+            },
+            {
+                "id": 32,
+                "name": "tyres_product_31",
+                "price": 171.47,
+                "category": "tyres"
+            },
+            {
+                "id": 251,
+                "name": "saddle posts_product_0",
+                "price": 66.22,
+                "category": "saddle posts"
+            },
+            {
+                "id": 23,
+                "name": "tyres_product_22",
+                "price": 140.56,
+                "category": "tyres"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 147,
+        "name": "Customer_146",
+        "products": [
+            {
+                "id": 122,
+                "name": "frames_product_21",
+                "price": 36.77,
+                "category": "frames"
+            },
+            {
+                "id": 103,
+                "name": "frames_product_2",
+                "price": 20.6,
+                "category": "frames"
+            },
+            {
+                "id": 286,
+                "name": "saddle posts_product_35",
+                "price": 177.14,
+                "category": "saddle posts"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 148,
+        "name": "Customer_147",
+        "products": [
+            {
+                "id": 1,
+                "name": "tyres_product_0",
+                "price": 81.71,
+                "category": "tyres"
+            }
+        ],
+        "has_loyalty_card": false
+    },
+    {
+        "id": 149,
+        "name": "Customer_148",
+        "products": [
+            {
+                "id": 443,
+                "name": "pedals_product_42",
+                "price": 67.72,
+                "category": "pedals"
+            },
+            {
+                "id": 356,
+                "name": "groupsets_product_5",
+                "price": 167.58,
+                "category": "groupsets"
+            }
+        ],
+        "has_loyalty_card": true
+    },
+    {
+        "id": 150,
+        "name": "Customer_149",
+        "products": [
+            {
+                "id": 125,
+                "name": "frames_product_24",
+                "price": 91.65,
+                "category": "frames"
+            },
+            {
+                "id": 240,
+                "name": "stems_product_39",
+                "price": 35.98,
+                "category": "stems"
+            },
+            {
+                "id": 271,
+                "name": "saddle posts_product_20",
+                "price": 34.19,
+                "category": "saddle posts"
+            },
+            {
+                "id": 1,
+                "name": "tyres_product_0",
+                "price": 81.71,
+                "category": "tyres"
+            },
+            {
+                "id": 373,
+                "name": "groupsets_product_22",
+                "price": 107.71,
+                "category": "groupsets"
+            },
+            {
+                "id": 340,
+                "name": "saddles_product_39",
+                "price": 163.64,
+                "category": "saddles"
+            },
+            {
+                "id": 57,
+                "name": "wheels_product_6",
+                "price": 151.57,
+                "category": "wheels"
+            },
+            {
+                "id": 443,
+                "name": "pedals_product_42",
+                "price": 67.72,
+                "category": "pedals"
+            },
+            {
+                "id": 407,
+                "name": "pedals_product_6",
+                "price": 122.2,
+                "category": "pedals"
+            }
+        ],
+        "has_loyalty_card": true
+    }
+]

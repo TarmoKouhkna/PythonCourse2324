@@ -1,0 +1,5442 @@
+[
+    {
+        "customer_id": 1,
+        "customer_name": "Customer_0",
+        "products": [
+            {
+                "id": 100,
+                "name": "wheels_product_49",
+                "price": 183.21
+            },
+            {
+                "id": 392,
+                "name": "groupsets_product_41",
+                "price": 155.72
+            }
+        ],
+        "total_price_without_discount": 338.93,
+        "total_amount_spent_with_discount": 305.04,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 2,
+        "customer_name": "Customer_1",
+        "products": [
+            {
+                "id": 218,
+                "name": "stems_product_17",
+                "price": 72.64
+            },
+            {
+                "id": 337,
+                "name": "saddles_product_36",
+                "price": 15.16
+            },
+            {
+                "id": 155,
+                "name": "handlebars_product_4",
+                "price": 74.59
+            },
+            {
+                "id": 5,
+                "name": "tyres_product_4",
+                "price": 44.36
+            },
+            {
+                "id": 46,
+                "name": "tyres_product_45",
+                "price": 35.95
+            },
+            {
+                "id": 47,
+                "name": "tyres_product_46",
+                "price": 51.61
+            },
+            {
+                "id": 257,
+                "name": "saddle posts_product_6",
+                "price": 155.31
+            },
+            {
+                "id": 31,
+                "name": "tyres_product_30",
+                "price": 165.72
+            }
+        ],
+        "total_price_without_discount": 615.34,
+        "total_amount_spent_with_discount": 585.58,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 3,
+        "customer_name": "Customer_2",
+        "products": [
+            {
+                "id": 200,
+                "name": "handlebars_product_49",
+                "price": 157.84
+            },
+            {
+                "id": 436,
+                "name": "pedals_product_35",
+                "price": 53.15
+            },
+            {
+                "id": 396,
+                "name": "groupsets_product_45",
+                "price": 121.8
+            },
+            {
+                "id": 313,
+                "name": "saddles_product_12",
+                "price": 196.99
+            }
+        ],
+        "total_price_without_discount": 529.78,
+        "total_amount_spent_with_discount": 529.78,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 4,
+        "customer_name": "Customer_3",
+        "products": [
+            {
+                "id": 183,
+                "name": "handlebars_product_32",
+                "price": 99.67
+            },
+            {
+                "id": 445,
+                "name": "pedals_product_44",
+                "price": 27.18
+            },
+            {
+                "id": 170,
+                "name": "handlebars_product_19",
+                "price": 154.89
+            }
+        ],
+        "total_price_without_discount": 281.74,
+        "total_amount_spent_with_discount": 253.57,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 5,
+        "customer_name": "Customer_4",
+        "products": [
+            {
+                "id": 205,
+                "name": "stems_product_4",
+                "price": 128.17
+            },
+            {
+                "id": 410,
+                "name": "pedals_product_9",
+                "price": 102.64
+            }
+        ],
+        "total_price_without_discount": 230.81,
+        "total_amount_spent_with_discount": 230.81,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 6,
+        "customer_name": "Customer_5",
+        "products": [
+            {
+                "id": 274,
+                "name": "saddle posts_product_23",
+                "price": 130.0
+            },
+            {
+                "id": 201,
+                "name": "stems_product_0",
+                "price": 19.37
+            },
+            {
+                "id": 137,
+                "name": "frames_product_36",
+                "price": 85.97
+            },
+            {
+                "id": 332,
+                "name": "saddles_product_31",
+                "price": 15.67
+            }
+        ],
+        "total_price_without_discount": 251.01,
+        "total_amount_spent_with_discount": 225.91,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 7,
+        "customer_name": "Customer_6",
+        "products": [
+            {
+                "id": 188,
+                "name": "handlebars_product_37",
+                "price": 194.08
+            }
+        ],
+        "total_price_without_discount": 194.08,
+        "total_amount_spent_with_discount": 194.08,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 8,
+        "customer_name": "Customer_7",
+        "products": [
+            {
+                "id": 261,
+                "name": "saddle posts_product_10",
+                "price": 182.54
+            },
+            {
+                "id": 116,
+                "name": "frames_product_15",
+                "price": 111.81
+            },
+            {
+                "id": 50,
+                "name": "tyres_product_49",
+                "price": 159.37
+            },
+            {
+                "id": 29,
+                "name": "tyres_product_28",
+                "price": 165.25
+            },
+            {
+                "id": 84,
+                "name": "wheels_product_33",
+                "price": 83.93
+            },
+            {
+                "id": 231,
+                "name": "stems_product_30",
+                "price": 198.14
+            },
+            {
+                "id": 324,
+                "name": "saddles_product_23",
+                "price": 127.84
+            },
+            {
+                "id": 410,
+                "name": "pedals_product_9",
+                "price": 102.64
+            },
+            {
+                "id": 353,
+                "name": "groupsets_product_2",
+                "price": 105.22
+            }
+        ],
+        "total_price_without_discount": 1236.74,
+        "total_amount_spent_with_discount": 1204.28,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 9,
+        "customer_name": "Customer_8",
+        "products": [
+            {
+                "id": 316,
+                "name": "saddles_product_15",
+                "price": 93.66
+            },
+            {
+                "id": 416,
+                "name": "pedals_product_15",
+                "price": 146.08
+            },
+            {
+                "id": 57,
+                "name": "wheels_product_6",
+                "price": 151.57
+            },
+            {
+                "id": 207,
+                "name": "stems_product_6",
+                "price": 184.77
+            },
+            {
+                "id": 66,
+                "name": "wheels_product_15",
+                "price": 34.63
+            },
+            {
+                "id": 337,
+                "name": "saddles_product_36",
+                "price": 15.16
+            },
+            {
+                "id": 299,
+                "name": "saddle posts_product_48",
+                "price": 76.06
+            },
+            {
+                "id": 83,
+                "name": "wheels_product_32",
+                "price": 26.56
+            },
+            {
+                "id": 269,
+                "name": "saddle posts_product_18",
+                "price": 140.76
+            }
+        ],
+        "total_price_without_discount": 869.25,
+        "total_amount_spent_with_discount": 782.33,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 10,
+        "customer_name": "Customer_9",
+        "products": [
+            {
+                "id": 58,
+                "name": "wheels_product_7",
+                "price": 128.86
+            },
+            {
+                "id": 221,
+                "name": "stems_product_20",
+                "price": 24.48
+            },
+            {
+                "id": 430,
+                "name": "pedals_product_29",
+                "price": 169.46
+            },
+            {
+                "id": 250,
+                "name": "stems_product_49",
+                "price": 151.25
+            },
+            {
+                "id": 402,
+                "name": "pedals_product_1",
+                "price": 64.86
+            }
+        ],
+        "total_price_without_discount": 538.91,
+        "total_amount_spent_with_discount": 538.91,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 11,
+        "customer_name": "Customer_10",
+        "products": [
+            {
+                "id": 85,
+                "name": "wheels_product_34",
+                "price": 101.06
+            },
+            {
+                "id": 404,
+                "name": "pedals_product_3",
+                "price": 64.52
+            },
+            {
+                "id": 106,
+                "name": "frames_product_5",
+                "price": 117.37
+            },
+            {
+                "id": 339,
+                "name": "saddles_product_38",
+                "price": 122.02
+            },
+            {
+                "id": 214,
+                "name": "stems_product_13",
+                "price": 37.62
+            },
+            {
+                "id": 346,
+                "name": "saddles_product_45",
+                "price": 101.12
+            },
+            {
+                "id": 105,
+                "name": "frames_product_4",
+                "price": 84.18
+            },
+            {
+                "id": 435,
+                "name": "pedals_product_34",
+                "price": 81.71
+            },
+            {
+                "id": 305,
+                "name": "saddles_product_4",
+                "price": 65.45
+            },
+            {
+                "id": 425,
+                "name": "pedals_product_24",
+                "price": 38.08
+            }
+        ],
+        "total_price_without_discount": 813.13,
+        "total_amount_spent_with_discount": 813.13,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 12,
+        "customer_name": "Customer_11",
+        "products": [
+            {
+                "id": 56,
+                "name": "wheels_product_5",
+                "price": 188.64
+            }
+        ],
+        "total_price_without_discount": 188.64,
+        "total_amount_spent_with_discount": 188.64,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 13,
+        "customer_name": "Customer_12",
+        "products": [
+            {
+                "id": 387,
+                "name": "groupsets_product_36",
+                "price": 172.23
+            },
+            {
+                "id": 286,
+                "name": "saddle posts_product_35",
+                "price": 177.14
+            },
+            {
+                "id": 284,
+                "name": "saddle posts_product_33",
+                "price": 149.62
+            }
+        ],
+        "total_price_without_discount": 498.99,
+        "total_amount_spent_with_discount": 498.99,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 14,
+        "customer_name": "Customer_13",
+        "products": [
+            {
+                "id": 130,
+                "name": "frames_product_29",
+                "price": 44.9
+            },
+            {
+                "id": 434,
+                "name": "pedals_product_33",
+                "price": 53.68
+            },
+            {
+                "id": 214,
+                "name": "stems_product_13",
+                "price": 37.62
+            },
+            {
+                "id": 194,
+                "name": "handlebars_product_43",
+                "price": 81.53
+            },
+            {
+                "id": 443,
+                "name": "pedals_product_42",
+                "price": 67.72
+            },
+            {
+                "id": 153,
+                "name": "handlebars_product_2",
+                "price": 14.71
+            },
+            {
+                "id": 193,
+                "name": "handlebars_product_42",
+                "price": 94.19
+            },
+            {
+                "id": 334,
+                "name": "saddles_product_33",
+                "price": 188.64
+            },
+            {
+                "id": 362,
+                "name": "groupsets_product_11",
+                "price": 13.75
+            }
+        ],
+        "total_price_without_discount": 596.74,
+        "total_amount_spent_with_discount": 537.07,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 15,
+        "customer_name": "Customer_14",
+        "products": [
+            {
+                "id": 319,
+                "name": "saddles_product_18",
+                "price": 12.22
+            },
+            {
+                "id": 254,
+                "name": "saddle posts_product_3",
+                "price": 12.46
+            },
+            {
+                "id": 255,
+                "name": "saddle posts_product_4",
+                "price": 102.54
+            },
+            {
+                "id": 346,
+                "name": "saddles_product_45",
+                "price": 101.12
+            },
+            {
+                "id": 328,
+                "name": "saddles_product_27",
+                "price": 52.67
+            },
+            {
+                "id": 227,
+                "name": "stems_product_26",
+                "price": 66.27
+            },
+            {
+                "id": 447,
+                "name": "pedals_product_46",
+                "price": 22.82
+            },
+            {
+                "id": 120,
+                "name": "frames_product_19",
+                "price": 98.6
+            },
+            {
+                "id": 134,
+                "name": "frames_product_33",
+                "price": 144.28
+            },
+            {
+                "id": 143,
+                "name": "frames_product_42",
+                "price": 145.45
+            }
+        ],
+        "total_price_without_discount": 758.43,
+        "total_amount_spent_with_discount": 758.43,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 16,
+        "customer_name": "Customer_15",
+        "products": [
+            {
+                "id": 270,
+                "name": "saddle posts_product_19",
+                "price": 165.94
+            },
+            {
+                "id": 332,
+                "name": "saddles_product_31",
+                "price": 15.67
+            },
+            {
+                "id": 247,
+                "name": "stems_product_46",
+                "price": 25.6
+            },
+            {
+                "id": 264,
+                "name": "saddle posts_product_13",
+                "price": 113.67
+            },
+            {
+                "id": 189,
+                "name": "handlebars_product_38",
+                "price": 180.29
+            },
+            {
+                "id": 241,
+                "name": "stems_product_40",
+                "price": 99.64
+            },
+            {
+                "id": 22,
+                "name": "tyres_product_21",
+                "price": 76.47
+            },
+            {
+                "id": 181,
+                "name": "handlebars_product_30",
+                "price": 169.45
+            }
+        ],
+        "total_price_without_discount": 846.73,
+        "total_amount_spent_with_discount": 839.08,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 17,
+        "customer_name": "Customer_16",
+        "products": [
+            {
+                "id": 81,
+                "name": "wheels_product_30",
+                "price": 55.73
+            }
+        ],
+        "total_price_without_discount": 55.73,
+        "total_amount_spent_with_discount": 55.73,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 18,
+        "customer_name": "Customer_17",
+        "products": [
+            {
+                "id": 13,
+                "name": "tyres_product_12",
+                "price": 148.46
+            },
+            {
+                "id": 250,
+                "name": "stems_product_49",
+                "price": 151.25
+            },
+            {
+                "id": 205,
+                "name": "stems_product_4",
+                "price": 128.17
+            },
+            {
+                "id": 197,
+                "name": "handlebars_product_46",
+                "price": 183.41
+            },
+            {
+                "id": 322,
+                "name": "saddles_product_21",
+                "price": 129.5
+            },
+            {
+                "id": 175,
+                "name": "handlebars_product_24",
+                "price": 36.02
+            },
+            {
+                "id": 211,
+                "name": "stems_product_10",
+                "price": 86.05
+            },
+            {
+                "id": 375,
+                "name": "groupsets_product_24",
+                "price": 102.14
+            },
+            {
+                "id": 35,
+                "name": "tyres_product_34",
+                "price": 74.49
+            },
+            {
+                "id": 290,
+                "name": "saddle posts_product_39",
+                "price": 116.1
+            }
+        ],
+        "total_price_without_discount": 1155.59,
+        "total_amount_spent_with_discount": 1019.97,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 19,
+        "customer_name": "Customer_18",
+        "products": [
+            {
+                "id": 202,
+                "name": "stems_product_1",
+                "price": 63.77
+            },
+            {
+                "id": 106,
+                "name": "frames_product_5",
+                "price": 117.37
+            },
+            {
+                "id": 316,
+                "name": "saddles_product_15",
+                "price": 93.66
+            },
+            {
+                "id": 185,
+                "name": "handlebars_product_34",
+                "price": 163.63
+            },
+            {
+                "id": 437,
+                "name": "pedals_product_36",
+                "price": 11.38
+            },
+            {
+                "id": 94,
+                "name": "wheels_product_43",
+                "price": 59.16
+            },
+            {
+                "id": 63,
+                "name": "wheels_product_12",
+                "price": 100.48
+            }
+        ],
+        "total_price_without_discount": 609.45,
+        "total_amount_spent_with_discount": 609.45,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 20,
+        "customer_name": "Customer_19",
+        "products": [
+            {
+                "id": 308,
+                "name": "saddles_product_7",
+                "price": 75.02
+            },
+            {
+                "id": 281,
+                "name": "saddle posts_product_30",
+                "price": 192.72
+            },
+            {
+                "id": 403,
+                "name": "pedals_product_2",
+                "price": 113.08
+            },
+            {
+                "id": 344,
+                "name": "saddles_product_43",
+                "price": 25.41
+            },
+            {
+                "id": 113,
+                "name": "frames_product_12",
+                "price": 162.1
+            },
+            {
+                "id": 93,
+                "name": "wheels_product_42",
+                "price": 160.67
+            },
+            {
+                "id": 278,
+                "name": "saddle posts_product_27",
+                "price": 124.17
+            }
+        ],
+        "total_price_without_discount": 853.17,
+        "total_amount_spent_with_discount": 853.17,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 21,
+        "customer_name": "Customer_20",
+        "products": [
+            {
+                "id": 79,
+                "name": "wheels_product_28",
+                "price": 42.83
+            },
+            {
+                "id": 302,
+                "name": "saddles_product_1",
+                "price": 183.55
+            },
+            {
+                "id": 145,
+                "name": "frames_product_44",
+                "price": 47.05
+            },
+            {
+                "id": 149,
+                "name": "frames_product_48",
+                "price": 29.88
+            }
+        ],
+        "total_price_without_discount": 303.31,
+        "total_amount_spent_with_discount": 272.98,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 22,
+        "customer_name": "Customer_21",
+        "products": [
+            {
+                "id": 178,
+                "name": "handlebars_product_27",
+                "price": 126.75
+            },
+            {
+                "id": 1,
+                "name": "tyres_product_0",
+                "price": 81.71
+            },
+            {
+                "id": 131,
+                "name": "frames_product_30",
+                "price": 53.8
+            }
+        ],
+        "total_price_without_discount": 262.26,
+        "total_amount_spent_with_discount": 228.68,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 23,
+        "customer_name": "Customer_22",
+        "products": [
+            {
+                "id": 331,
+                "name": "saddles_product_30",
+                "price": 113.17
+            },
+            {
+                "id": 291,
+                "name": "saddle posts_product_40",
+                "price": 51.84
+            },
+            {
+                "id": 382,
+                "name": "groupsets_product_31",
+                "price": 132.61
+            },
+            {
+                "id": 162,
+                "name": "handlebars_product_11",
+                "price": 173.56
+            },
+            {
+                "id": 264,
+                "name": "saddle posts_product_13",
+                "price": 113.67
+            },
+            {
+                "id": 245,
+                "name": "stems_product_44",
+                "price": 79.99
+            },
+            {
+                "id": 357,
+                "name": "groupsets_product_6",
+                "price": 107.31
+            },
+            {
+                "id": 6,
+                "name": "tyres_product_5",
+                "price": 139.4
+            },
+            {
+                "id": 256,
+                "name": "saddle posts_product_5",
+                "price": 137.62
+            }
+        ],
+        "total_price_without_discount": 1049.17,
+        "total_amount_spent_with_discount": 931.71,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 24,
+        "customer_name": "Customer_23",
+        "products": [
+            {
+                "id": 267,
+                "name": "saddle posts_product_16",
+                "price": 53.59
+            }
+        ],
+        "total_price_without_discount": 53.59,
+        "total_amount_spent_with_discount": 53.59,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 25,
+        "customer_name": "Customer_24",
+        "products": [
+            {
+                "id": 21,
+                "name": "tyres_product_20",
+                "price": 199.06
+            },
+            {
+                "id": 371,
+                "name": "groupsets_product_20",
+                "price": 75.33
+            },
+            {
+                "id": 394,
+                "name": "groupsets_product_43",
+                "price": 63.6
+            },
+            {
+                "id": 59,
+                "name": "wheels_product_8",
+                "price": 121.83
+            },
+            {
+                "id": 149,
+                "name": "frames_product_48",
+                "price": 29.88
+            },
+            {
+                "id": 388,
+                "name": "groupsets_product_37",
+                "price": 180.28
+            },
+            {
+                "id": 376,
+                "name": "groupsets_product_25",
+                "price": 160.88
+            },
+            {
+                "id": 57,
+                "name": "wheels_product_6",
+                "price": 151.57
+            },
+            {
+                "id": 26,
+                "name": "tyres_product_25",
+                "price": 51.91
+            },
+            {
+                "id": 345,
+                "name": "saddles_product_44",
+                "price": 86.75
+            }
+        ],
+        "total_price_without_discount": 1121.09,
+        "total_amount_spent_with_discount": 1095.99,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 26,
+        "customer_name": "Customer_25",
+        "products": [
+            {
+                "id": 311,
+                "name": "saddles_product_10",
+                "price": 96.73
+            },
+            {
+                "id": 52,
+                "name": "wheels_product_1",
+                "price": 126.73
+            },
+            {
+                "id": 213,
+                "name": "stems_product_12",
+                "price": 185.51
+            },
+            {
+                "id": 411,
+                "name": "pedals_product_10",
+                "price": 56.55
+            },
+            {
+                "id": 414,
+                "name": "pedals_product_13",
+                "price": 104.05
+            },
+            {
+                "id": 404,
+                "name": "pedals_product_3",
+                "price": 64.52
+            },
+            {
+                "id": 99,
+                "name": "wheels_product_48",
+                "price": 151.78
+            }
+        ],
+        "total_price_without_discount": 785.87,
+        "total_amount_spent_with_discount": 707.28,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 27,
+        "customer_name": "Customer_26",
+        "products": [
+            {
+                "id": 181,
+                "name": "handlebars_product_30",
+                "price": 169.45
+            },
+            {
+                "id": 309,
+                "name": "saddles_product_8",
+                "price": 139.45
+            },
+            {
+                "id": 80,
+                "name": "wheels_product_29",
+                "price": 14.57
+            },
+            {
+                "id": 15,
+                "name": "tyres_product_14",
+                "price": 96.53
+            },
+            {
+                "id": 106,
+                "name": "frames_product_5",
+                "price": 117.37
+            },
+            {
+                "id": 203,
+                "name": "stems_product_2",
+                "price": 159.91
+            }
+        ],
+        "total_price_without_discount": 697.28,
+        "total_amount_spent_with_discount": 618.86,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 28,
+        "customer_name": "Customer_27",
+        "products": [
+            {
+                "id": 70,
+                "name": "wheels_product_19",
+                "price": 33.81
+            },
+            {
+                "id": 265,
+                "name": "saddle posts_product_14",
+                "price": 70.95
+            },
+            {
+                "id": 291,
+                "name": "saddle posts_product_40",
+                "price": 51.84
+            },
+            {
+                "id": 283,
+                "name": "saddle posts_product_32",
+                "price": 62.19
+            }
+        ],
+        "total_price_without_discount": 218.79,
+        "total_amount_spent_with_discount": 218.79,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 29,
+        "customer_name": "Customer_28",
+        "products": [
+            {
+                "id": 234,
+                "name": "stems_product_33",
+                "price": 49.41
+            },
+            {
+                "id": 369,
+                "name": "groupsets_product_18",
+                "price": 126.57
+            },
+            {
+                "id": 161,
+                "name": "handlebars_product_10",
+                "price": 38.86
+            },
+            {
+                "id": 340,
+                "name": "saddles_product_39",
+                "price": 163.64
+            },
+            {
+                "id": 160,
+                "name": "handlebars_product_9",
+                "price": 115.5
+            },
+            {
+                "id": 331,
+                "name": "saddles_product_30",
+                "price": 113.17
+            },
+            {
+                "id": 335,
+                "name": "saddles_product_34",
+                "price": 100.15
+            }
+        ],
+        "total_price_without_discount": 707.3,
+        "total_amount_spent_with_discount": 707.3,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 30,
+        "customer_name": "Customer_29",
+        "products": [
+            {
+                "id": 257,
+                "name": "saddle posts_product_6",
+                "price": 155.31
+            },
+            {
+                "id": 262,
+                "name": "saddle posts_product_11",
+                "price": 153.57
+            },
+            {
+                "id": 383,
+                "name": "groupsets_product_32",
+                "price": 193.92
+            },
+            {
+                "id": 295,
+                "name": "saddle posts_product_44",
+                "price": 154.54
+            },
+            {
+                "id": 219,
+                "name": "stems_product_18",
+                "price": 163.04
+            },
+            {
+                "id": 358,
+                "name": "groupsets_product_7",
+                "price": 197.2
+            }
+        ],
+        "total_price_without_discount": 1017.58,
+        "total_amount_spent_with_discount": 1017.58,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 31,
+        "customer_name": "Customer_30",
+        "products": [
+            {
+                "id": 410,
+                "name": "pedals_product_9",
+                "price": 102.64
+            },
+            {
+                "id": 253,
+                "name": "saddle posts_product_2",
+                "price": 170.24
+            }
+        ],
+        "total_price_without_discount": 272.88,
+        "total_amount_spent_with_discount": 245.59,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 32,
+        "customer_name": "Customer_31",
+        "products": [
+            {
+                "id": 167,
+                "name": "handlebars_product_16",
+                "price": 16.23
+            },
+            {
+                "id": 232,
+                "name": "stems_product_31",
+                "price": 119.07
+            },
+            {
+                "id": 78,
+                "name": "wheels_product_27",
+                "price": 199.84
+            },
+            {
+                "id": 294,
+                "name": "saddle posts_product_43",
+                "price": 89.28
+            },
+            {
+                "id": 51,
+                "name": "wheels_product_0",
+                "price": 113.36
+            }
+        ],
+        "total_price_without_discount": 537.78,
+        "total_amount_spent_with_discount": 484.0,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 33,
+        "customer_name": "Customer_32",
+        "products": [
+            {
+                "id": 119,
+                "name": "frames_product_18",
+                "price": 115.7
+            }
+        ],
+        "total_price_without_discount": 115.7,
+        "total_amount_spent_with_discount": 104.13,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 34,
+        "customer_name": "Customer_33",
+        "products": [
+            {
+                "id": 65,
+                "name": "wheels_product_14",
+                "price": 140.89
+            },
+            {
+                "id": 301,
+                "name": "saddles_product_0",
+                "price": 60.86
+            },
+            {
+                "id": 46,
+                "name": "tyres_product_45",
+                "price": 35.95
+            }
+        ],
+        "total_price_without_discount": 237.7,
+        "total_amount_spent_with_discount": 234.1,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 35,
+        "customer_name": "Customer_34",
+        "products": [
+            {
+                "id": 293,
+                "name": "saddle posts_product_42",
+                "price": 194.37
+            },
+            {
+                "id": 264,
+                "name": "saddle posts_product_13",
+                "price": 113.67
+            },
+            {
+                "id": 36,
+                "name": "tyres_product_35",
+                "price": 82.11
+            },
+            {
+                "id": 288,
+                "name": "saddle posts_product_37",
+                "price": 13.64
+            },
+            {
+                "id": 417,
+                "name": "pedals_product_16",
+                "price": 77.38
+            }
+        ],
+        "total_price_without_discount": 481.17,
+        "total_amount_spent_with_discount": 425.66,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 36,
+        "customer_name": "Customer_35",
+        "products": [
+            {
+                "id": 173,
+                "name": "handlebars_product_22",
+                "price": 159.72
+            },
+            {
+                "id": 141,
+                "name": "frames_product_40",
+                "price": 100.78
+            },
+            {
+                "id": 147,
+                "name": "frames_product_46",
+                "price": 135.7
+            },
+            {
+                "id": 351,
+                "name": "groupsets_product_0",
+                "price": 70.97
+            },
+            {
+                "id": 129,
+                "name": "frames_product_28",
+                "price": 32.08
+            },
+            {
+                "id": 225,
+                "name": "stems_product_24",
+                "price": 98.0
+            }
+        ],
+        "total_price_without_discount": 597.25,
+        "total_amount_spent_with_discount": 537.52,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 37,
+        "customer_name": "Customer_36",
+        "products": [
+            {
+                "id": 174,
+                "name": "handlebars_product_23",
+                "price": 132.43
+            },
+            {
+                "id": 22,
+                "name": "tyres_product_21",
+                "price": 76.47
+            },
+            {
+                "id": 8,
+                "name": "tyres_product_7",
+                "price": 179.17
+            }
+        ],
+        "total_price_without_discount": 388.07,
+        "total_amount_spent_with_discount": 362.51,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 38,
+        "customer_name": "Customer_37",
+        "products": [
+            {
+                "id": 233,
+                "name": "stems_product_32",
+                "price": 123.52
+            },
+            {
+                "id": 376,
+                "name": "groupsets_product_25",
+                "price": 160.88
+            },
+            {
+                "id": 439,
+                "name": "pedals_product_38",
+                "price": 126.72
+            },
+            {
+                "id": 362,
+                "name": "groupsets_product_11",
+                "price": 13.75
+            },
+            {
+                "id": 202,
+                "name": "stems_product_1",
+                "price": 63.77
+            },
+            {
+                "id": 82,
+                "name": "wheels_product_31",
+                "price": 34.96
+            },
+            {
+                "id": 251,
+                "name": "saddle posts_product_0",
+                "price": 66.22
+            },
+            {
+                "id": 326,
+                "name": "saddles_product_25",
+                "price": 58.83
+            },
+            {
+                "id": 307,
+                "name": "saddles_product_6",
+                "price": 25.22
+            }
+        ],
+        "total_price_without_discount": 673.87,
+        "total_amount_spent_with_discount": 606.48,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 39,
+        "customer_name": "Customer_38",
+        "products": [
+            {
+                "id": 158,
+                "name": "handlebars_product_7",
+                "price": 152.69
+            },
+            {
+                "id": 317,
+                "name": "saddles_product_16",
+                "price": 20.28
+            },
+            {
+                "id": 188,
+                "name": "handlebars_product_37",
+                "price": 194.08
+            },
+            {
+                "id": 283,
+                "name": "saddle posts_product_32",
+                "price": 62.19
+            },
+            {
+                "id": 248,
+                "name": "stems_product_47",
+                "price": 144.68
+            },
+            {
+                "id": 197,
+                "name": "handlebars_product_46",
+                "price": 183.41
+            },
+            {
+                "id": 11,
+                "name": "tyres_product_10",
+                "price": 126.77
+            },
+            {
+                "id": 281,
+                "name": "saddle posts_product_30",
+                "price": 192.72
+            },
+            {
+                "id": 47,
+                "name": "tyres_product_46",
+                "price": 51.61
+            }
+        ],
+        "total_price_without_discount": 1128.43,
+        "total_amount_spent_with_discount": 999.53,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 40,
+        "customer_name": "Customer_39",
+        "products": [
+            {
+                "id": 247,
+                "name": "stems_product_46",
+                "price": 25.6
+            },
+            {
+                "id": 282,
+                "name": "saddle posts_product_31",
+                "price": 198.13
+            },
+            {
+                "id": 48,
+                "name": "tyres_product_47",
+                "price": 162.12
+            },
+            {
+                "id": 313,
+                "name": "saddles_product_12",
+                "price": 196.99
+            },
+            {
+                "id": 35,
+                "name": "tyres_product_34",
+                "price": 74.49
+            },
+            {
+                "id": 246,
+                "name": "stems_product_45",
+                "price": 27.18
+            }
+        ],
+        "total_price_without_discount": 684.51,
+        "total_amount_spent_with_discount": 594.76,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 41,
+        "customer_name": "Customer_40",
+        "products": [
+            {
+                "id": 432,
+                "name": "pedals_product_31",
+                "price": 115.87
+            },
+            {
+                "id": 136,
+                "name": "frames_product_35",
+                "price": 75.42
+            },
+            {
+                "id": 281,
+                "name": "saddle posts_product_30",
+                "price": 192.72
+            },
+            {
+                "id": 92,
+                "name": "wheels_product_41",
+                "price": 193.47
+            },
+            {
+                "id": 363,
+                "name": "groupsets_product_12",
+                "price": 182.58
+            },
+            {
+                "id": 216,
+                "name": "stems_product_15",
+                "price": 137.79
+            },
+            {
+                "id": 328,
+                "name": "saddles_product_27",
+                "price": 52.67
+            },
+            {
+                "id": 131,
+                "name": "frames_product_30",
+                "price": 53.8
+            },
+            {
+                "id": 316,
+                "name": "saddles_product_15",
+                "price": 93.66
+            },
+            {
+                "id": 385,
+                "name": "groupsets_product_34",
+                "price": 76.17
+            }
+        ],
+        "total_price_without_discount": 1174.15,
+        "total_amount_spent_with_discount": 1056.74,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 42,
+        "customer_name": "Customer_41",
+        "products": [
+            {
+                "id": 161,
+                "name": "handlebars_product_10",
+                "price": 38.86
+            },
+            {
+                "id": 77,
+                "name": "wheels_product_26",
+                "price": 43.76
+            }
+        ],
+        "total_price_without_discount": 82.62,
+        "total_amount_spent_with_discount": 82.62,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 43,
+        "customer_name": "Customer_42",
+        "products": [
+            {
+                "id": 53,
+                "name": "wheels_product_2",
+                "price": 114.63
+            },
+            {
+                "id": 249,
+                "name": "stems_product_48",
+                "price": 36.86
+            },
+            {
+                "id": 450,
+                "name": "pedals_product_49",
+                "price": 139.71
+            },
+            {
+                "id": 305,
+                "name": "saddles_product_4",
+                "price": 65.45
+            }
+        ],
+        "total_price_without_discount": 356.65,
+        "total_amount_spent_with_discount": 356.65,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 44,
+        "customer_name": "Customer_43",
+        "products": [
+            {
+                "id": 297,
+                "name": "saddle posts_product_46",
+                "price": 103.03
+            },
+            {
+                "id": 300,
+                "name": "saddle posts_product_49",
+                "price": 70.57
+            },
+            {
+                "id": 121,
+                "name": "frames_product_20",
+                "price": 198.04
+            },
+            {
+                "id": 53,
+                "name": "wheels_product_2",
+                "price": 114.63
+            },
+            {
+                "id": 289,
+                "name": "saddle posts_product_38",
+                "price": 187.12
+            },
+            {
+                "id": 137,
+                "name": "frames_product_36",
+                "price": 85.97
+            },
+            {
+                "id": 291,
+                "name": "saddle posts_product_40",
+                "price": 51.84
+            },
+            {
+                "id": 114,
+                "name": "frames_product_13",
+                "price": 130.4
+            },
+            {
+                "id": 292,
+                "name": "saddle posts_product_41",
+                "price": 144.66
+            }
+        ],
+        "total_price_without_discount": 1086.26,
+        "total_amount_spent_with_discount": 977.63,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 45,
+        "customer_name": "Customer_44",
+        "products": [
+            {
+                "id": 369,
+                "name": "groupsets_product_18",
+                "price": 126.57
+            },
+            {
+                "id": 2,
+                "name": "tyres_product_1",
+                "price": 178.04
+            },
+            {
+                "id": 319,
+                "name": "saddles_product_18",
+                "price": 12.22
+            },
+            {
+                "id": 61,
+                "name": "wheels_product_10",
+                "price": 140.54
+            },
+            {
+                "id": 208,
+                "name": "stems_product_7",
+                "price": 146.27
+            },
+            {
+                "id": 50,
+                "name": "tyres_product_49",
+                "price": 159.37
+            },
+            {
+                "id": 44,
+                "name": "tyres_product_43",
+                "price": 17.27
+            },
+            {
+                "id": 395,
+                "name": "groupsets_product_44",
+                "price": 187.34
+            },
+            {
+                "id": 212,
+                "name": "stems_product_11",
+                "price": 77.91
+            },
+            {
+                "id": 77,
+                "name": "wheels_product_26",
+                "price": 43.76
+            }
+        ],
+        "total_price_without_discount": 1089.29,
+        "total_amount_spent_with_discount": 948.44,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 46,
+        "customer_name": "Customer_45",
+        "products": [
+            {
+                "id": 145,
+                "name": "frames_product_44",
+                "price": 47.05
+            }
+        ],
+        "total_price_without_discount": 47.05,
+        "total_amount_spent_with_discount": 47.05,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 47,
+        "customer_name": "Customer_46",
+        "products": [
+            {
+                "id": 61,
+                "name": "wheels_product_10",
+                "price": 140.54
+            },
+            {
+                "id": 270,
+                "name": "saddle posts_product_19",
+                "price": 165.94
+            }
+        ],
+        "total_price_without_discount": 306.48,
+        "total_amount_spent_with_discount": 275.83,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 48,
+        "customer_name": "Customer_47",
+        "products": [
+            {
+                "id": 44,
+                "name": "tyres_product_43",
+                "price": 17.27
+            },
+            {
+                "id": 290,
+                "name": "saddle posts_product_39",
+                "price": 116.1
+            },
+            {
+                "id": 336,
+                "name": "saddles_product_35",
+                "price": 26.02
+            },
+            {
+                "id": 31,
+                "name": "tyres_product_30",
+                "price": 165.72
+            },
+            {
+                "id": 310,
+                "name": "saddles_product_9",
+                "price": 156.89
+            },
+            {
+                "id": 397,
+                "name": "groupsets_product_46",
+                "price": 138.78
+            },
+            {
+                "id": 395,
+                "name": "groupsets_product_44",
+                "price": 187.34
+            }
+        ],
+        "total_price_without_discount": 808.12,
+        "total_amount_spent_with_discount": 710.84,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 49,
+        "customer_name": "Customer_48",
+        "products": [
+            {
+                "id": 177,
+                "name": "handlebars_product_26",
+                "price": 48.92
+            },
+            {
+                "id": 441,
+                "name": "pedals_product_40",
+                "price": 16.94
+            },
+            {
+                "id": 130,
+                "name": "frames_product_29",
+                "price": 44.9
+            },
+            {
+                "id": 129,
+                "name": "frames_product_28",
+                "price": 32.08
+            },
+            {
+                "id": 145,
+                "name": "frames_product_44",
+                "price": 47.05
+            },
+            {
+                "id": 35,
+                "name": "tyres_product_34",
+                "price": 74.49
+            },
+            {
+                "id": 173,
+                "name": "handlebars_product_22",
+                "price": 159.72
+            },
+            {
+                "id": 81,
+                "name": "wheels_product_30",
+                "price": 55.73
+            }
+        ],
+        "total_price_without_discount": 479.83,
+        "total_amount_spent_with_discount": 425.14,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 50,
+        "customer_name": "Customer_49",
+        "products": [
+            {
+                "id": 40,
+                "name": "tyres_product_39",
+                "price": 180.79
+            },
+            {
+                "id": 337,
+                "name": "saddles_product_36",
+                "price": 15.16
+            },
+            {
+                "id": 175,
+                "name": "handlebars_product_24",
+                "price": 36.02
+            },
+            {
+                "id": 169,
+                "name": "handlebars_product_18",
+                "price": 146.61
+            },
+            {
+                "id": 449,
+                "name": "pedals_product_48",
+                "price": 95.37
+            },
+            {
+                "id": 10,
+                "name": "tyres_product_9",
+                "price": 136.29
+            },
+            {
+                "id": 141,
+                "name": "frames_product_40",
+                "price": 100.78
+            },
+            {
+                "id": 185,
+                "name": "handlebars_product_34",
+                "price": 163.63
+            },
+            {
+                "id": 29,
+                "name": "tyres_product_28",
+                "price": 165.25
+            },
+            {
+                "id": 206,
+                "name": "stems_product_5",
+                "price": 178.56
+            }
+        ],
+        "total_price_without_discount": 1218.46,
+        "total_amount_spent_with_discount": 1053.2,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 51,
+        "customer_name": "Customer_50",
+        "products": [
+            {
+                "id": 147,
+                "name": "frames_product_46",
+                "price": 135.7
+            },
+            {
+                "id": 179,
+                "name": "handlebars_product_28",
+                "price": 65.94
+            },
+            {
+                "id": 155,
+                "name": "handlebars_product_4",
+                "price": 74.59
+            },
+            {
+                "id": 422,
+                "name": "pedals_product_21",
+                "price": 170.33
+            },
+            {
+                "id": 111,
+                "name": "frames_product_10",
+                "price": 63.82
+            },
+            {
+                "id": 23,
+                "name": "tyres_product_22",
+                "price": 140.56
+            }
+        ],
+        "total_price_without_discount": 650.94,
+        "total_amount_spent_with_discount": 636.88,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 52,
+        "customer_name": "Customer_51",
+        "products": [
+            {
+                "id": 125,
+                "name": "frames_product_24",
+                "price": 91.65
+            },
+            {
+                "id": 312,
+                "name": "saddles_product_11",
+                "price": 78.47
+            },
+            {
+                "id": 93,
+                "name": "wheels_product_42",
+                "price": 160.67
+            },
+            {
+                "id": 275,
+                "name": "saddle posts_product_24",
+                "price": 52.35
+            },
+            {
+                "id": 4,
+                "name": "tyres_product_3",
+                "price": 106.88
+            },
+            {
+                "id": 305,
+                "name": "saddles_product_4",
+                "price": 65.45
+            },
+            {
+                "id": 357,
+                "name": "groupsets_product_6",
+                "price": 107.31
+            },
+            {
+                "id": 189,
+                "name": "handlebars_product_38",
+                "price": 180.29
+            }
+        ],
+        "total_price_without_discount": 843.07,
+        "total_amount_spent_with_discount": 749.14,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 53,
+        "customer_name": "Customer_52",
+        "products": [
+            {
+                "id": 14,
+                "name": "tyres_product_13",
+                "price": 15.68
+            },
+            {
+                "id": 436,
+                "name": "pedals_product_35",
+                "price": 53.15
+            },
+            {
+                "id": 200,
+                "name": "handlebars_product_49",
+                "price": 157.84
+            },
+            {
+                "id": 85,
+                "name": "wheels_product_34",
+                "price": 101.06
+            },
+            {
+                "id": 273,
+                "name": "saddle posts_product_22",
+                "price": 172.55
+            }
+        ],
+        "total_price_without_discount": 500.28,
+        "total_amount_spent_with_discount": 448.84,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 54,
+        "customer_name": "Customer_53",
+        "products": [
+            {
+                "id": 400,
+                "name": "groupsets_product_49",
+                "price": 98.68
+            },
+            {
+                "id": 399,
+                "name": "groupsets_product_48",
+                "price": 176.88
+            },
+            {
+                "id": 236,
+                "name": "stems_product_35",
+                "price": 73.55
+            },
+            {
+                "id": 416,
+                "name": "pedals_product_15",
+                "price": 146.08
+            },
+            {
+                "id": 6,
+                "name": "tyres_product_5",
+                "price": 139.4
+            },
+            {
+                "id": 388,
+                "name": "groupsets_product_37",
+                "price": 180.28
+            },
+            {
+                "id": 60,
+                "name": "wheels_product_9",
+                "price": 89.26
+            },
+            {
+                "id": 98,
+                "name": "wheels_product_47",
+                "price": 141.72
+            }
+        ],
+        "total_price_without_discount": 1045.85,
+        "total_amount_spent_with_discount": 1031.91,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 55,
+        "customer_name": "Customer_54",
+        "products": [
+            {
+                "id": 34,
+                "name": "tyres_product_33",
+                "price": 176.03
+            },
+            {
+                "id": 399,
+                "name": "groupsets_product_48",
+                "price": 176.88
+            },
+            {
+                "id": 273,
+                "name": "saddle posts_product_22",
+                "price": 172.55
+            },
+            {
+                "id": 151,
+                "name": "handlebars_product_0",
+                "price": 54.51
+            },
+            {
+                "id": 75,
+                "name": "wheels_product_24",
+                "price": 13.56
+            },
+            {
+                "id": 50,
+                "name": "tyres_product_49",
+                "price": 159.37
+            },
+            {
+                "id": 83,
+                "name": "wheels_product_32",
+                "price": 26.56
+            },
+            {
+                "id": 374,
+                "name": "groupsets_product_23",
+                "price": 154.14
+            }
+        ],
+        "total_price_without_discount": 933.6,
+        "total_amount_spent_with_discount": 810.05,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 56,
+        "customer_name": "Customer_55",
+        "products": [
+            {
+                "id": 158,
+                "name": "handlebars_product_7",
+                "price": 152.69
+            },
+            {
+                "id": 339,
+                "name": "saddles_product_38",
+                "price": 122.02
+            },
+            {
+                "id": 426,
+                "name": "pedals_product_25",
+                "price": 135.08
+            },
+            {
+                "id": 196,
+                "name": "handlebars_product_45",
+                "price": 88.06
+            },
+            {
+                "id": 332,
+                "name": "saddles_product_31",
+                "price": 15.67
+            },
+            {
+                "id": 422,
+                "name": "pedals_product_21",
+                "price": 170.33
+            }
+        ],
+        "total_price_without_discount": 683.85,
+        "total_amount_spent_with_discount": 615.47,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 57,
+        "customer_name": "Customer_56",
+        "products": [
+            {
+                "id": 126,
+                "name": "frames_product_25",
+                "price": 18.72
+            }
+        ],
+        "total_price_without_discount": 18.72,
+        "total_amount_spent_with_discount": 18.72,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 58,
+        "customer_name": "Customer_57",
+        "products": [
+            {
+                "id": 223,
+                "name": "stems_product_22",
+                "price": 155.29
+            },
+            {
+                "id": 34,
+                "name": "tyres_product_33",
+                "price": 176.03
+            },
+            {
+                "id": 125,
+                "name": "frames_product_24",
+                "price": 91.65
+            },
+            {
+                "id": 385,
+                "name": "groupsets_product_34",
+                "price": 76.17
+            },
+            {
+                "id": 234,
+                "name": "stems_product_33",
+                "price": 49.41
+            },
+            {
+                "id": 414,
+                "name": "pedals_product_13",
+                "price": 104.05
+            },
+            {
+                "id": 330,
+                "name": "saddles_product_29",
+                "price": 64.77
+            },
+            {
+                "id": 20,
+                "name": "tyres_product_19",
+                "price": 84.96
+            },
+            {
+                "id": 443,
+                "name": "pedals_product_42",
+                "price": 67.72
+            },
+            {
+                "id": 251,
+                "name": "saddle posts_product_0",
+                "price": 66.22
+            }
+        ],
+        "total_price_without_discount": 936.27,
+        "total_amount_spent_with_discount": 819.15,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 59,
+        "customer_name": "Customer_58",
+        "products": [
+            {
+                "id": 74,
+                "name": "wheels_product_23",
+                "price": 120.2
+            },
+            {
+                "id": 450,
+                "name": "pedals_product_49",
+                "price": 139.71
+            }
+        ],
+        "total_price_without_discount": 259.91,
+        "total_amount_spent_with_discount": 259.91,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 60,
+        "customer_name": "Customer_59",
+        "products": [
+            {
+                "id": 65,
+                "name": "wheels_product_14",
+                "price": 140.89
+            },
+            {
+                "id": 197,
+                "name": "handlebars_product_46",
+                "price": 183.41
+            },
+            {
+                "id": 369,
+                "name": "groupsets_product_18",
+                "price": 126.57
+            },
+            {
+                "id": 337,
+                "name": "saddles_product_36",
+                "price": 15.16
+            },
+            {
+                "id": 311,
+                "name": "saddles_product_10",
+                "price": 96.73
+            },
+            {
+                "id": 89,
+                "name": "wheels_product_38",
+                "price": 125.85
+            },
+            {
+                "id": 117,
+                "name": "frames_product_16",
+                "price": 51.73
+            },
+            {
+                "id": 254,
+                "name": "saddle posts_product_3",
+                "price": 12.46
+            }
+        ],
+        "total_price_without_discount": 752.8,
+        "total_amount_spent_with_discount": 677.52,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 61,
+        "customer_name": "Customer_60",
+        "products": [
+            {
+                "id": 98,
+                "name": "wheels_product_47",
+                "price": 141.72
+            },
+            {
+                "id": 221,
+                "name": "stems_product_20",
+                "price": 24.48
+            }
+        ],
+        "total_price_without_discount": 166.2,
+        "total_amount_spent_with_discount": 166.2,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 62,
+        "customer_name": "Customer_61",
+        "products": [
+            {
+                "id": 434,
+                "name": "pedals_product_33",
+                "price": 53.68
+            },
+            {
+                "id": 28,
+                "name": "tyres_product_27",
+                "price": 106.69
+            },
+            {
+                "id": 363,
+                "name": "groupsets_product_12",
+                "price": 182.58
+            },
+            {
+                "id": 313,
+                "name": "saddles_product_12",
+                "price": 196.99
+            },
+            {
+                "id": 82,
+                "name": "wheels_product_31",
+                "price": 34.96
+            }
+        ],
+        "total_price_without_discount": 574.9,
+        "total_amount_spent_with_discount": 507.81,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 63,
+        "customer_name": "Customer_62",
+        "products": [
+            {
+                "id": 97,
+                "name": "wheels_product_46",
+                "price": 10.9
+            },
+            {
+                "id": 416,
+                "name": "pedals_product_15",
+                "price": 146.08
+            },
+            {
+                "id": 13,
+                "name": "tyres_product_12",
+                "price": 148.46
+            },
+            {
+                "id": 37,
+                "name": "tyres_product_36",
+                "price": 128.6
+            },
+            {
+                "id": 89,
+                "name": "wheels_product_38",
+                "price": 125.85
+            }
+        ],
+        "total_price_without_discount": 559.89,
+        "total_amount_spent_with_discount": 532.18,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 64,
+        "customer_name": "Customer_63",
+        "products": [
+            {
+                "id": 200,
+                "name": "handlebars_product_49",
+                "price": 157.84
+            },
+            {
+                "id": 315,
+                "name": "saddles_product_14",
+                "price": 121.17
+            },
+            {
+                "id": 359,
+                "name": "groupsets_product_8",
+                "price": 162.56
+            },
+            {
+                "id": 68,
+                "name": "wheels_product_17",
+                "price": 187.96
+            },
+            {
+                "id": 217,
+                "name": "stems_product_16",
+                "price": 165.42
+            }
+        ],
+        "total_price_without_discount": 794.95,
+        "total_amount_spent_with_discount": 794.95,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 65,
+        "customer_name": "Customer_64",
+        "products": [
+            {
+                "id": 287,
+                "name": "saddle posts_product_36",
+                "price": 196.77
+            },
+            {
+                "id": 447,
+                "name": "pedals_product_46",
+                "price": 22.82
+            },
+            {
+                "id": 98,
+                "name": "wheels_product_47",
+                "price": 141.72
+            },
+            {
+                "id": 318,
+                "name": "saddles_product_17",
+                "price": 81.27
+            },
+            {
+                "id": 125,
+                "name": "frames_product_24",
+                "price": 91.65
+            },
+            {
+                "id": 295,
+                "name": "saddle posts_product_44",
+                "price": 154.54
+            },
+            {
+                "id": 5,
+                "name": "tyres_product_4",
+                "price": 44.36
+            },
+            {
+                "id": 87,
+                "name": "wheels_product_36",
+                "price": 142.04
+            }
+        ],
+        "total_price_without_discount": 875.17,
+        "total_amount_spent_with_discount": 783.66,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 66,
+        "customer_name": "Customer_65",
+        "products": [
+            {
+                "id": 307,
+                "name": "saddles_product_6",
+                "price": 25.22
+            },
+            {
+                "id": 180,
+                "name": "handlebars_product_29",
+                "price": 112.27
+            },
+            {
+                "id": 257,
+                "name": "saddle posts_product_6",
+                "price": 155.31
+            },
+            {
+                "id": 34,
+                "name": "tyres_product_33",
+                "price": 176.03
+            },
+            {
+                "id": 188,
+                "name": "handlebars_product_37",
+                "price": 194.08
+            },
+            {
+                "id": 81,
+                "name": "wheels_product_30",
+                "price": 55.73
+            },
+            {
+                "id": 318,
+                "name": "saddles_product_17",
+                "price": 81.27
+            },
+            {
+                "id": 86,
+                "name": "wheels_product_35",
+                "price": 108.17
+            }
+        ],
+        "total_price_without_discount": 908.08,
+        "total_amount_spent_with_discount": 801.43,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 67,
+        "customer_name": "Customer_66",
+        "products": [
+            {
+                "id": 393,
+                "name": "groupsets_product_42",
+                "price": 135.87
+            },
+            {
+                "id": 445,
+                "name": "pedals_product_44",
+                "price": 27.18
+            },
+            {
+                "id": 415,
+                "name": "pedals_product_14",
+                "price": 197.84
+            },
+            {
+                "id": 64,
+                "name": "wheels_product_13",
+                "price": 180.04
+            }
+        ],
+        "total_price_without_discount": 540.93,
+        "total_amount_spent_with_discount": 540.93,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 68,
+        "customer_name": "Customer_67",
+        "products": [
+            {
+                "id": 193,
+                "name": "handlebars_product_42",
+                "price": 94.19
+            },
+            {
+                "id": 15,
+                "name": "tyres_product_14",
+                "price": 96.53
+            },
+            {
+                "id": 60,
+                "name": "wheels_product_9",
+                "price": 89.26
+            },
+            {
+                "id": 196,
+                "name": "handlebars_product_45",
+                "price": 88.06
+            },
+            {
+                "id": 233,
+                "name": "stems_product_32",
+                "price": 123.52
+            },
+            {
+                "id": 224,
+                "name": "stems_product_23",
+                "price": 64.81
+            }
+        ],
+        "total_price_without_discount": 556.37,
+        "total_amount_spent_with_discount": 492.05,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 69,
+        "customer_name": "Customer_68",
+        "products": [
+            {
+                "id": 57,
+                "name": "wheels_product_6",
+                "price": 151.57
+            },
+            {
+                "id": 396,
+                "name": "groupsets_product_45",
+                "price": 121.8
+            },
+            {
+                "id": 274,
+                "name": "saddle posts_product_23",
+                "price": 130.0
+            },
+            {
+                "id": 383,
+                "name": "groupsets_product_32",
+                "price": 193.92
+            },
+            {
+                "id": 67,
+                "name": "wheels_product_16",
+                "price": 115.12
+            }
+        ],
+        "total_price_without_discount": 712.41,
+        "total_amount_spent_with_discount": 712.41,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 70,
+        "customer_name": "Customer_69",
+        "products": [
+            {
+                "id": 67,
+                "name": "wheels_product_16",
+                "price": 115.12
+            },
+            {
+                "id": 239,
+                "name": "stems_product_38",
+                "price": 68.98
+            },
+            {
+                "id": 126,
+                "name": "frames_product_25",
+                "price": 18.72
+            },
+            {
+                "id": 345,
+                "name": "saddles_product_44",
+                "price": 86.75
+            },
+            {
+                "id": 389,
+                "name": "groupsets_product_38",
+                "price": 49.22
+            }
+        ],
+        "total_price_without_discount": 338.79,
+        "total_amount_spent_with_discount": 338.79,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 71,
+        "customer_name": "Customer_70",
+        "products": [
+            {
+                "id": 28,
+                "name": "tyres_product_27",
+                "price": 106.69
+            },
+            {
+                "id": 311,
+                "name": "saddles_product_10",
+                "price": 96.73
+            },
+            {
+                "id": 14,
+                "name": "tyres_product_13",
+                "price": 15.68
+            },
+            {
+                "id": 216,
+                "name": "stems_product_15",
+                "price": 137.79
+            },
+            {
+                "id": 397,
+                "name": "groupsets_product_46",
+                "price": 138.78
+            },
+            {
+                "id": 113,
+                "name": "frames_product_12",
+                "price": 162.1
+            },
+            {
+                "id": 70,
+                "name": "wheels_product_19",
+                "price": 33.81
+            }
+        ],
+        "total_price_without_discount": 691.58,
+        "total_amount_spent_with_discount": 611.41,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 72,
+        "customer_name": "Customer_71",
+        "products": [
+            {
+                "id": 99,
+                "name": "wheels_product_48",
+                "price": 151.78
+            },
+            {
+                "id": 375,
+                "name": "groupsets_product_24",
+                "price": 102.14
+            },
+            {
+                "id": 332,
+                "name": "saddles_product_31",
+                "price": 15.67
+            }
+        ],
+        "total_price_without_discount": 269.59,
+        "total_amount_spent_with_discount": 242.63,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 73,
+        "customer_name": "Customer_72",
+        "products": [
+            {
+                "id": 326,
+                "name": "saddles_product_25",
+                "price": 58.83
+            },
+            {
+                "id": 319,
+                "name": "saddles_product_18",
+                "price": 12.22
+            },
+            {
+                "id": 421,
+                "name": "pedals_product_20",
+                "price": 167.0
+            },
+            {
+                "id": 259,
+                "name": "saddle posts_product_8",
+                "price": 157.34
+            },
+            {
+                "id": 176,
+                "name": "handlebars_product_25",
+                "price": 77.39
+            },
+            {
+                "id": 106,
+                "name": "frames_product_5",
+                "price": 117.37
+            },
+            {
+                "id": 1,
+                "name": "tyres_product_0",
+                "price": 81.71
+            },
+            {
+                "id": 58,
+                "name": "wheels_product_7",
+                "price": 128.86
+            },
+            {
+                "id": 333,
+                "name": "saddles_product_32",
+                "price": 20.53
+            },
+            {
+                "id": 36,
+                "name": "tyres_product_35",
+                "price": 82.11
+            }
+        ],
+        "total_price_without_discount": 903.36,
+        "total_amount_spent_with_discount": 886.98,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 74,
+        "customer_name": "Customer_73",
+        "products": [
+            {
+                "id": 344,
+                "name": "saddles_product_43",
+                "price": 25.41
+            },
+            {
+                "id": 165,
+                "name": "handlebars_product_14",
+                "price": 106.15
+            },
+            {
+                "id": 208,
+                "name": "stems_product_7",
+                "price": 146.27
+            },
+            {
+                "id": 118,
+                "name": "frames_product_17",
+                "price": 103.4
+            }
+        ],
+        "total_price_without_discount": 381.23,
+        "total_amount_spent_with_discount": 343.11,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 75,
+        "customer_name": "Customer_74",
+        "products": [
+            {
+                "id": 243,
+                "name": "stems_product_42",
+                "price": 73.16
+            },
+            {
+                "id": 425,
+                "name": "pedals_product_24",
+                "price": 38.08
+            },
+            {
+                "id": 307,
+                "name": "saddles_product_6",
+                "price": 25.22
+            },
+            {
+                "id": 60,
+                "name": "wheels_product_9",
+                "price": 89.26
+            },
+            {
+                "id": 396,
+                "name": "groupsets_product_45",
+                "price": 121.8
+            },
+            {
+                "id": 204,
+                "name": "stems_product_3",
+                "price": 30.14
+            },
+            {
+                "id": 263,
+                "name": "saddle posts_product_12",
+                "price": 154.67
+            },
+            {
+                "id": 91,
+                "name": "wheels_product_40",
+                "price": 88.24
+            }
+        ],
+        "total_price_without_discount": 620.57,
+        "total_amount_spent_with_discount": 620.57,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 76,
+        "customer_name": "Customer_75",
+        "products": [
+            {
+                "id": 378,
+                "name": "groupsets_product_27",
+                "price": 103.71
+            }
+        ],
+        "total_price_without_discount": 103.71,
+        "total_amount_spent_with_discount": 103.71,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 77,
+        "customer_name": "Customer_76",
+        "products": [
+            {
+                "id": 216,
+                "name": "stems_product_15",
+                "price": 137.79
+            },
+            {
+                "id": 104,
+                "name": "frames_product_3",
+                "price": 134.99
+            },
+            {
+                "id": 369,
+                "name": "groupsets_product_18",
+                "price": 126.57
+            },
+            {
+                "id": 400,
+                "name": "groupsets_product_49",
+                "price": 98.68
+            },
+            {
+                "id": 299,
+                "name": "saddle posts_product_48",
+                "price": 76.06
+            },
+            {
+                "id": 114,
+                "name": "frames_product_13",
+                "price": 130.4
+            },
+            {
+                "id": 125,
+                "name": "frames_product_24",
+                "price": 91.65
+            },
+            {
+                "id": 163,
+                "name": "handlebars_product_12",
+                "price": 37.85
+            }
+        ],
+        "total_price_without_discount": 833.99,
+        "total_amount_spent_with_discount": 750.59,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 78,
+        "customer_name": "Customer_77",
+        "products": [
+            {
+                "id": 50,
+                "name": "tyres_product_49",
+                "price": 159.37
+            },
+            {
+                "id": 190,
+                "name": "handlebars_product_39",
+                "price": 168.47
+            },
+            {
+                "id": 411,
+                "name": "pedals_product_10",
+                "price": 56.55
+            }
+        ],
+        "total_price_without_discount": 384.39,
+        "total_amount_spent_with_discount": 331.61,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 79,
+        "customer_name": "Customer_78",
+        "products": [
+            {
+                "id": 87,
+                "name": "wheels_product_36",
+                "price": 142.04
+            },
+            {
+                "id": 86,
+                "name": "wheels_product_35",
+                "price": 108.17
+            },
+            {
+                "id": 274,
+                "name": "saddle posts_product_23",
+                "price": 130.0
+            }
+        ],
+        "total_price_without_discount": 380.21,
+        "total_amount_spent_with_discount": 342.19,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 80,
+        "customer_name": "Customer_79",
+        "products": [
+            {
+                "id": 76,
+                "name": "wheels_product_25",
+                "price": 74.61
+            },
+            {
+                "id": 137,
+                "name": "frames_product_36",
+                "price": 85.97
+            },
+            {
+                "id": 298,
+                "name": "saddle posts_product_47",
+                "price": 178.06
+            },
+            {
+                "id": 104,
+                "name": "frames_product_3",
+                "price": 134.99
+            },
+            {
+                "id": 322,
+                "name": "saddles_product_21",
+                "price": 129.5
+            },
+            {
+                "id": 47,
+                "name": "tyres_product_46",
+                "price": 51.61
+            },
+            {
+                "id": 167,
+                "name": "handlebars_product_16",
+                "price": 16.23
+            },
+            {
+                "id": 316,
+                "name": "saddles_product_15",
+                "price": 93.66
+            },
+            {
+                "id": 232,
+                "name": "stems_product_31",
+                "price": 119.07
+            },
+            {
+                "id": 424,
+                "name": "pedals_product_23",
+                "price": 166.72
+            }
+        ],
+        "total_price_without_discount": 1050.42,
+        "total_amount_spent_with_discount": 1045.26,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 81,
+        "customer_name": "Customer_80",
+        "products": [
+            {
+                "id": 238,
+                "name": "stems_product_37",
+                "price": 65.55
+            },
+            {
+                "id": 435,
+                "name": "pedals_product_34",
+                "price": 81.71
+            },
+            {
+                "id": 224,
+                "name": "stems_product_23",
+                "price": 64.81
+            },
+            {
+                "id": 326,
+                "name": "saddles_product_25",
+                "price": 58.83
+            },
+            {
+                "id": 401,
+                "name": "pedals_product_0",
+                "price": 182.87
+            },
+            {
+                "id": 187,
+                "name": "handlebars_product_36",
+                "price": 144.35
+            },
+            {
+                "id": 397,
+                "name": "groupsets_product_46",
+                "price": 138.78
+            },
+            {
+                "id": 398,
+                "name": "groupsets_product_47",
+                "price": 77.01
+            },
+            {
+                "id": 137,
+                "name": "frames_product_36",
+                "price": 85.97
+            }
+        ],
+        "total_price_without_discount": 899.88,
+        "total_amount_spent_with_discount": 809.89,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 82,
+        "customer_name": "Customer_81",
+        "products": [
+            {
+                "id": 163,
+                "name": "handlebars_product_12",
+                "price": 37.85
+            },
+            {
+                "id": 305,
+                "name": "saddles_product_4",
+                "price": 65.45
+            },
+            {
+                "id": 432,
+                "name": "pedals_product_31",
+                "price": 115.87
+            }
+        ],
+        "total_price_without_discount": 219.17,
+        "total_amount_spent_with_discount": 219.17,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 83,
+        "customer_name": "Customer_82",
+        "products": [
+            {
+                "id": 294,
+                "name": "saddle posts_product_43",
+                "price": 89.28
+            },
+            {
+                "id": 81,
+                "name": "wheels_product_30",
+                "price": 55.73
+            },
+            {
+                "id": 193,
+                "name": "handlebars_product_42",
+                "price": 94.19
+            },
+            {
+                "id": 35,
+                "name": "tyres_product_34",
+                "price": 74.49
+            },
+            {
+                "id": 112,
+                "name": "frames_product_11",
+                "price": 182.72
+            },
+            {
+                "id": 224,
+                "name": "stems_product_23",
+                "price": 64.81
+            },
+            {
+                "id": 232,
+                "name": "stems_product_31",
+                "price": 119.07
+            }
+        ],
+        "total_price_without_discount": 680.29,
+        "total_amount_spent_with_discount": 672.84,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 84,
+        "customer_name": "Customer_83",
+        "products": [
+            {
+                "id": 133,
+                "name": "frames_product_32",
+                "price": 48.56
+            },
+            {
+                "id": 112,
+                "name": "frames_product_11",
+                "price": 182.72
+            },
+            {
+                "id": 188,
+                "name": "handlebars_product_37",
+                "price": 194.08
+            },
+            {
+                "id": 53,
+                "name": "wheels_product_2",
+                "price": 114.63
+            },
+            {
+                "id": 431,
+                "name": "pedals_product_30",
+                "price": 171.76
+            },
+            {
+                "id": 331,
+                "name": "saddles_product_30",
+                "price": 113.17
+            }
+        ],
+        "total_price_without_discount": 824.92,
+        "total_amount_spent_with_discount": 742.43,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 85,
+        "customer_name": "Customer_84",
+        "products": [
+            {
+                "id": 349,
+                "name": "saddles_product_48",
+                "price": 20.25
+            },
+            {
+                "id": 171,
+                "name": "handlebars_product_20",
+                "price": 93.4
+            },
+            {
+                "id": 236,
+                "name": "stems_product_35",
+                "price": 73.55
+            },
+            {
+                "id": 443,
+                "name": "pedals_product_42",
+                "price": 67.72
+            },
+            {
+                "id": 421,
+                "name": "pedals_product_20",
+                "price": 167.0
+            }
+        ],
+        "total_price_without_discount": 421.92,
+        "total_amount_spent_with_discount": 421.92,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 86,
+        "customer_name": "Customer_85",
+        "products": [
+            {
+                "id": 241,
+                "name": "stems_product_40",
+                "price": 99.64
+            },
+            {
+                "id": 397,
+                "name": "groupsets_product_46",
+                "price": 138.78
+            },
+            {
+                "id": 212,
+                "name": "stems_product_11",
+                "price": 77.91
+            },
+            {
+                "id": 398,
+                "name": "groupsets_product_47",
+                "price": 77.01
+            },
+            {
+                "id": 371,
+                "name": "groupsets_product_20",
+                "price": 75.33
+            },
+            {
+                "id": 348,
+                "name": "saddles_product_47",
+                "price": 59.07
+            },
+            {
+                "id": 123,
+                "name": "frames_product_22",
+                "price": 125.88
+            }
+        ],
+        "total_price_without_discount": 653.62,
+        "total_amount_spent_with_discount": 653.62,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 87,
+        "customer_name": "Customer_86",
+        "products": [
+            {
+                "id": 350,
+                "name": "saddles_product_49",
+                "price": 115.95
+            },
+            {
+                "id": 148,
+                "name": "frames_product_47",
+                "price": 74.27
+            },
+            {
+                "id": 260,
+                "name": "saddle posts_product_9",
+                "price": 27.84
+            },
+            {
+                "id": 107,
+                "name": "frames_product_6",
+                "price": 149.49
+            },
+            {
+                "id": 191,
+                "name": "handlebars_product_40",
+                "price": 128.3
+            },
+            {
+                "id": 348,
+                "name": "saddles_product_47",
+                "price": 59.07
+            },
+            {
+                "id": 323,
+                "name": "saddles_product_22",
+                "price": 124.59
+            },
+            {
+                "id": 329,
+                "name": "saddles_product_28",
+                "price": 114.59
+            }
+        ],
+        "total_price_without_discount": 794.1,
+        "total_amount_spent_with_discount": 714.69,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 88,
+        "customer_name": "Customer_87",
+        "products": [
+            {
+                "id": 169,
+                "name": "handlebars_product_18",
+                "price": 146.61
+            },
+            {
+                "id": 179,
+                "name": "handlebars_product_28",
+                "price": 65.94
+            },
+            {
+                "id": 365,
+                "name": "groupsets_product_14",
+                "price": 20.21
+            },
+            {
+                "id": 199,
+                "name": "handlebars_product_48",
+                "price": 33.44
+            },
+            {
+                "id": 162,
+                "name": "handlebars_product_11",
+                "price": 173.56
+            },
+            {
+                "id": 105,
+                "name": "frames_product_4",
+                "price": 84.18
+            },
+            {
+                "id": 190,
+                "name": "handlebars_product_39",
+                "price": 168.47
+            },
+            {
+                "id": 117,
+                "name": "frames_product_16",
+                "price": 51.73
+            },
+            {
+                "id": 93,
+                "name": "wheels_product_42",
+                "price": 160.67
+            },
+            {
+                "id": 360,
+                "name": "groupsets_product_9",
+                "price": 138.93
+            }
+        ],
+        "total_price_without_discount": 1043.74,
+        "total_amount_spent_with_discount": 1043.74,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 89,
+        "customer_name": "Customer_88",
+        "products": [
+            {
+                "id": 392,
+                "name": "groupsets_product_41",
+                "price": 155.72
+            },
+            {
+                "id": 322,
+                "name": "saddles_product_21",
+                "price": 129.5
+            }
+        ],
+        "total_price_without_discount": 285.22,
+        "total_amount_spent_with_discount": 285.22,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 90,
+        "customer_name": "Customer_89",
+        "products": [
+            {
+                "id": 353,
+                "name": "groupsets_product_2",
+                "price": 105.22
+            },
+            {
+                "id": 207,
+                "name": "stems_product_6",
+                "price": 184.77
+            },
+            {
+                "id": 236,
+                "name": "stems_product_35",
+                "price": 73.55
+            },
+            {
+                "id": 368,
+                "name": "groupsets_product_17",
+                "price": 45.3
+            },
+            {
+                "id": 257,
+                "name": "saddle posts_product_6",
+                "price": 155.31
+            },
+            {
+                "id": 76,
+                "name": "wheels_product_25",
+                "price": 74.61
+            },
+            {
+                "id": 266,
+                "name": "saddle posts_product_15",
+                "price": 51.23
+            }
+        ],
+        "total_price_without_discount": 689.99,
+        "total_amount_spent_with_discount": 689.99,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 91,
+        "customer_name": "Customer_90",
+        "products": [
+            {
+                "id": 98,
+                "name": "wheels_product_47",
+                "price": 141.72
+            },
+            {
+                "id": 285,
+                "name": "saddle posts_product_34",
+                "price": 119.83
+            },
+            {
+                "id": 405,
+                "name": "pedals_product_4",
+                "price": 124.28
+            },
+            {
+                "id": 2,
+                "name": "tyres_product_1",
+                "price": 178.04
+            },
+            {
+                "id": 371,
+                "name": "groupsets_product_20",
+                "price": 75.33
+            },
+            {
+                "id": 423,
+                "name": "pedals_product_22",
+                "price": 180.02
+            },
+            {
+                "id": 193,
+                "name": "handlebars_product_42",
+                "price": 94.19
+            },
+            {
+                "id": 420,
+                "name": "pedals_product_19",
+                "price": 136.23
+            },
+            {
+                "id": 151,
+                "name": "handlebars_product_0",
+                "price": 54.51
+            },
+            {
+                "id": 340,
+                "name": "saddles_product_39",
+                "price": 163.64
+            }
+        ],
+        "total_price_without_discount": 1267.79,
+        "total_amount_spent_with_discount": 1249.99,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 92,
+        "customer_name": "Customer_91",
+        "products": [
+            {
+                "id": 433,
+                "name": "pedals_product_32",
+                "price": 41.06
+            },
+            {
+                "id": 441,
+                "name": "pedals_product_40",
+                "price": 16.94
+            }
+        ],
+        "total_price_without_discount": 58.0,
+        "total_amount_spent_with_discount": 52.2,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 93,
+        "customer_name": "Customer_92",
+        "products": [
+            {
+                "id": 62,
+                "name": "wheels_product_11",
+                "price": 46.63
+            }
+        ],
+        "total_price_without_discount": 46.63,
+        "total_amount_spent_with_discount": 46.63,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 94,
+        "customer_name": "Customer_93",
+        "products": [
+            {
+                "id": 92,
+                "name": "wheels_product_41",
+                "price": 193.47
+            },
+            {
+                "id": 103,
+                "name": "frames_product_2",
+                "price": 20.6
+            },
+            {
+                "id": 403,
+                "name": "pedals_product_2",
+                "price": 113.08
+            },
+            {
+                "id": 271,
+                "name": "saddle posts_product_20",
+                "price": 34.19
+            },
+            {
+                "id": 280,
+                "name": "saddle posts_product_29",
+                "price": 177.46
+            },
+            {
+                "id": 356,
+                "name": "groupsets_product_5",
+                "price": 167.58
+            }
+        ],
+        "total_price_without_discount": 706.38,
+        "total_amount_spent_with_discount": 706.38,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 95,
+        "customer_name": "Customer_94",
+        "products": [
+            {
+                "id": 430,
+                "name": "pedals_product_29",
+                "price": 169.46
+            },
+            {
+                "id": 244,
+                "name": "stems_product_43",
+                "price": 181.4
+            },
+            {
+                "id": 277,
+                "name": "saddle posts_product_26",
+                "price": 135.71
+            },
+            {
+                "id": 25,
+                "name": "tyres_product_24",
+                "price": 65.82
+            },
+            {
+                "id": 307,
+                "name": "saddles_product_6",
+                "price": 25.22
+            },
+            {
+                "id": 49,
+                "name": "tyres_product_48",
+                "price": 74.66
+            },
+            {
+                "id": 352,
+                "name": "groupsets_product_1",
+                "price": 95.45
+            },
+            {
+                "id": 5,
+                "name": "tyres_product_4",
+                "price": 44.36
+            }
+        ],
+        "total_price_without_discount": 792.08,
+        "total_amount_spent_with_discount": 773.6,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 96,
+        "customer_name": "Customer_95",
+        "products": [
+            {
+                "id": 446,
+                "name": "pedals_product_45",
+                "price": 98.02
+            }
+        ],
+        "total_price_without_discount": 98.02,
+        "total_amount_spent_with_discount": 98.02,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 97,
+        "customer_name": "Customer_96",
+        "products": [
+            {
+                "id": 42,
+                "name": "tyres_product_41",
+                "price": 143.42
+            },
+            {
+                "id": 48,
+                "name": "tyres_product_47",
+                "price": 162.12
+            },
+            {
+                "id": 164,
+                "name": "handlebars_product_13",
+                "price": 138.89
+            },
+            {
+                "id": 224,
+                "name": "stems_product_23",
+                "price": 64.81
+            },
+            {
+                "id": 412,
+                "name": "pedals_product_11",
+                "price": 182.03
+            },
+            {
+                "id": 199,
+                "name": "handlebars_product_48",
+                "price": 33.44
+            }
+        ],
+        "total_price_without_discount": 724.71,
+        "total_amount_spent_with_discount": 694.16,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 98,
+        "customer_name": "Customer_97",
+        "products": [
+            {
+                "id": 55,
+                "name": "wheels_product_4",
+                "price": 161.02
+            },
+            {
+                "id": 375,
+                "name": "groupsets_product_24",
+                "price": 102.14
+            },
+            {
+                "id": 28,
+                "name": "tyres_product_27",
+                "price": 106.69
+            },
+            {
+                "id": 117,
+                "name": "frames_product_16",
+                "price": 51.73
+            },
+            {
+                "id": 295,
+                "name": "saddle posts_product_44",
+                "price": 154.54
+            }
+        ],
+        "total_price_without_discount": 576.12,
+        "total_amount_spent_with_discount": 565.45,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 99,
+        "customer_name": "Customer_98",
+        "products": [
+            {
+                "id": 122,
+                "name": "frames_product_21",
+                "price": 36.77
+            },
+            {
+                "id": 292,
+                "name": "saddle posts_product_41",
+                "price": 144.66
+            },
+            {
+                "id": 392,
+                "name": "groupsets_product_41",
+                "price": 155.72
+            },
+            {
+                "id": 375,
+                "name": "groupsets_product_24",
+                "price": 102.14
+            },
+            {
+                "id": 160,
+                "name": "handlebars_product_9",
+                "price": 115.5
+            }
+        ],
+        "total_price_without_discount": 554.79,
+        "total_amount_spent_with_discount": 554.79,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 100,
+        "customer_name": "Customer_99",
+        "products": [
+            {
+                "id": 76,
+                "name": "wheels_product_25",
+                "price": 74.61
+            },
+            {
+                "id": 183,
+                "name": "handlebars_product_32",
+                "price": 99.67
+            },
+            {
+                "id": 142,
+                "name": "frames_product_41",
+                "price": 16.49
+            }
+        ],
+        "total_price_without_discount": 190.77,
+        "total_amount_spent_with_discount": 190.77,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 101,
+        "customer_name": "Customer_100",
+        "products": [
+            {
+                "id": 35,
+                "name": "tyres_product_34",
+                "price": 74.49
+            },
+            {
+                "id": 219,
+                "name": "stems_product_18",
+                "price": 163.04
+            },
+            {
+                "id": 297,
+                "name": "saddle posts_product_46",
+                "price": 103.03
+            },
+            {
+                "id": 230,
+                "name": "stems_product_29",
+                "price": 122.54
+            }
+        ],
+        "total_price_without_discount": 463.1,
+        "total_amount_spent_with_discount": 410.09,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 102,
+        "customer_name": "Customer_101",
+        "products": [
+            {
+                "id": 116,
+                "name": "frames_product_15",
+                "price": 111.81
+            },
+            {
+                "id": 215,
+                "name": "stems_product_14",
+                "price": 21.24
+            },
+            {
+                "id": 77,
+                "name": "wheels_product_26",
+                "price": 43.76
+            },
+            {
+                "id": 234,
+                "name": "stems_product_33",
+                "price": 49.41
+            },
+            {
+                "id": 145,
+                "name": "frames_product_44",
+                "price": 47.05
+            }
+        ],
+        "total_price_without_discount": 273.27,
+        "total_amount_spent_with_discount": 245.94,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 103,
+        "customer_name": "Customer_102",
+        "products": [
+            {
+                "id": 289,
+                "name": "saddle posts_product_38",
+                "price": 187.12
+            },
+            {
+                "id": 262,
+                "name": "saddle posts_product_11",
+                "price": 153.57
+            }
+        ],
+        "total_price_without_discount": 340.69,
+        "total_amount_spent_with_discount": 340.69,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 104,
+        "customer_name": "Customer_103",
+        "products": [
+            {
+                "id": 17,
+                "name": "tyres_product_16",
+                "price": 43.89
+            },
+            {
+                "id": 367,
+                "name": "groupsets_product_16",
+                "price": 62.14
+            },
+            {
+                "id": 21,
+                "name": "tyres_product_20",
+                "price": 199.06
+            },
+            {
+                "id": 232,
+                "name": "stems_product_31",
+                "price": 119.07
+            },
+            {
+                "id": 234,
+                "name": "stems_product_33",
+                "price": 49.41
+            },
+            {
+                "id": 88,
+                "name": "wheels_product_37",
+                "price": 144.92
+            },
+            {
+                "id": 126,
+                "name": "frames_product_25",
+                "price": 18.72
+            },
+            {
+                "id": 362,
+                "name": "groupsets_product_11",
+                "price": 13.75
+            }
+        ],
+        "total_price_without_discount": 650.96,
+        "total_amount_spent_with_discount": 626.67,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 105,
+        "customer_name": "Customer_104",
+        "products": [
+            {
+                "id": 33,
+                "name": "tyres_product_32",
+                "price": 50.73
+            },
+            {
+                "id": 258,
+                "name": "saddle posts_product_7",
+                "price": 14.71
+            },
+            {
+                "id": 101,
+                "name": "frames_product_0",
+                "price": 147.33
+            }
+        ],
+        "total_price_without_discount": 212.77,
+        "total_amount_spent_with_discount": 186.93,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 106,
+        "customer_name": "Customer_105",
+        "products": [
+            {
+                "id": 195,
+                "name": "handlebars_product_44",
+                "price": 20.27
+            },
+            {
+                "id": 9,
+                "name": "tyres_product_8",
+                "price": 19.97
+            },
+            {
+                "id": 61,
+                "name": "wheels_product_10",
+                "price": 140.54
+            },
+            {
+                "id": 430,
+                "name": "pedals_product_29",
+                "price": 169.46
+            },
+            {
+                "id": 112,
+                "name": "frames_product_11",
+                "price": 182.72
+            },
+            {
+                "id": 416,
+                "name": "pedals_product_15",
+                "price": 146.08
+            },
+            {
+                "id": 274,
+                "name": "saddle posts_product_23",
+                "price": 130.0
+            },
+            {
+                "id": 44,
+                "name": "tyres_product_43",
+                "price": 17.27
+            },
+            {
+                "id": 336,
+                "name": "saddles_product_35",
+                "price": 26.02
+            },
+            {
+                "id": 186,
+                "name": "handlebars_product_35",
+                "price": 150.39
+            }
+        ],
+        "total_price_without_discount": 1002.72,
+        "total_amount_spent_with_discount": 999.0,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 107,
+        "customer_name": "Customer_106",
+        "products": [
+            {
+                "id": 235,
+                "name": "stems_product_34",
+                "price": 159.36
+            },
+            {
+                "id": 114,
+                "name": "frames_product_13",
+                "price": 130.4
+            },
+            {
+                "id": 115,
+                "name": "frames_product_14",
+                "price": 26.01
+            },
+            {
+                "id": 279,
+                "name": "saddle posts_product_28",
+                "price": 146.18
+            },
+            {
+                "id": 288,
+                "name": "saddle posts_product_37",
+                "price": 13.64
+            }
+        ],
+        "total_price_without_discount": 475.59,
+        "total_amount_spent_with_discount": 428.03,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 108,
+        "customer_name": "Customer_107",
+        "products": [
+            {
+                "id": 17,
+                "name": "tyres_product_16",
+                "price": 43.89
+            },
+            {
+                "id": 36,
+                "name": "tyres_product_35",
+                "price": 82.11
+            },
+            {
+                "id": 445,
+                "name": "pedals_product_44",
+                "price": 27.18
+            },
+            {
+                "id": 72,
+                "name": "wheels_product_21",
+                "price": 78.89
+            }
+        ],
+        "total_price_without_discount": 232.07,
+        "total_amount_spent_with_discount": 197.52,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 109,
+        "customer_name": "Customer_108",
+        "products": [
+            {
+                "id": 286,
+                "name": "saddle posts_product_35",
+                "price": 177.14
+            },
+            {
+                "id": 259,
+                "name": "saddle posts_product_8",
+                "price": 157.34
+            },
+            {
+                "id": 218,
+                "name": "stems_product_17",
+                "price": 72.64
+            },
+            {
+                "id": 356,
+                "name": "groupsets_product_5",
+                "price": 167.58
+            },
+            {
+                "id": 75,
+                "name": "wheels_product_24",
+                "price": 13.56
+            }
+        ],
+        "total_price_without_discount": 588.26,
+        "total_amount_spent_with_discount": 588.26,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 110,
+        "customer_name": "Customer_109",
+        "products": [
+            {
+                "id": 298,
+                "name": "saddle posts_product_47",
+                "price": 178.06
+            },
+            {
+                "id": 286,
+                "name": "saddle posts_product_35",
+                "price": 177.14
+            }
+        ],
+        "total_price_without_discount": 355.2,
+        "total_amount_spent_with_discount": 319.68,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 111,
+        "customer_name": "Customer_110",
+        "products": [
+            {
+                "id": 183,
+                "name": "handlebars_product_32",
+                "price": 99.67
+            },
+            {
+                "id": 132,
+                "name": "frames_product_31",
+                "price": 71.53
+            },
+            {
+                "id": 331,
+                "name": "saddles_product_30",
+                "price": 113.17
+            },
+            {
+                "id": 113,
+                "name": "frames_product_12",
+                "price": 162.1
+            },
+            {
+                "id": 72,
+                "name": "wheels_product_21",
+                "price": 78.89
+            },
+            {
+                "id": 322,
+                "name": "saddles_product_21",
+                "price": 129.5
+            }
+        ],
+        "total_price_without_discount": 654.86,
+        "total_amount_spent_with_discount": 589.37,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 112,
+        "customer_name": "Customer_111",
+        "products": [
+            {
+                "id": 8,
+                "name": "tyres_product_7",
+                "price": 179.17
+            },
+            {
+                "id": 337,
+                "name": "saddles_product_36",
+                "price": 15.16
+            },
+            {
+                "id": 137,
+                "name": "frames_product_36",
+                "price": 85.97
+            },
+            {
+                "id": 330,
+                "name": "saddles_product_29",
+                "price": 64.77
+            },
+            {
+                "id": 82,
+                "name": "wheels_product_31",
+                "price": 34.96
+            }
+        ],
+        "total_price_without_discount": 380.03,
+        "total_amount_spent_with_discount": 325.9,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 113,
+        "customer_name": "Customer_112",
+        "products": [
+            {
+                "id": 111,
+                "name": "frames_product_10",
+                "price": 63.82
+            },
+            {
+                "id": 214,
+                "name": "stems_product_13",
+                "price": 37.62
+            },
+            {
+                "id": 84,
+                "name": "wheels_product_33",
+                "price": 83.93
+            },
+            {
+                "id": 444,
+                "name": "pedals_product_43",
+                "price": 64.83
+            },
+            {
+                "id": 267,
+                "name": "saddle posts_product_16",
+                "price": 53.59
+            },
+            {
+                "id": 293,
+                "name": "saddle posts_product_42",
+                "price": 194.37
+            },
+            {
+                "id": 360,
+                "name": "groupsets_product_9",
+                "price": 138.93
+            },
+            {
+                "id": 329,
+                "name": "saddles_product_28",
+                "price": 114.59
+            },
+            {
+                "id": 191,
+                "name": "handlebars_product_40",
+                "price": 128.3
+            },
+            {
+                "id": 420,
+                "name": "pedals_product_19",
+                "price": 136.23
+            }
+        ],
+        "total_price_without_discount": 1016.21,
+        "total_amount_spent_with_discount": 1016.21,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 114,
+        "customer_name": "Customer_113",
+        "products": [
+            {
+                "id": 69,
+                "name": "wheels_product_18",
+                "price": 163.67
+            }
+        ],
+        "total_price_without_discount": 163.67,
+        "total_amount_spent_with_discount": 147.3,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 115,
+        "customer_name": "Customer_114",
+        "products": [
+            {
+                "id": 5,
+                "name": "tyres_product_4",
+                "price": 44.36
+            },
+            {
+                "id": 291,
+                "name": "saddle posts_product_40",
+                "price": 51.84
+            }
+        ],
+        "total_price_without_discount": 96.2,
+        "total_amount_spent_with_discount": 82.59,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 116,
+        "customer_name": "Customer_115",
+        "products": [
+            {
+                "id": 50,
+                "name": "tyres_product_49",
+                "price": 159.37
+            },
+            {
+                "id": 397,
+                "name": "groupsets_product_46",
+                "price": 138.78
+            },
+            {
+                "id": 313,
+                "name": "saddles_product_12",
+                "price": 196.99
+            },
+            {
+                "id": 216,
+                "name": "stems_product_15",
+                "price": 137.79
+            },
+            {
+                "id": 239,
+                "name": "stems_product_38",
+                "price": 68.98
+            },
+            {
+                "id": 358,
+                "name": "groupsets_product_7",
+                "price": 197.2
+            },
+            {
+                "id": 450,
+                "name": "pedals_product_49",
+                "price": 139.71
+            }
+        ],
+        "total_price_without_discount": 1038.82,
+        "total_amount_spent_with_discount": 920.59,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 117,
+        "customer_name": "Customer_116",
+        "products": [
+            {
+                "id": 82,
+                "name": "wheels_product_31",
+                "price": 34.96
+            },
+            {
+                "id": 375,
+                "name": "groupsets_product_24",
+                "price": 102.14
+            }
+        ],
+        "total_price_without_discount": 137.1,
+        "total_amount_spent_with_discount": 123.39,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 118,
+        "customer_name": "Customer_117",
+        "products": [
+            {
+                "id": 220,
+                "name": "stems_product_19",
+                "price": 132.53
+            }
+        ],
+        "total_price_without_discount": 132.53,
+        "total_amount_spent_with_discount": 132.53,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 119,
+        "customer_name": "Customer_118",
+        "products": [
+            {
+                "id": 155,
+                "name": "handlebars_product_4",
+                "price": 74.59
+            },
+            {
+                "id": 396,
+                "name": "groupsets_product_45",
+                "price": 121.8
+            },
+            {
+                "id": 76,
+                "name": "wheels_product_25",
+                "price": 74.61
+            },
+            {
+                "id": 333,
+                "name": "saddles_product_32",
+                "price": 20.53
+            },
+            {
+                "id": 46,
+                "name": "tyres_product_45",
+                "price": 35.95
+            },
+            {
+                "id": 157,
+                "name": "handlebars_product_6",
+                "price": 93.37
+            },
+            {
+                "id": 17,
+                "name": "tyres_product_16",
+                "price": 43.89
+            },
+            {
+                "id": 161,
+                "name": "handlebars_product_10",
+                "price": 38.86
+            },
+            {
+                "id": 250,
+                "name": "stems_product_49",
+                "price": 151.25
+            },
+            {
+                "id": 282,
+                "name": "saddle posts_product_31",
+                "price": 198.13
+            }
+        ],
+        "total_price_without_discount": 852.98,
+        "total_amount_spent_with_discount": 760.5,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 120,
+        "customer_name": "Customer_119",
+        "products": [
+            {
+                "id": 36,
+                "name": "tyres_product_35",
+                "price": 82.11
+            }
+        ],
+        "total_price_without_discount": 82.11,
+        "total_amount_spent_with_discount": 66.51,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 121,
+        "customer_name": "Customer_120",
+        "products": [
+            {
+                "id": 349,
+                "name": "saddles_product_48",
+                "price": 20.25
+            },
+            {
+                "id": 408,
+                "name": "pedals_product_7",
+                "price": 161.62
+            },
+            {
+                "id": 357,
+                "name": "groupsets_product_6",
+                "price": 107.31
+            },
+            {
+                "id": 220,
+                "name": "stems_product_19",
+                "price": 132.53
+            }
+        ],
+        "total_price_without_discount": 421.71,
+        "total_amount_spent_with_discount": 421.71,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 122,
+        "customer_name": "Customer_121",
+        "products": [
+            {
+                "id": 47,
+                "name": "tyres_product_46",
+                "price": 51.61
+            },
+            {
+                "id": 306,
+                "name": "saddles_product_5",
+                "price": 152.4
+            },
+            {
+                "id": 196,
+                "name": "handlebars_product_45",
+                "price": 88.06
+            },
+            {
+                "id": 73,
+                "name": "wheels_product_22",
+                "price": 125.89
+            },
+            {
+                "id": 418,
+                "name": "pedals_product_17",
+                "price": 22.43
+            },
+            {
+                "id": 153,
+                "name": "handlebars_product_2",
+                "price": 14.71
+            },
+            {
+                "id": 136,
+                "name": "frames_product_35",
+                "price": 75.42
+            },
+            {
+                "id": 450,
+                "name": "pedals_product_49",
+                "price": 139.71
+            }
+        ],
+        "total_price_without_discount": 670.23,
+        "total_amount_spent_with_discount": 665.07,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 123,
+        "customer_name": "Customer_122",
+        "products": [
+            {
+                "id": 396,
+                "name": "groupsets_product_45",
+                "price": 121.8
+            }
+        ],
+        "total_price_without_discount": 121.8,
+        "total_amount_spent_with_discount": 109.62,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 124,
+        "customer_name": "Customer_123",
+        "products": [
+            {
+                "id": 261,
+                "name": "saddle posts_product_10",
+                "price": 182.54
+            },
+            {
+                "id": 404,
+                "name": "pedals_product_3",
+                "price": 64.52
+            },
+            {
+                "id": 270,
+                "name": "saddle posts_product_19",
+                "price": 165.94
+            },
+            {
+                "id": 87,
+                "name": "wheels_product_36",
+                "price": 142.04
+            }
+        ],
+        "total_price_without_discount": 555.04,
+        "total_amount_spent_with_discount": 499.54,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 125,
+        "customer_name": "Customer_124",
+        "products": [
+            {
+                "id": 367,
+                "name": "groupsets_product_16",
+                "price": 62.14
+            },
+            {
+                "id": 103,
+                "name": "frames_product_2",
+                "price": 20.6
+            },
+            {
+                "id": 9,
+                "name": "tyres_product_8",
+                "price": 19.97
+            },
+            {
+                "id": 303,
+                "name": "saddles_product_2",
+                "price": 71.15
+            },
+            {
+                "id": 254,
+                "name": "saddle posts_product_3",
+                "price": 12.46
+            },
+            {
+                "id": 385,
+                "name": "groupsets_product_34",
+                "price": 76.17
+            },
+            {
+                "id": 387,
+                "name": "groupsets_product_36",
+                "price": 172.23
+            },
+            {
+                "id": 156,
+                "name": "handlebars_product_5",
+                "price": 118.66
+            },
+            {
+                "id": 224,
+                "name": "stems_product_23",
+                "price": 64.81
+            }
+        ],
+        "total_price_without_discount": 618.19,
+        "total_amount_spent_with_discount": 554.57,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 126,
+        "customer_name": "Customer_125",
+        "products": [
+            {
+                "id": 323,
+                "name": "saddles_product_22",
+                "price": 124.59
+            }
+        ],
+        "total_price_without_discount": 124.59,
+        "total_amount_spent_with_discount": 112.13,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 127,
+        "customer_name": "Customer_126",
+        "products": [
+            {
+                "id": 71,
+                "name": "wheels_product_20",
+                "price": 129.87
+            },
+            {
+                "id": 305,
+                "name": "saddles_product_4",
+                "price": 65.45
+            },
+            {
+                "id": 360,
+                "name": "groupsets_product_9",
+                "price": 138.93
+            },
+            {
+                "id": 277,
+                "name": "saddle posts_product_26",
+                "price": 135.71
+            },
+            {
+                "id": 383,
+                "name": "groupsets_product_32",
+                "price": 193.92
+            },
+            {
+                "id": 422,
+                "name": "pedals_product_21",
+                "price": 170.33
+            },
+            {
+                "id": 419,
+                "name": "pedals_product_18",
+                "price": 113.91
+            },
+            {
+                "id": 206,
+                "name": "stems_product_5",
+                "price": 178.56
+            },
+            {
+                "id": 343,
+                "name": "saddles_product_42",
+                "price": 25.48
+            }
+        ],
+        "total_price_without_discount": 1152.16,
+        "total_amount_spent_with_discount": 1036.94,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 128,
+        "customer_name": "Customer_127",
+        "products": [
+            {
+                "id": 145,
+                "name": "frames_product_44",
+                "price": 47.05
+            },
+            {
+                "id": 153,
+                "name": "handlebars_product_2",
+                "price": 14.71
+            },
+            {
+                "id": 187,
+                "name": "handlebars_product_36",
+                "price": 144.35
+            },
+            {
+                "id": 309,
+                "name": "saddles_product_8",
+                "price": 139.45
+            },
+            {
+                "id": 254,
+                "name": "saddle posts_product_3",
+                "price": 12.46
+            }
+        ],
+        "total_price_without_discount": 358.02,
+        "total_amount_spent_with_discount": 322.22,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 129,
+        "customer_name": "Customer_128",
+        "products": [
+            {
+                "id": 95,
+                "name": "wheels_product_44",
+                "price": 184.75
+            }
+        ],
+        "total_price_without_discount": 184.75,
+        "total_amount_spent_with_discount": 184.75,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 130,
+        "customer_name": "Customer_129",
+        "products": [
+            {
+                "id": 156,
+                "name": "handlebars_product_5",
+                "price": 118.66
+            },
+            {
+                "id": 41,
+                "name": "tyres_product_40",
+                "price": 158.87
+            },
+            {
+                "id": 62,
+                "name": "wheels_product_11",
+                "price": 46.63
+            },
+            {
+                "id": 338,
+                "name": "saddles_product_37",
+                "price": 19.63
+            },
+            {
+                "id": 28,
+                "name": "tyres_product_27",
+                "price": 106.69
+            }
+        ],
+        "total_price_without_discount": 450.48,
+        "total_amount_spent_with_discount": 423.92,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 131,
+        "customer_name": "Customer_130",
+        "products": [
+            {
+                "id": 32,
+                "name": "tyres_product_31",
+                "price": 171.47
+            },
+            {
+                "id": 156,
+                "name": "handlebars_product_5",
+                "price": 118.66
+            },
+            {
+                "id": 336,
+                "name": "saddles_product_35",
+                "price": 26.02
+            },
+            {
+                "id": 324,
+                "name": "saddles_product_23",
+                "price": 127.84
+            },
+            {
+                "id": 202,
+                "name": "stems_product_1",
+                "price": 63.77
+            },
+            {
+                "id": 334,
+                "name": "saddles_product_33",
+                "price": 188.64
+            },
+            {
+                "id": 151,
+                "name": "handlebars_product_0",
+                "price": 54.51
+            },
+            {
+                "id": 394,
+                "name": "groupsets_product_43",
+                "price": 63.6
+            },
+            {
+                "id": 433,
+                "name": "pedals_product_32",
+                "price": 41.06
+            }
+        ],
+        "total_price_without_discount": 855.57,
+        "total_amount_spent_with_discount": 838.42,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 132,
+        "customer_name": "Customer_131",
+        "products": [
+            {
+                "id": 367,
+                "name": "groupsets_product_16",
+                "price": 62.14
+            },
+            {
+                "id": 283,
+                "name": "saddle posts_product_32",
+                "price": 62.19
+            },
+            {
+                "id": 447,
+                "name": "pedals_product_46",
+                "price": 22.82
+            },
+            {
+                "id": 213,
+                "name": "stems_product_12",
+                "price": 185.51
+            },
+            {
+                "id": 291,
+                "name": "saddle posts_product_40",
+                "price": 51.84
+            }
+        ],
+        "total_price_without_discount": 384.5,
+        "total_amount_spent_with_discount": 384.5,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 133,
+        "customer_name": "Customer_132",
+        "products": [
+            {
+                "id": 248,
+                "name": "stems_product_47",
+                "price": 144.68
+            },
+            {
+                "id": 157,
+                "name": "handlebars_product_6",
+                "price": 93.37
+            },
+            {
+                "id": 15,
+                "name": "tyres_product_14",
+                "price": 96.53
+            },
+            {
+                "id": 308,
+                "name": "saddles_product_7",
+                "price": 75.02
+            },
+            {
+                "id": 427,
+                "name": "pedals_product_26",
+                "price": 194.01
+            },
+            {
+                "id": 4,
+                "name": "tyres_product_3",
+                "price": 106.88
+            },
+            {
+                "id": 236,
+                "name": "stems_product_35",
+                "price": 73.55
+            },
+            {
+                "id": 391,
+                "name": "groupsets_product_40",
+                "price": 44.03
+            },
+            {
+                "id": 220,
+                "name": "stems_product_19",
+                "price": 132.53
+            }
+        ],
+        "total_price_without_discount": 960.6,
+        "total_amount_spent_with_discount": 846.23,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 134,
+        "customer_name": "Customer_133",
+        "products": [
+            {
+                "id": 77,
+                "name": "wheels_product_26",
+                "price": 43.76
+            },
+            {
+                "id": 167,
+                "name": "handlebars_product_16",
+                "price": 16.23
+            },
+            {
+                "id": 7,
+                "name": "tyres_product_6",
+                "price": 145.31
+            },
+            {
+                "id": 76,
+                "name": "wheels_product_25",
+                "price": 74.61
+            }
+        ],
+        "total_price_without_discount": 279.91,
+        "total_amount_spent_with_discount": 265.38,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 135,
+        "customer_name": "Customer_134",
+        "products": [
+            {
+                "id": 205,
+                "name": "stems_product_4",
+                "price": 128.17
+            },
+            {
+                "id": 89,
+                "name": "wheels_product_38",
+                "price": 125.85
+            },
+            {
+                "id": 26,
+                "name": "tyres_product_25",
+                "price": 51.91
+            }
+        ],
+        "total_price_without_discount": 305.93,
+        "total_amount_spent_with_discount": 300.74,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 136,
+        "customer_name": "Customer_135",
+        "products": [
+            {
+                "id": 24,
+                "name": "tyres_product_23",
+                "price": 43.46
+            },
+            {
+                "id": 403,
+                "name": "pedals_product_2",
+                "price": 113.08
+            },
+            {
+                "id": 297,
+                "name": "saddle posts_product_46",
+                "price": 103.03
+            },
+            {
+                "id": 101,
+                "name": "frames_product_0",
+                "price": 147.33
+            },
+            {
+                "id": 22,
+                "name": "tyres_product_21",
+                "price": 76.47
+            },
+            {
+                "id": 43,
+                "name": "tyres_product_42",
+                "price": 54.46
+            },
+            {
+                "id": 196,
+                "name": "handlebars_product_45",
+                "price": 88.06
+            },
+            {
+                "id": 181,
+                "name": "handlebars_product_30",
+                "price": 169.45
+            },
+            {
+                "id": 371,
+                "name": "groupsets_product_20",
+                "price": 75.33
+            },
+            {
+                "id": 52,
+                "name": "wheels_product_1",
+                "price": 126.73
+            }
+        ],
+        "total_price_without_discount": 997.4,
+        "total_amount_spent_with_discount": 881.96,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 137,
+        "customer_name": "Customer_136",
+        "products": [
+            {
+                "id": 356,
+                "name": "groupsets_product_5",
+                "price": 167.58
+            },
+            {
+                "id": 303,
+                "name": "saddles_product_2",
+                "price": 71.15
+            },
+            {
+                "id": 46,
+                "name": "tyres_product_45",
+                "price": 35.95
+            },
+            {
+                "id": 263,
+                "name": "saddle posts_product_12",
+                "price": 154.67
+            },
+            {
+                "id": 405,
+                "name": "pedals_product_4",
+                "price": 124.28
+            },
+            {
+                "id": 132,
+                "name": "frames_product_31",
+                "price": 71.53
+            },
+            {
+                "id": 326,
+                "name": "saddles_product_25",
+                "price": 58.83
+            },
+            {
+                "id": 142,
+                "name": "frames_product_41",
+                "price": 16.49
+            }
+        ],
+        "total_price_without_discount": 700.48,
+        "total_amount_spent_with_discount": 627.2,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 138,
+        "customer_name": "Customer_137",
+        "products": [
+            {
+                "id": 224,
+                "name": "stems_product_23",
+                "price": 64.81
+            },
+            {
+                "id": 150,
+                "name": "frames_product_49",
+                "price": 26.31
+            },
+            {
+                "id": 127,
+                "name": "frames_product_26",
+                "price": 16.96
+            },
+            {
+                "id": 436,
+                "name": "pedals_product_35",
+                "price": 53.15
+            },
+            {
+                "id": 105,
+                "name": "frames_product_4",
+                "price": 84.18
+            },
+            {
+                "id": 383,
+                "name": "groupsets_product_32",
+                "price": 193.92
+            },
+            {
+                "id": 414,
+                "name": "pedals_product_13",
+                "price": 104.05
+            },
+            {
+                "id": 106,
+                "name": "frames_product_5",
+                "price": 117.37
+            },
+            {
+                "id": 404,
+                "name": "pedals_product_3",
+                "price": 64.52
+            }
+        ],
+        "total_price_without_discount": 725.27,
+        "total_amount_spent_with_discount": 652.74,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 139,
+        "customer_name": "Customer_138",
+        "products": [
+            {
+                "id": 381,
+                "name": "groupsets_product_30",
+                "price": 98.14
+            },
+            {
+                "id": 6,
+                "name": "tyres_product_5",
+                "price": 139.4
+            },
+            {
+                "id": 441,
+                "name": "pedals_product_40",
+                "price": 16.94
+            },
+            {
+                "id": 254,
+                "name": "saddle posts_product_3",
+                "price": 12.46
+            },
+            {
+                "id": 72,
+                "name": "wheels_product_21",
+                "price": 78.89
+            }
+        ],
+        "total_price_without_discount": 345.83,
+        "total_amount_spent_with_discount": 298.7,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 140,
+        "customer_name": "Customer_139",
+        "products": [
+            {
+                "id": 414,
+                "name": "pedals_product_13",
+                "price": 104.05
+            },
+            {
+                "id": 239,
+                "name": "stems_product_38",
+                "price": 68.98
+            },
+            {
+                "id": 418,
+                "name": "pedals_product_17",
+                "price": 22.43
+            },
+            {
+                "id": 314,
+                "name": "saddles_product_13",
+                "price": 170.62
+            },
+            {
+                "id": 345,
+                "name": "saddles_product_44",
+                "price": 86.75
+            }
+        ],
+        "total_price_without_discount": 452.83,
+        "total_amount_spent_with_discount": 452.83,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 141,
+        "customer_name": "Customer_140",
+        "products": [
+            {
+                "id": 413,
+                "name": "pedals_product_12",
+                "price": 134.46
+            },
+            {
+                "id": 225,
+                "name": "stems_product_24",
+                "price": 98.0
+            },
+            {
+                "id": 196,
+                "name": "handlebars_product_45",
+                "price": 88.06
+            },
+            {
+                "id": 90,
+                "name": "wheels_product_39",
+                "price": 184.92
+            },
+            {
+                "id": 130,
+                "name": "frames_product_29",
+                "price": 44.9
+            },
+            {
+                "id": 4,
+                "name": "tyres_product_3",
+                "price": 106.88
+            },
+            {
+                "id": 423,
+                "name": "pedals_product_22",
+                "price": 180.02
+            },
+            {
+                "id": 307,
+                "name": "saddles_product_6",
+                "price": 25.22
+            },
+            {
+                "id": 253,
+                "name": "saddle posts_product_2",
+                "price": 170.24
+            }
+        ],
+        "total_price_without_discount": 1032.7,
+        "total_amount_spent_with_discount": 1022.01,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 142,
+        "customer_name": "Customer_141",
+        "products": [
+            {
+                "id": 68,
+                "name": "wheels_product_17",
+                "price": 187.96
+            },
+            {
+                "id": 232,
+                "name": "stems_product_31",
+                "price": 119.07
+            },
+            {
+                "id": 394,
+                "name": "groupsets_product_43",
+                "price": 63.6
+            },
+            {
+                "id": 316,
+                "name": "saddles_product_15",
+                "price": 93.66
+            }
+        ],
+        "total_price_without_discount": 464.29,
+        "total_amount_spent_with_discount": 417.86,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 143,
+        "customer_name": "Customer_142",
+        "products": [
+            {
+                "id": 109,
+                "name": "frames_product_8",
+                "price": 101.7
+            },
+            {
+                "id": 280,
+                "name": "saddle posts_product_29",
+                "price": 177.46
+            },
+            {
+                "id": 301,
+                "name": "saddles_product_0",
+                "price": 60.86
+            },
+            {
+                "id": 426,
+                "name": "pedals_product_25",
+                "price": 135.08
+            },
+            {
+                "id": 6,
+                "name": "tyres_product_5",
+                "price": 139.4
+            },
+            {
+                "id": 258,
+                "name": "saddle posts_product_7",
+                "price": 14.71
+            }
+        ],
+        "total_price_without_discount": 629.21,
+        "total_amount_spent_with_discount": 615.27,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 144,
+        "customer_name": "Customer_143",
+        "products": [
+            {
+                "id": 352,
+                "name": "groupsets_product_1",
+                "price": 95.45
+            }
+        ],
+        "total_price_without_discount": 95.45,
+        "total_amount_spent_with_discount": 85.91,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 145,
+        "customer_name": "Customer_144",
+        "products": [
+            {
+                "id": 367,
+                "name": "groupsets_product_16",
+                "price": 62.14
+            }
+        ],
+        "total_price_without_discount": 62.14,
+        "total_amount_spent_with_discount": 62.14,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 146,
+        "customer_name": "Customer_145",
+        "products": [
+            {
+                "id": 245,
+                "name": "stems_product_44",
+                "price": 79.99
+            },
+            {
+                "id": 179,
+                "name": "handlebars_product_28",
+                "price": 65.94
+            },
+            {
+                "id": 447,
+                "name": "pedals_product_46",
+                "price": 22.82
+            },
+            {
+                "id": 268,
+                "name": "saddle posts_product_17",
+                "price": 76.06
+            },
+            {
+                "id": 360,
+                "name": "groupsets_product_9",
+                "price": 138.93
+            },
+            {
+                "id": 315,
+                "name": "saddles_product_14",
+                "price": 121.17
+            },
+            {
+                "id": 185,
+                "name": "handlebars_product_34",
+                "price": 163.63
+            },
+            {
+                "id": 32,
+                "name": "tyres_product_31",
+                "price": 171.47
+            },
+            {
+                "id": 251,
+                "name": "saddle posts_product_0",
+                "price": 66.22
+            },
+            {
+                "id": 23,
+                "name": "tyres_product_22",
+                "price": 140.56
+            }
+        ],
+        "total_price_without_discount": 1046.79,
+        "total_amount_spent_with_discount": 1015.59,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 147,
+        "customer_name": "Customer_146",
+        "products": [
+            {
+                "id": 122,
+                "name": "frames_product_21",
+                "price": 36.77
+            },
+            {
+                "id": 103,
+                "name": "frames_product_2",
+                "price": 20.6
+            },
+            {
+                "id": 286,
+                "name": "saddle posts_product_35",
+                "price": 177.14
+            }
+        ],
+        "total_price_without_discount": 234.51,
+        "total_amount_spent_with_discount": 211.06,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 148,
+        "customer_name": "Customer_147",
+        "products": [
+            {
+                "id": 1,
+                "name": "tyres_product_0",
+                "price": 81.71
+            }
+        ],
+        "total_price_without_discount": 81.71,
+        "total_amount_spent_with_discount": 73.54,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 149,
+        "customer_name": "Customer_148",
+        "products": [
+            {
+                "id": 443,
+                "name": "pedals_product_42",
+                "price": 67.72
+            },
+            {
+                "id": 356,
+                "name": "groupsets_product_5",
+                "price": 167.58
+            }
+        ],
+        "total_price_without_discount": 235.3,
+        "total_amount_spent_with_discount": 211.77,
+        "cashier_name": "John Doe"
+    },
+    {
+        "customer_id": 150,
+        "customer_name": "Customer_149",
+        "products": [
+            {
+                "id": 125,
+                "name": "frames_product_24",
+                "price": 91.65
+            },
+            {
+                "id": 240,
+                "name": "stems_product_39",
+                "price": 35.98
+            },
+            {
+                "id": 271,
+                "name": "saddle posts_product_20",
+                "price": 34.19
+            },
+            {
+                "id": 1,
+                "name": "tyres_product_0",
+                "price": 81.71
+            },
+            {
+                "id": 373,
+                "name": "groupsets_product_22",
+                "price": 107.71
+            },
+            {
+                "id": 340,
+                "name": "saddles_product_39",
+                "price": 163.64
+            },
+            {
+                "id": 57,
+                "name": "wheels_product_6",
+                "price": 151.57
+            },
+            {
+                "id": 443,
+                "name": "pedals_product_42",
+                "price": 67.72
+            },
+            {
+                "id": 407,
+                "name": "pedals_product_6",
+                "price": 122.2
+            }
+        ],
+        "total_price_without_discount": 856.37,
+        "total_amount_spent_with_discount": 763.38,
+        "cashier_name": "John Doe"
+    }
+]
