@@ -4,7 +4,6 @@ import time
 from collections import deque
 from multiprocessing import Process, JoinableQueue, current_process, cpu_count
 
-# Load products and customers from JSON
 with open('products.json', 'r') as f:
     products = json.load(f)
 
@@ -12,7 +11,6 @@ with open('customers.json', 'r') as f:
     customers = json.load(f)
 
 
-# Define Cashier Process
 class Cashier:
     def __init__(self, name):
         self.name = name
@@ -22,7 +20,7 @@ class Cashier:
         discount_amount = sum([self.apply_discount(product, discounts) for product in customer['products']])
         discounted_price = total_price - discount_amount
         if customer['has_loyalty_card']:
-            discounted_price *= 0.9  # 10% loyalty card discount
+            discounted_price *= 0.9
         return total_price, discounted_price
 
     def apply_discount(self, product, discounts):
@@ -56,7 +54,7 @@ def cashier_process(customer_queue, discounts, report_queue, cashier_id):
         customer_queue.task_done()
         count += 1
         if count >= 50:
-            time.sleep(1)  # Cashier takes a short break
+            time.sleep(1)
             count = 0
 
 
@@ -71,8 +69,8 @@ discounts = [
 def customer_shopping(customer_queue, customers, shopping_time=0.5):
     for customer in customers:
         customer_queue.put(customer)
-        time.sleep(random.uniform(0.05, shopping_time))  # Simulate shopping time
-    for _ in range(cpu_count()):  # Send stop signal to cashiers
+        time.sleep(random.uniform(0.05, shopping_time))
+    for _ in range(cpu_count()):
         customer_queue.put(None)
 
 
@@ -94,7 +92,6 @@ if __name__ == '__main__':
     while not report_queue.empty():
         daily_report.append(report_queue.get())
 
-    # Save daily report to JSON
     with open('daily_report.json', 'w') as f:
         json.dump(daily_report, f, indent=4)
 

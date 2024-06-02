@@ -3,7 +3,7 @@ import json
 from collections import namedtuple, deque, defaultdict
 from decimal import Decimal
 
-# Step 1: Product Generation
+
 categories = ['tyres', 'wheels', 'frames', 'handlebars', 'stems', 'saddle posts', 'saddles', 'groupsets', 'pedals']
 products = []
 
@@ -14,11 +14,9 @@ for category in categories:
         product = Product(name=f"{category}_product_{i}", price=round(random.uniform(10, 200), 2), category=category)
         products.append(product)
 
-# Save products to JSON
 with open('products.json', 'w') as f:
     json.dump([product._asdict() for product in products], f, indent=4)
 
-# Step 2: Customer Generation
 Customer = namedtuple('Customer', ['name', 'products', 'has_loyalty_card'])
 
 customers = []
@@ -31,7 +29,6 @@ for i in range(150):
     customers.append(customer)
 
 
-# Step 3: Cashier Functionality
 class Cashier:
     def __init__(self, name):
         self.name = name
@@ -53,7 +50,6 @@ class Cashier:
         return 0
 
 
-# Step 4: Queue Management
 queue = deque(customers)
 
 # Step 5: Discounts
@@ -63,7 +59,6 @@ discounts = [
     # Add more discounts as needed
 ]
 
-# Step 6: Store Simulation
 cashier = Cashier(name="John Doe")
 daily_report = []
 
@@ -79,7 +74,6 @@ while queue:
     }
     daily_report.append(customer_report)
 
-# Save daily report to JSON
 with open('daily_report.json', 'w') as f:
     json.dump(daily_report, f, indent=4)
 

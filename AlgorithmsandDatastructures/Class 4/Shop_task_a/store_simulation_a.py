@@ -1,7 +1,6 @@
 import json
 from collections import deque
 
-# Load products and customers from JSON
 with open('products.json', 'r') as f:
     products = json.load(f)
 
@@ -9,7 +8,6 @@ with open('customers.json', 'r') as f:
     customers = json.load(f)
 
 
-# Cashier Functionality
 class Cashier:
     def __init__(self, name):
         self.name = name
@@ -19,7 +17,7 @@ class Cashier:
         discount_amount = sum([self.apply_discount(product, discounts) for product in customer['products']])
         discounted_price = total_price - discount_amount
         if customer['has_loyalty_card']:
-            discounted_price *= 0.9  # 10% loyalty card discount
+            discounted_price *= 0.9
         return total_price, discounted_price
 
     def apply_discount(self, product, discounts):
@@ -31,17 +29,14 @@ class Cashier:
         return 0
 
 
-# Discounts
 discounts = [
     {'type': 'category', 'value': 'tyres', 'discount': 0.1},
     {'type': 'product', 'value': 'frames_product_1', 'discount': 0.2},
     # Add more discounts as needed
 ]
 
-# Queue Management
 queue = deque(customers)
 
-# Store Simulation
 cashier = Cashier(name="John Doe")
 daily_report = []
 
@@ -59,7 +54,6 @@ while queue:
     }
     daily_report.append(customer_report)
 
-# Save daily report to JSON
 with open('daily_report.json', 'w') as f:
     json.dump(daily_report, f, indent=4)
 
