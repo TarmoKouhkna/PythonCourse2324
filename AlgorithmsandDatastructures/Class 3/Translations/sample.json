@@ -1,0 +1,12 @@
+{
+  "name": "TBT:Sample Name",
+  "description": "A sample description",
+  "details": {
+    "price": "TBT:100",
+    "currency": "USD"
+  },
+  "features": [
+    "Feature 1",
+    "TBT:Feature 2"
+  ]
+}

@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Tarmo",
+        "children": [
+            {
+                "name": "Liisi",
+                "children": []
+            },
+            {
+                "name": "Anna",
+                "children": []
+            }
+        ]
+    },
+    {
+        "name": "Speli",
+        "children": [
+            {
+                "name": "Liisi",
+                "children": []
+            },
+            {
+                "name": "Anna",
+                "children": []
+            }
+        ]
+    }
+]
